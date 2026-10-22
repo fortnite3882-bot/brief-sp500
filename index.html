@@ -1,0 +1,78 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Brief S&P 500 – l'essentiel du marché chaque matin</title>
+<meta name="description" content="Ce qui fait bouger le S&P 500, résumé chaque jour en français simple.">
+<meta name="theme-color" content="#f4f6f9" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0b1118" media="(prefers-color-scheme: dark)">
+<meta property="og:title" content="Brief S&P 500"><meta property="og:description" content="L'essentiel du marché américain, chaque matin, en français simple.">
+<link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest">
+<style>
+:root{color-scheme:light dark;--bg:#f4f6f9;--sf:#fff;--ink:#0f1b2d;--soft:#566476;--line:#dde3ea;--ac:#0b7285;--up:#12805c;--dn:#c0352b}
+@media(prefers-color-scheme:dark){:root{--bg:#0b1118;--sf:#131c26;--ink:#e9eef4;--soft:#93a2b3;--line:#233140;--ac:#5cc2d6;--up:#46c28e;--dn:#ff8078}}
+[hidden]{display:none!important}*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%}
+.w{max-width:960px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line);background:var(--sf);padding-top:env(safe-area-inset-top)}
+header .w{display:flex;align-items:center;justify-content:space-between;gap:12px;height:56px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;letter-spacing:-.01em}
+.brand svg{width:28px;height:28px}
+#fresh{font-size:13px;color:var(--soft);display:flex;align-items:center;gap:6px}
+#fresh::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--up)}#fresh.old::before{background:var(--dn)}
+.hero{padding:40px 0 28px}
+#day{margin:0 0 10px;color:var(--ac);font-weight:600;font-size:15px;text-transform:capitalize}
+h1{font:600 clamp(30px,6.5vw,52px)/1.1 Georgia,"Iowan Old Style","Times New Roman",serif;letter-spacing:-.015em;margin:0 0 16px;max-width:20ch}
+#brief{font-size:clamp(17px,2.4vw,20px);color:var(--soft);max-width:60ch;margin:0}
+#strip{background:var(--sf);border-block:1px solid var(--line)}
+#q{display:flex;overflow-x:auto;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch}
+.tile{flex:1 0 150px;padding:16px 20px;border-right:1px solid var(--line);scroll-snap-align:start;display:flex;flex-direction:column}
+.tile:last-child{border-right:0}.n{font-size:13px;color:var(--soft)}
+.v{font-size:22px;font-variant-numeric:tabular-nums;letter-spacing:-.01em}
+.ch{font-size:14px;font-weight:600;font-variant-numeric:tabular-nums}.up{color:var(--up)}.dn{color:var(--dn)}
+.grid{display:grid;gap:8px 48px;padding:36px 0 8px}
+@media(min-width:860px){.grid{grid-template-columns:1.6fr 1fr}}
+h2{font-size:20px;margin:0 0 16px;letter-spacing:-.01em}
+.cause{border-left:3px solid var(--ac);padding:2px 0 2px 16px;margin-bottom:22px}
+.cause h3{font-size:17px;margin:0 0 4px}.cause p{margin:0;color:var(--soft)}
+#watch{list-style:none;margin:0 0 24px;padding:0}
+#watch li{padding:12px 0 12px 22px;border-bottom:1px solid var(--line);position:relative}
+#watch li::before{content:"";position:absolute;left:2px;top:21px;width:8px;height:8px;border:2px solid var(--ac);border-radius:50%}
+details{margin:24px 0;background:var(--sf);border:1px solid var(--line);border-radius:12px}
+summary{cursor:pointer;padding:16px 20px;font-weight:600;list-style:none;display:flex;justify-content:space-between}
+summary::after{content:"+";color:var(--ac);font-size:20px;line-height:1}details[open] summary::after{content:"−"}
+#news{margin:0;padding:0 20px 12px;list-style:none}
+#news li{padding:10px 0;border-top:1px solid var(--line)}#news a{color:var(--ink);text-decoration:none}#news a:hover{color:var(--ac);text-decoration:underline}
+#news small{display:block;color:var(--soft);font-size:13px}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+footer{padding:8px 0 calc(40px + env(safe-area-inset-bottom));color:var(--soft);font-size:13px}footer p{max-width:70ch;margin:0 0 8px}
+</style></head><body>
+<header><div class="w"><div class="brand"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0b7285"/><path d="M12 44l14-14 9 9 17-19" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>Brief S&amp;P 500</div><span id="fresh"></span></div></header>
+<main>
+<section class="w hero"><p id="day"></p><h1 id="title">Chargement…</h1><p id="brief"></p></section>
+<section id="strip" aria-label="Cours du jour"><div class="w" style="padding:0"><div id="q"></div></div></section>
+<div class="w"><div class="grid">
+<section id="sec1"><h2>Ce qui fait bouger le marché</h2><div id="causes"></div></section>
+<section id="sec2"><h2>À surveiller</h2><ul id="watch"></ul></section></div>
+<details id="news"><summary><span>Les titres de la journée</span><span id="count"></span></summary><ul id="list"></ul></details>
+<footer><p>Sources : CNBC, Yahoo Finance, MarketWatch, BBC, Al Jazeera, OilPrice, Réserve fédérale ; cours Stooq (variation par rapport à l'ouverture du jour).</p>
+<p>Le résumé est généré par une IA à partir de ces titres et peut contenir des erreurs. Information générale, pas un conseil d'investissement.</p></footer></div>
+</main>
+<script>
+const $=i=>document.getElementById(i);
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+const fmt=n=>n.toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2});
+fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{
+ const t=new Date(d.maj),h=(Date.now()-t)/36e5,s=d.resume;
+ $("day").textContent=t.toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"});
+ $("fresh").textContent=h<1?"Mis à jour à l'instant":h<24?"Mis à jour il y a "+Math.round(h)+" h":"Mis à jour il y a "+Math.round(h/24)+" j";
+ if(h>36)$("fresh").classList.add("old");
+ $("title").textContent=(s&&s.titre)||"L'actualité qui compte pour les marchés";
+ $("brief").textContent=s?s.en_bref:"Le résumé n'est pas disponible aujourd'hui. Les titres du jour restent consultables plus bas.";
+ d.cours.forEach(c=>{const u=c.var>=0,x=el("div","tile");x.append(el("span","n",c.nom),el("b","v",fmt(c.valeur)),el("span","ch "+(u?"up":"dn"),(u?"▲ +":"▼ ")+fmt(Math.abs(c.var))+" %"));$("q").append(x)});
+ if(!d.cours.length)$("strip").hidden=true;
+ ((s&&s.causes)||[]).forEach(c=>{const x=el("div","cause");x.append(el("h3",0,c.titre),el("p",0,c.texte));$("causes").append(x)});
+ ((s&&s.a_surveiller)||[]).forEach(a=>$("watch").append(el("li",0,a)));
+ $("sec1").hidden=!$("causes").children.length;$("sec2").hidden=!$("watch").children.length;
+ $("count").textContent=d.titres.length;
+ d.titres.forEach(x=>{const l=el("li"),a=el("a",0,x.titre);if(/^https?:\/\//.test(x.lien)){a.href=x.lien;a.rel="noopener";a.target="_blank"}l.append(a,el("small",0,x.source));$("list").append(l)});
+ if(!s)$("news").open=true;
+}).catch(()=>{$("title").textContent="Aucune donnée pour le moment";$("brief").textContent="La première mise à jour a lieu chaque jour à 7 h (heure de La Réunion). Tu peux aussi la lancer à la main depuis GitHub, onglet Actions.";$("strip").hidden=$("sec1").hidden=$("sec2").hidden=$("news").hidden=true});
+</script></body></html>
