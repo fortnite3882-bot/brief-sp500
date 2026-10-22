@@ -1,0 +1,229 @@
+{
+ "maj": "2026-10-22T19:52:06.640379+00:00",
+ "cours": [],
+ "resume": {
+  "titre": "L'intelligence artificielle et les tensions géopolitiques dirigent les marchés",
+  "en_bref": "Le S&P 500 est principalement influencé par la montée en puissance de l'IA et les craintes liées à la stabilité internationale. Les investisseurs cherchent un équilibre entre l'enthousiasme technologique et la prudence face aux risques mondiaux.",
+  "causes": [
+   {
+    "titre": "L'impact majeur de l'Intelligence Artificielle",
+    "texte": "Le secteur technologique, soutenu par les grandes banques, reste un moteur clé de la croissance boursière malgré des débats sur la viabilité des entreprises liées à l'IA."
+   },
+   {
+    "titre": "Risques géopolitiques et énergétiques",
+    "texte": "Les tensions au Moyen-Orient et les fluctuations sur le marché du pétrole pèsent sur le moral des investisseurs et influencent les prix des matières premières."
+   },
+   {
+    "titre": "Environnement économique et taux d'intérêt",
+    "texte": "La baisse des rendements obligataires montre que les investisseurs privilégient actuellement la sécurité face à l'incertitude économique et aux menaces de cybersécurité mondiale."
+   }
+  ],
+  "a_surveiller": [
+   "Les résultats et performances des entreprises liées à l'IA",
+   "L'évolution des tensions au Moyen-Orient",
+   "Les répercussions des failles de cybersécurité mondiales"
+  ]
+ },
+ "titres": [
+  {
+   "source": "CNBC",
+   "titre": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+   "lien": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
+  },
+  {
+   "source": "CNBC",
+   "titre": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
+   "lien": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "Moderna’s cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles",
+   "lien": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "Is getting a wedding band from Quince a bad idea? ‘It’s a third of the price.’",
+   "lien": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+   "lien": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+   "lien": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+   "lien": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+   "lien": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+   "lien": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "Zuckerberg’s California tax move is a win for Meta — and for him",
+   "lien": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "lien": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "'I wasn't thinking straight' says five jobs civil servant",
+   "lien": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+   "lien": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Tank barrel production returns to UK after 20 years",
+   "lien": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "The 'trillion pound' oil fund the government believes Britain could have built",
+   "lien": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "What is PHP and why did it spark a global cyber-security scramble?",
+   "lien": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "No order, no seat: Starbucks China rolls out new store policy",
+   "lien": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Websites taken down worldwide as critical cyber-security update issued",
+   "lien": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+   "lien": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Race to update services' computer systems after cyber-security flaw found",
+   "lien": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Trump ordered to answer questions under oath in BBC lawsuit",
+   "lien": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Crowd of 50 beats foreigner to death in South Africa",
+   "lien": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+   "lien": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "At least four dead after storm brings flooding to southern France",
+   "lien": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+   "lien": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+   "lien": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "White evangelical support for Trump slips but still strong as midterms near",
+   "lien": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+   "lien": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "Time just changed forever",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+   "lien": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "Trump says NBA star LeBron James disrespected US national anthem",
+   "lien": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+   "lien": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "titre": "US-sanctioned ICC wins top EU human rights award",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/Strathcona-Pitches-250000-Bpd-Oil-Export-Route-to-Asia.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
+   "lien": "https://oilprice.com/Energy/Energy-General/EUs-Proposed-Shipping-Subsidies-Could-Make-BioLNG-Cheaper-Than-Fuel-Oil.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Citi’s $60 Oil Call Meets $112 Brent",
+   "lien": "https://oilprice.com/Latest-Energy-News/World-News/Citis-60-Oil-Call-Meets-112-Brent.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Tehran Turns to Central Asia for Trade as Conflict With U.S. Simmers",
+   "lien": "https://oilprice.com/Geopolitics/International/Tehran-Turns-to-Central-Asia-for-Trade-as-Conflict-With-US-Simmers.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter",
+   "lien": "https://oilprice.com/Latest-Energy-News/World-News/Norways-23-Trillion-Oil-Fund-Loses-30-Billion-in-Third-Quarter.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Britain Finally Creates an Oil Wealth Fund—50 Years Too Late",
+   "lien": "https://oilprice.com/Energy/Energy-General/Britain-Finally-Creates-an-Oil-Wealth-Fund50-Years-Too-Late.html"
+  }
+ ]
+}
