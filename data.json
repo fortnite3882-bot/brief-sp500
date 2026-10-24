@@ -1,40 +1,30 @@
 {
- "maj": "2026-10-23T03:21:50.044498+00:00",
+ "maj": "2026-10-24T03:19:19.312368+00:00",
  "cours": [],
  "resume": {
-  "titre": "Les facteurs influençant le S&P 500 aujourd'hui",
-  "en_bref": "Le marché boursier américain montre des signes de fragmentation avec une forte volatilité. Les investisseurs naviguent entre l'essor de l'intelligence artificielle et des tensions sur les matières premières.",
+  "titre": "Les facteurs influençant le S&P 500",
+  "en_bref": "Le marché boursier est actuellement porté par la performance technologique et l'évolution des tensions géopolitiques mondiales. Ces éléments créent une volatilité qui affecte la confiance des investisseurs dans le climat économique actuel.",
   "causes": [
    {
-    "titre": "Intelligence Artificielle et Technologie",
-    "texte": "Les grandes banques dominent le secteur de l'IA tandis que des entreprises comme Micron subissent une chute marquée, créant un climat d'anxiété sur les valeurs technologiques."
+    "titre": "Résultats d'entreprises et IA",
+    "texte": "Les investisseurs suivent de près les bénéfices des sociétés technologiques et le développement de l'intelligence artificielle, malgré des résultats parfois contrastés."
    },
    {
-    "titre": "Énergie et Géopolitique",
-    "texte": "Les prix du pétrole augmentent en raison des tensions liées à l'Iran, influençant les coûts de transport et la stabilité des marchés énergétiques mondiaux."
+    "titre": "Géopolitique et Pétrole",
+    "texte": "La hausse des prix du pétrole, due aux tensions internationales et aux perturbations d'approvisionnement, pèse sur les perspectives économiques mondiales."
    },
    {
-    "titre": "Indicateurs de taux et marché du travail",
-    "texte": "Le rendement des bons du Trésor a connu une baisse significative, tandis que les entreprises comme Barclays adaptent leurs effectifs en misant davantage sur l'IA."
+    "titre": "Politiques tarifaires",
+    "texte": "Les décisions sur les tarifs douaniers américains, notamment vis-à-vis du Canada, influencent directement les échanges et la stratégie des entreprises."
    }
   ],
   "a_surveiller": [
-   "La volatilité du secteur des puces électroniques",
-   "L'évolution des prix du pétrole et des coûts de transport",
-   "L'impact des nouvelles technologies sur l'emploi et les résultats des entreprises"
+   "Évolution des prix du pétrole et réserves stratégiques",
+   "Résultats financiers des entreprises liées à l'IA",
+   "Développements diplomatiques concernant les tarifs douaniers"
   ]
  },
  "titres": [
-  {
-   "source": "CNBC",
-   "titre": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-   "lien": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-   "lien": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories"
-  },
   {
    "source": "MarketWatch",
    "titre": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -42,188 +32,198 @@
   },
   {
    "source": "MarketWatch",
-   "titre": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
-   "lien": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories"
+   "titre": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+   "lien": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-   "lien": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories"
+   "titre": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+   "lien": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-   "lien": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories"
+   "titre": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+   "lien": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Americans are having fewer babies — and pampering them with luxury diapers",
-   "lien": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories"
+   "titre": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+   "lien": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "3 big reasons Micron and other chip stocks fell hard on Thursday",
-   "lien": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories"
+   "titre": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+   "lien": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-   "lien": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories"
+   "titre": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+   "lien": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories"
+  },
+  {
+   "source": "MarketWatch",
+   "titre": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+   "lien": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories"
   },
   {
    "source": "BBC Business",
-   "titre": "Grid operator says lights will stay on this winter after concerns",
+   "titre": "How does the UK state pension compare with other countries?",
+   "lien": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "lien": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+   "lien": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "lien": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Earnings limit of up to £140K for first-time buyers loan scheme",
+   "lien": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "The Indian workers filming their work to train AI",
+   "lien": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Lights will stay on this winter, grid operator says after concerns",
    "lien": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-   "lien": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-   "lien": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "'I wasn't thinking straight' says five jobs civil servant",
-   "lien": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "lien": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Tank barrel production returns to UK after 20 years",
-   "lien": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "The 'trillion pound' oil fund the government believes Britain could have built",
-   "lien": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "What is PHP and why did it spark a global cyber-security scramble?",
-   "lien": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+   "titre": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+   "lien": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-   "lien": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+   "titre": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+   "lien": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "titre": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+   "lien": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+   "lien": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+   "lien": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Argentina drops investigation into President Milei over crypto fraud",
+   "lien": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Oil spill washes up on UAE beaches after tanker strike",
+   "lien": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Ukraine says Starlink still restricted after Trump says limits lifted",
    "lien": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
   },
   {
-   "source": "BBC Monde",
-   "titre": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-   "lien": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-   "lien": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Trump ordered to answer questions under oath in BBC lawsuit",
-   "lien": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Race to update services' computer systems after cyber-security flaw found",
-   "lien": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Crowd of 50 beats foreigner to death in South Africa",
-   "lien": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-   "lien": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss"
+   "source": "Al Jazeera",
+   "titre": "Century-old mosque near Indian PM’s residence under gov’t threat",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Indian developer turns ‘Cockroach’ protests into video game",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss"
+   "titre": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+   "lien": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss"
+   "titre": "Syrians protest Israel’s incursions near occupied Golan Heights",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
+   "titre": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+   "lien": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Will ICE agents play a role in the 2026 US midterm elections?",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss"
+   "titre": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+   "lien": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss"
+   "titre": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Thousands protest across Poland for access to free and legal abortions",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss"
+   "titre": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+   "lien": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Rare unrest flares in Tunisian capital as police clash with protesters",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Tibet rocked by 7.0-magnitude earthquake",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
+   "titre": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+   "lien": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
   },
   {
    "source": "OilPrice",
-   "titre": "Why Trump Can't Afford to Lose The Rare Earth Race",
-   "lien": "https://oilprice.com/Energy/Energy-General/Why-Trump-Cant-Afford-to-Lose-The-Rare-Earth-Race.html"
+   "titre": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+   "lien": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html"
   },
   {
    "source": "OilPrice",
-   "titre": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
-   "lien": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html"
+   "titre": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+   "lien": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
-   "lien": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html"
+   "titre": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
+   "lien": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html"
   },
   {
    "source": "OilPrice",
-   "titre": "EU’s Arctic Strategy Excludes Oil and Gas",
-   "lien": "https://oilprice.com/Energy/Natural-Gas/EUs-Arctic-Strategy-Excludes-Oil-and-Gas.html"
+   "titre": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
+   "lien": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch",
-   "lien": "https://oilprice.com/Energy/Energy-General/Electric-Giants-Say-They-Already-Have-the-Tools-to-Fix-the-AI-Power-Crunch.html"
+   "titre": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+   "lien": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
-   "lien": "https://oilprice.com/Energy/Energy-General/Why-Fossil-Fuel-Demand-Can-Rise-Even-as-Clean-Energy-Wins-Terrain.html"
+   "titre": "U.S. Rig Count Holds Steady as Oil Prices Surge",
+   "lien": "https://oilprice.com/Energy/Energy-General/US-Rig-Count-Holds-Steady-as-Oil-Prices-Surge.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Asia Needs $1 Trillion a Year to Secure Energy Supplies",
-   "lien": "https://oilprice.com/Latest-Energy-News/World-News/Asia-Needs-1-Trillion-a-Year-to-Secure-Energy-Supplies.html"
+   "titre": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
+   "lien": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
+   "lien": "https://oilprice.com/Energy/Energy-General/Space-War-Fears-Rise-as-Russian-Satellite-Makes-Dangerous-Maneuver.html"
   }
  ]
 }
