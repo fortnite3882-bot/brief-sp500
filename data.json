@@ -1,69 +1,74 @@
 {
- "maj": "2026-10-24T03:19:19.312368+00:00",
+ "maj": "2026-10-25T03:19:17.194594+00:00",
  "cours": [],
  "resume": {
-  "titre": "Les facteurs influençant le S&P 500",
-  "en_bref": "Le marché boursier est actuellement porté par la performance technologique et l'évolution des tensions géopolitiques mondiales. Ces éléments créent une volatilité qui affecte la confiance des investisseurs dans le climat économique actuel.",
+  "titre": "Les facteurs influençant le S&P 500 en octobre 2026",
+  "en_bref": "Le marché boursier réagit principalement aux tensions géopolitiques mondiales et aux fluctuations des prix de l'énergie. Les décisions politiques américaines, notamment en matière de commerce extérieur et d'énergie, jouent également un rôle clé dans la confiance des investisseurs.",
   "causes": [
    {
-    "titre": "Résultats d'entreprises et IA",
-    "texte": "Les investisseurs suivent de près les bénéfices des sociétés technologiques et le développement de l'intelligence artificielle, malgré des résultats parfois contrastés."
+    "titre": "Géopolitique et conflits",
+    "texte": "Des événements mondiaux comme la guerre en Ukraine, les tensions au Moyen-Orient et les protestations en Europe créent une incertitude qui pèse sur les marchés."
    },
    {
-    "titre": "Géopolitique et Pétrole",
-    "texte": "La hausse des prix du pétrole, due aux tensions internationales et aux perturbations d'approvisionnement, pèse sur les perspectives économiques mondiales."
+    "titre": "Secteur énergétique",
+    "texte": "Les coûts de transport du pétrole en hausse, les perturbations d'approvisionnement et les décisions politiques sur les projets éoliens influencent directement les prix de l'énergie."
    },
    {
-    "titre": "Politiques tarifaires",
-    "texte": "Les décisions sur les tarifs douaniers américains, notamment vis-à-vis du Canada, influencent directement les échanges et la stratégie des entreprises."
+    "titre": "Politique commerciale américaine",
+    "texte": "Les ajustements sur les tarifs douaniers et les stratégies politiques à l'approche des élections américaines modifient les perspectives économiques pour les entreprises."
    }
   ],
   "a_surveiller": [
-   "Évolution des prix du pétrole et réserves stratégiques",
-   "Résultats financiers des entreprises liées à l'IA",
-   "Développements diplomatiques concernant les tarifs douaniers"
+   "Évolutions des conflits en Iran et en Ukraine",
+   "Stabilité des flux de pétrole brut vers l'Asie",
+   "Décisions politiques liées aux tarifs douaniers américains"
   ]
  },
  "titres": [
   {
    "source": "MarketWatch",
-   "titre": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "lien": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+   "titre": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+   "lien": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-   "lien": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories"
+   "titre": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+   "lien": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-   "lien": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories"
+   "titre": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+   "lien": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-   "lien": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories"
+   "titre": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+   "lien": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-   "lien": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories"
+   "titre": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+   "lien": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-   "lien": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories"
+   "titre": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+   "lien": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-   "lien": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories"
+   "titre": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+   "lien": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
-   "lien": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories"
+   "titre": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+   "lien": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Rosebank: Life on the oil field at the centre of a political storm",
+   "lien": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
@@ -77,113 +82,133 @@
   },
   {
    "source": "BBC Business",
-   "titre": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "lien": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
    "titre": "White House lifts tariffs on some Canadian goods as midterm elections loom",
    "lien": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Earnings limit of up to £140K for first-time buyers loan scheme",
-   "lien": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss"
+   "titre": "Rising demand from families needing Christmas help",
+   "lien": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "The Indian workers filming their work to train AI",
-   "lien": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+   "titre": "Charity expects demand for Christmas present campaign",
+   "lien": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Lights will stay on this winter, grid operator says after concerns",
-   "lien": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
+   "titre": "How does the UK state pension compare with other countries?",
+   "lien": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-   "lien": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss"
+   "titre": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
+   "lien": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-   "lien": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+   "titre": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "lien": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+   "titre": "Ukraine says Starlink connection 'now stable' after network limits",
+   "lien": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-   "lien": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
+   "titre": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "lien": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-   "lien": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+   "titre": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "lien": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-   "lien": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+   "titre": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+   "lien": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Argentina drops investigation into President Milei over crypto fraud",
-   "lien": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss"
+   "titre": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+   "lien": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Oil spill washes up on UAE beaches after tanker strike",
-   "lien": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
+   "titre": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+   "lien": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "lien": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+   "titre": "Three released without charge after fatal arson attack in Ireland",
+   "lien": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Century-old mosque near Indian PM’s residence under gov’t threat",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss"
+   "titre": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+   "lien": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-   "lien": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
+   "titre": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Syrians protest Israel’s incursions near occupied Golan Heights",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss"
+   "titre": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+   "lien": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
-   "lien": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss"
+   "titre": "Violence breaks out across Europe after another day of protests",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
-   "lien": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+   "titre": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+   "lien": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss"
+   "titre": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
+   "titre": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+   "lien": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-   "lien": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
+   "titre": "How have Democrats’ policies shifted since the last major US election?",
+   "lien": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Fuel Oil Becomes Asia’s Next Cost Shock",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
+   "lien": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
+   "lien": "https://oilprice.com/Energy/Energy-General/Can-Undersea-Volcanoes-Power-Cities-A-Seattle-Startup-Just-Took-the-First-Step.html"
+  },
+  {
+   "source": "OilPrice",
+   "titre": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
+   "lien": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html"
   },
   {
    "source": "OilPrice",
@@ -199,31 +224,6 @@
    "source": "OilPrice",
    "titre": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
    "lien": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
-   "lien": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
-   "lien": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "U.S. Rig Count Holds Steady as Oil Prices Surge",
-   "lien": "https://oilprice.com/Energy/Energy-General/US-Rig-Count-Holds-Steady-as-Oil-Prices-Surge.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
-   "lien": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
-   "lien": "https://oilprice.com/Energy/Energy-General/Space-War-Fears-Rise-as-Russian-Satellite-Makes-Dangerous-Maneuver.html"
   }
  ]
 }
