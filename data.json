@@ -1,89 +1,99 @@
 {
- "maj": "2026-10-26T03:23:15.941420+00:00",
+ "maj": "2026-10-27T03:22:40.164026+00:00",
  "cours": [],
  "resume": {
-  "titre": "Les facteurs influençant les marchés financiers en octobre 2026",
-  "en_bref": "Le S&P 500 est actuellement influencé par une instabilité géopolitique mondiale croissante et des tensions sur les marchés de l'énergie. Ces éléments se combinent à des enjeux économiques nationaux majeurs, comme la préparation des budgets étatiques et les débats sur les infrastructures technologiques.",
+  "titre": "Les facteurs influençant le S&P 500 en octobre 2026",
+  "en_bref": "Le marché boursier est actuellement porté par la performance des entreprises technologiques et les mouvements stratégiques des investisseurs. L'instabilité géopolitique et les prix élevés de l'énergie pèsent toutefois sur la confiance globale.",
   "causes": [
    {
-    "titre": "Géopolitique et élections",
-    "texte": "Des événements politiques majeurs en Israël, au Brésil et en Serbie créent une incertitude internationale qui impacte la confiance des marchés. Le climat politique tendu aux États-Unis, notamment autour des élections de mi-mandat, accentue cette volatilité."
+    "titre": "Secteur technologique et entreprises",
+    "texte": "Les résultats et mouvements boursiers de géants comme Nvidia ou Lumentum influencent fortement l'indice. La concurrence accrue dans le commerce en ligne et l'IA pousse également les entreprises à envisager des fusions stratégiques."
    },
    {
-    "titre": "Marchés de l'énergie",
-    "texte": "Les cours du pétrole montent malgré une reprise des exportations, tandis que les coûts du fioul domestique augmentent fortement. Les difficultés logistiques, comme les taux de fret records pour les tankers, pèsent sur les flux commerciaux mondiaux."
+    "titre": "Géopolitique et énergie",
+    "texte": "Le conflit en Iran et ses conséquences sur les prix du pétrole et du gaz créent des tensions économiques mondiales. Les décisions politiques, notamment au Royaume-Uni avec le budget, ajoutent de l'incertitude sur les marchés."
    },
    {
-    "titre": "Politiques budgétaires",
-    "texte": "L'élaboration de nouveaux budgets nationaux, incluant des investissements dans le logement et des ajustements fiscaux, influence les anticipations économiques. Les gouvernements cherchent à soutenir la croissance tout en faisant face à des pressions financières."
+    "titre": "Comportement des investisseurs",
+    "texte": "Les traders d'options prennent davantage le contrôle sur l'indice S&P 500. Parallèlement, on observe une rotation des investissements vers les actions à dividendes au détriment du secteur technologique."
    }
   ],
   "a_surveiller": [
-   "Les résultats des élections en Israël",
-   "L'évolution des prix du pétrole et du fioul",
-   "Les annonces budgétaires à venir"
+   "L'impact du budget britannique sur l'économie",
+   "L'évolution des prix de l'énergie liés au conflit en Iran",
+   "Les opérations boursières majeures des entreprises technologiques"
   ]
  },
  "titres": [
   {
    "source": "MarketWatch",
-   "titre": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-   "lien": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories"
+   "titre": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+   "lien": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-   "lien": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
+   "titre": "Dividend stocks are having an excellent October as tech sector struggles",
+   "lien": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "lien": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+   "titre": "Options traders are seizing control of the S&P 500",
+   "lien": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-   "lien": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories"
+   "titre": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+   "lien": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-   "lien": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories"
+   "titre": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+   "lien": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-   "lien": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories"
+   "titre": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+   "lien": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-   "lien": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories"
+   "titre": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+   "lien": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-   "lien": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories"
+   "titre": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+   "lien": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories"
   },
   {
    "source": "BBC Business",
-   "titre": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-   "lien": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+   "titre": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+   "lien": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-   "lien": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+   "titre": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+   "lien": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Will a new code end 'rip-off parking charges'?",
-   "lien": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss"
+   "titre": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "lien": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Rosebank: Life on the oil field at the centre of a political storm",
-   "lien": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+   "titre": "Apple says it will replace iPhone Duo handsets with screen problems",
+   "lien": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+   "lien": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Business",
+   "titre": "Healey to shield low-income pensioners from income tax in the Budget",
+   "lien": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
@@ -92,138 +102,128 @@
   },
   {
    "source": "BBC Business",
-   "titre": "Budget to include £1bn for social and affordable housing",
-   "lien": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Four ways Labour could raise money in the Budget without hiking income tax",
-   "lien": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Heating oil costs 'more than double' ahead of winter",
-   "lien": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss"
+   "titre": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "lien": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+   "titre": "Lula wins fourth term in dramatic Brazil election comeback",
+   "lien": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Ex-FBI chief James Comey faces federal charges for third time",
+   "lien": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Jay-Z to perform at Super Bowl half-time show",
+   "lien": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+   "lien": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Trump administration illegally fired James Comey's daughter, judge rules",
+   "lien": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+   "lien": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC Monde",
+   "titre": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
    "lien": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Deeply divided Israel braces for pivotal election",
-   "lien": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Venezuelan opposition leader María Machado returns after months in exile",
-   "lien": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "lien": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-   "lien": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Israel to close West Bank crossings on election day as crackdown escalates",
-   "lien": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Gabon says access to social media restored after eight-month ban",
-   "lien": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "El Salvador president says bodies found in Haiti are not those of hostages",
-   "lien": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+   "titre": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "lien": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Lula thanks Brazil’s youth for historic election win",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss"
+   "titre": "Ex-FBI chief Comey defiant in the face of third prosecution",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-   "lien": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
+   "titre": "Moroccan police intercept migrant swimming back towards Ceuta",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
-   "lien": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss"
+   "titre": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+   "lien": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Two storms slam northern Europe, cut power to 150,000 homes",
-   "lien": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss"
+   "titre": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
+   "titre": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+   "lien": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Serbia celebrates historic election win for student-backed movement",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss"
+   "titre": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Lula holds off far right with victory in Brazil presidential election",
-   "lien": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss"
+   "titre": "Serbia’s ‘students’ celebrate for a second night after election victory",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss"
+   "titre": "US court rules against Trump administration in California voting case",
+   "lien": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss"
   },
   {
    "source": "OilPrice",
-   "titre": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
-   "lien": "https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html"
+   "titre": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Asia Is Building the World’s Next $15 Trillion Energy Market",
-   "lien": "https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html"
+   "titre": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/Beijing-Pushes-Domestic-Oil-Production-as-Iranian-Supply-Dries-Up.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Oil Prices Rise Despite Middle East Export Recovery",
-   "lien": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html"
+   "titre": "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
+   "lien": "https://oilprice.com/Energy/Natural-Gas/Alleged-Russian-Funding-Prompts-Executive-Exodus-at-US-LNG-Firm.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
-   "lien": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html"
+   "titre": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
+   "lien": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html"
   },
   {
    "source": "OilPrice",
-   "titre": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
-   "lien": "https://oilprice.com/Energy/Energy-General/World-Is-on-Track-for-Up-to-28-Degrees-of-Warming-Despite-Clean-Energy-Boom.html"
+   "titre": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html"
   },
   {
    "source": "OilPrice",
-   "titre": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
-   "lien": "https://oilprice.com/Energy/Energy-General/COP31-Host-Urges-NATO-Nations-to-Spend-More-on-Climate-Than-Defense.html"
+   "titre": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
+   "lien": "https://oilprice.com/Energy/Energy-General/Brussels-Takes-Aim-at-Chinese-Imports-as-Europes-Industrial-Crisis-Deepens.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
-   "lien": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html"
+   "titre": "The Iran War Just Added $39 Billion to the World's LNG Bill",
+   "lien": "https://oilprice.com/Energy/Natural-Gas/The-Iran-War-Just-Added-39-Billion-to-the-Worlds-LNG-Bill.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Fuel Oil Becomes Asia’s Next Cost Shock",
-   "lien": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html"
+   "titre": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
+   "lien": "https://oilprice.com/Latest-Energy-News/World-News/Egypt-Votes-to-Defend-Saudi-Arabia-Risking-Houthi-Fire.html"
   }
  ]
 }
