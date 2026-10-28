@@ -1,229 +1,229 @@
 {
- "maj": "2026-10-27T03:22:40.164026+00:00",
+ "maj": "2026-10-28T03:30:55.218267+00:00",
  "cours": [],
  "resume": {
-  "titre": "Les facteurs influençant le S&P 500 en octobre 2026",
-  "en_bref": "Le marché boursier est actuellement porté par la performance des entreprises technologiques et les mouvements stratégiques des investisseurs. L'instabilité géopolitique et les prix élevés de l'énergie pèsent toutefois sur la confiance globale.",
+  "titre": "Les facteurs influençant le S&P 500 aujourd'hui",
+  "en_bref": "Le marché boursier est actuellement porté par l'optimisme lié à l'intelligence artificielle malgré des craintes de bulle spéculative. Parallèlement, l'économie réelle subit la pression de la hausse des coûts de l'énergie et des résultats d'entreprises contrastés.",
   "causes": [
    {
-    "titre": "Secteur technologique et entreprises",
-    "texte": "Les résultats et mouvements boursiers de géants comme Nvidia ou Lumentum influencent fortement l'indice. La concurrence accrue dans le commerce en ligne et l'IA pousse également les entreprises à envisager des fusions stratégiques."
+    "titre": "L'engouement pour l'Intelligence Artificielle",
+    "texte": "Les investisseurs continuent de parier massivement sur le secteur de l'IA, soutenu par des entreprises comme Anthropic qui rassurent sur les niveaux de dépenses technologiques."
    },
    {
-    "titre": "Géopolitique et énergie",
-    "texte": "Le conflit en Iran et ses conséquences sur les prix du pétrole et du gaz créent des tensions économiques mondiales. Les décisions politiques, notamment au Royaume-Uni avec le budget, ajoutent de l'incertitude sur les marchés."
+    "titre": "La crise de l'énergie",
+    "texte": "La hausse des prix des carburants pèse lourdement sur le pouvoir d'achat des consommateurs américains et les coûts opérationnels des entreprises, influençant les perspectives économiques."
    },
    {
-    "titre": "Comportement des investisseurs",
-    "texte": "Les traders d'options prennent davantage le contrôle sur l'indice S&P 500. Parallèlement, on observe une rotation des investissements vers les actions à dividendes au détriment du secteur technologique."
+    "titre": "Les résultats financiers des entreprises",
+    "texte": "Les performances disparates des sociétés, à l'image de Boeing dont le titre chute après ses résultats, montrent que la santé du marché dépend de la solidité réelle des entreprises au-delà du secteur technologique."
    }
   ],
   "a_surveiller": [
-   "L'impact du budget britannique sur l'économie",
-   "L'évolution des prix de l'énergie liés au conflit en Iran",
-   "Les opérations boursières majeures des entreprises technologiques"
+   "Les investissements continus dans le secteur de l'intelligence artificielle",
+   "L'évolution des prix du pétrole et du diesel",
+   "La publication des résultats trimestriels des entreprises clés"
   ]
  },
  "titres": [
   {
    "source": "MarketWatch",
-   "titre": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-   "lien": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories"
+   "titre": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+   "lien": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Dividend stocks are having an excellent October as tech sector struggles",
-   "lien": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories"
+   "titre": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+   "lien": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Options traders are seizing control of the S&P 500",
-   "lien": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories"
+   "titre": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+   "lien": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
-   "lien": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories"
+   "titre": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+   "lien": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-   "lien": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories"
+   "titre": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+   "lien": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-   "lien": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories"
+   "titre": "The rest of the market is leaving Big Tech behind after a historic comeback",
+   "lien": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-   "lien": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories"
+   "titre": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
+   "lien": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
   },
   {
    "source": "MarketWatch",
-   "titre": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-   "lien": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories"
+   "titre": "The big reason Boeing’s stock is falling so hard after earnings",
+   "lien": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories"
   },
   {
    "source": "BBC Business",
-   "titre": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+   "titre": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
    "lien": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+   "titre": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
    "lien": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-   "lien": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+   "titre": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "lien": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Apple says it will replace iPhone Duo handsets with screen problems",
-   "lien": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
+   "titre": "China's families are now supporting more old people than kids",
+   "lien": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-   "lien": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
+   "titre": "Donald Trump's biggest economic problem looks strangely familiar",
+   "lien": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Healey to shield low-income pensioners from income tax in the Budget",
-   "lien": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
+   "titre": "'An annoying buzz': The search for stealthier drones",
+   "lien": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "What is the Budget and what could be in it?",
-   "lien": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+   "titre": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+   "lien": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Business",
-   "titre": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-   "lien": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+   "titre": "Landline switchover could cut people off in emergency, minister warned",
+   "lien": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Lula wins fourth term in dramatic Brazil election comeback",
-   "lien": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+   "titre": "Norway and Finland leaders hold rare call with Putin",
+   "lien": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Ex-FBI chief James Comey faces federal charges for third time",
-   "lien": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+   "titre": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Jay-Z to perform at Super Bowl half-time show",
-   "lien": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
+   "titre": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+   "lien": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-   "lien": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+   "titre": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+   "lien": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Trump administration illegally fired James Comey's daughter, judge rules",
-   "lien": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+   "titre": "Dutch zookeeper dies after being mauled by leopard",
+   "lien": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-   "lien": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss"
+   "titre": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+   "lien": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "lien": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+   "titre": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "lien": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "BBC Monde",
-   "titre": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-   "lien": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+   "titre": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+   "lien": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Ex-FBI chief Comey defiant in the face of third prosecution",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss"
+   "titre": "Global stock markets rise as investors continue to bet on AI",
+   "lien": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Moroccan police intercept migrant swimming back towards Ceuta",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss"
+   "titre": "Syria-Jordan border reopens amid probe into deadly airstrikes",
+   "lien": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-   "lien": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+   "titre": "Five key takeaways from Israel’s parliamentary elections",
+   "lien": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss"
+   "titre": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-   "lien": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss"
+   "titre": "Arab parties could win record 18 seats in Israel election, exit polls show",
+   "lien": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
+   "titre": "Netanyahu, Eisenkot camps clash over Israel election projections",
+   "lien": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "Serbia’s ‘students’ celebrate for a second night after election victory",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss"
+   "titre": "Israel’s Eisenkot says country voted for change",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss"
   },
   {
    "source": "Al Jazeera",
-   "titre": "US court rules against Trump administration in California voting case",
-   "lien": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss"
+   "titre": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss"
   },
   {
    "source": "OilPrice",
-   "titre": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
-   "lien": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html"
+   "titre": "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
+   "lien": "https://oilprice.com/Energy/Energy-General/America-Produces-Less-Than-1-of-the-Rare-Earth-Magnets-It-Needs.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
-   "lien": "https://oilprice.com/Energy/Crude-Oil/Beijing-Pushes-Domestic-Oil-Production-as-Iranian-Supply-Dries-Up.html"
+   "titre": "Americans Hit Hardest by War-Driven Oil Price Surge",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
-   "lien": "https://oilprice.com/Energy/Natural-Gas/Alleged-Russian-Funding-Prompts-Executive-Exodus-at-US-LNG-Firm.html"
+   "titre": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
+   "lien": "https://oilprice.com/Energy/Energy-General/Will-Rubios-Jamnagar-Move-Permanently-Break-The-Russia-India-Oil-Axis.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
-   "lien": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html"
+   "titre": "Turkey’s Libya Deal Puts Oil Majors in a Bind",
+   "lien": "https://oilprice.com/Energy/Energy-General/Turkeys-Libya-Deal-Puts-Oil-Majors-in-a-Bind.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-   "lien": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html"
+   "titre": "US Crude Oil Inventories Buck Analyst Expectations",
+   "lien": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Buck-Analyst-Expectations.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
-   "lien": "https://oilprice.com/Energy/Energy-General/Brussels-Takes-Aim-at-Chinese-Imports-as-Europes-Industrial-Crisis-Deepens.html"
+   "titre": "5 Data Center Power Stocks to Watch Before Earnings",
+   "lien": "https://oilprice.com/Energy/Energy-General/5-Data-Center-Power-Stocks-to-Watch-Before-Earnings.html"
   },
   {
    "source": "OilPrice",
-   "titre": "The Iran War Just Added $39 Billion to the World's LNG Bill",
-   "lien": "https://oilprice.com/Energy/Natural-Gas/The-Iran-War-Just-Added-39-Billion-to-the-Worlds-LNG-Bill.html"
+   "titre": "The Diesel Crisis Is Here To Stay",
+   "lien": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crisis-Is-Here-To-Stay.html"
   },
   {
    "source": "OilPrice",
-   "titre": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
-   "lien": "https://oilprice.com/Latest-Energy-News/World-News/Egypt-Votes-to-Defend-Saudi-Arabia-Risking-Houthi-Fire.html"
+   "titre": "Russia’s Crude Exports Set to Fall as Diesel Production Rises",
+   "lien": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Crude-Exports-Set-to-Fall-as-Diesel-Production-Rises.html"
   }
  ]
 }
