@@ -1,78 +1,104 @@
 <!doctype html><html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Brief S&P 500 – l'essentiel du marché chaque matin</title>
-<meta name="description" content="Ce qui fait bouger le S&P 500, résumé chaque jour en français simple.">
-<meta name="theme-color" content="#f4f6f9" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0b1118" media="(prefers-color-scheme: dark)">
-<meta property="og:title" content="Brief S&P 500"><meta property="og:description" content="L'essentiel du marché américain, chaque matin, en français simple.">
-<link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest">
+<meta name="description" content="Ce qui fait bouger le S&P 500, analysé chaque jour en français simple.">
+<meta name="theme-color" content="#0b7285"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Hanken+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
-:root{color-scheme:light dark;--bg:#f4f6f9;--sf:#fff;--ink:#0f1b2d;--soft:#566476;--line:#dde3ea;--ac:#0b7285;--up:#12805c;--dn:#c0352b}
-@media(prefers-color-scheme:dark){:root{--bg:#0b1118;--sf:#131c26;--ink:#e9eef4;--soft:#93a2b3;--line:#233140;--ac:#5cc2d6;--up:#46c28e;--dn:#ff8078}}
+:root{color-scheme:light dark;--h:200;--bg:hsl(var(--h) 38% 96%);--wash:hsl(var(--h) 75% 86%);--ink:hsl(var(--h) 50% 11%);--soft:hsl(var(--h) 14% 36%);--line:hsl(var(--h) 24% 84%);--ac:hsl(var(--h) 70% 30%);--up:#12805c;--dn:#c0352b;--mid:hsl(var(--h) 14% 62%)}
+@media(prefers-color-scheme:dark){:root{--bg:hsl(var(--h) 36% 7%);--wash:hsl(var(--h) 55% 17%);--ink:hsl(var(--h) 30% 93%);--soft:hsl(var(--h) 14% 68%);--line:hsl(var(--h) 22% 19%);--ac:hsl(var(--h) 75% 72%);--up:#46c28e;--dn:#ff8078;--mid:hsl(var(--h) 12% 45%)}}
 [hidden]{display:none!important}*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%}
-.w{max-width:960px;margin:0 auto;padding:0 20px}
-header{border-bottom:1px solid var(--line);background:var(--sf);padding-top:env(safe-area-inset-top)}
-header .w{display:flex;align-items:center;justify-content:space-between;gap:12px;height:56px}
-.brand{display:flex;align-items:center;gap:10px;font-weight:700;letter-spacing:-.01em}
-.brand svg{width:28px;height:28px}
-#fresh{font-size:13px;color:var(--soft);display:flex;align-items:center;gap:6px}
-#fresh::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--up)}#fresh.old::before{background:var(--dn)}
-.hero{padding:40px 0 28px}
-#day{margin:0 0 10px;color:var(--ac);font-weight:600;font-size:15px;text-transform:capitalize}
-h1{font:600 clamp(30px,6.5vw,52px)/1.1 Georgia,"Iowan Old Style","Times New Roman",serif;letter-spacing:-.015em;margin:0 0 16px;max-width:20ch}
-#brief{font-size:clamp(17px,2.4vw,20px);color:var(--soft);max-width:60ch;margin:0}
-#strip{background:var(--sf);border-block:1px solid var(--line)}
-#q{display:flex;overflow-x:auto;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch}
-.tile{flex:1 0 150px;padding:16px 20px;border-right:1px solid var(--line);scroll-snap-align:start;display:flex;flex-direction:column}
-.tile:last-child{border-right:0}.n{font-size:13px;color:var(--soft)}
-.v{font-size:22px;font-variant-numeric:tabular-nums;letter-spacing:-.01em}
-.ch{font-size:14px;font-weight:600;font-variant-numeric:tabular-nums}.up{color:var(--up)}.dn{color:var(--dn)}
-.grid{display:grid;gap:8px 48px;padding:36px 0 8px}
-@media(min-width:860px){.grid{grid-template-columns:1.6fr 1fr}}
-h2{font-size:20px;margin:0 0 16px;letter-spacing:-.01em}
-.cause{border-left:3px solid var(--ac);padding:2px 0 2px 16px;margin-bottom:22px}
-.cause h3{font-size:17px;margin:0 0 4px}.cause p{margin:0;color:var(--soft)}
-#watch{list-style:none;margin:0 0 24px;padding:0}
-#watch li{padding:12px 0 12px 22px;border-bottom:1px solid var(--line);position:relative}
-#watch li::before{content:"";position:absolute;left:2px;top:21px;width:8px;height:8px;border:2px solid var(--ac);border-radius:50%}
-details{margin:24px 0;background:var(--sf);border:1px solid var(--line);border-radius:12px}
-summary{cursor:pointer;padding:16px 20px;font-weight:600;list-style:none;display:flex;justify-content:space-between}
-summary::after{content:"+";color:var(--ac);font-size:20px;line-height:1}details[open] summary::after{content:"−"}
-#news{margin:0;padding:0 20px 12px;list-style:none}
-#news li{padding:10px 0;border-top:1px solid var(--line)}#news a{color:var(--ink);text-decoration:none}#news a:hover{color:var(--ac);text-decoration:underline}
-#news small{display:block;color:var(--soft);font-size:13px}
-a:focus-visible,summary:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
-footer{padding:8px 0 calc(40px + env(safe-area-inset-bottom));color:var(--soft);font-size:13px}footer p{max-width:70ch;margin:0 0 8px}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 "Hanken Grotesk",system-ui,sans-serif;transition:background .6s}
+.w{max-width:1000px;margin:0 auto;padding:0 22px}
+h1,h2,.brand,.tabs{font-family:"Bricolage Grotesque","Hanken Grotesk",system-ui,sans-serif}
+.top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);padding-top:env(safe-area-inset-top)}
+.bar{display:flex;align-items:center;justify-content:space-between;height:60px}
+.brand{font-weight:800;font-size:19px;letter-spacing:-.02em}
+.tabs{display:flex;background:var(--line);border-radius:99px;padding:3px}
+.tabs button{font:600 15px inherit;font-family:inherit;border:0;background:none;color:var(--soft);padding:7px 18px;border-radius:99px;cursor:pointer}
+.tabs button[aria-selected=true]{background:var(--ink);color:var(--bg)}
+.hero{background:radial-gradient(120% 90% at 85% 0,var(--wash),transparent 70%);transition:background .6s}
+.hero .w{display:grid;gap:28px;padding-top:36px;padding-bottom:40px;align-items:center}
+@media(min-width:820px){.hero .w{grid-template-columns:1.25fr 1fr;gap:56px}}
+#date{margin:0 0 12px;color:var(--ac);font-weight:700}
+h1{font-weight:800;font-size:clamp(34px,7vw,58px);line-height:1.04;letter-spacing:-.035em;margin:0 0 18px;text-wrap:balance}
+#brief{font-size:19px;color:var(--soft);margin:0;max-width:52ch}
+.pie{margin:0;display:grid;grid-template-columns:150px 1fr;gap:20px;align-items:center}
+.ring{position:relative}.ring svg{width:100%;transform:rotate(-90deg)}
+.ring circle{fill:none;stroke-width:5.5;transition:stroke-dasharray 1.2s cubic-bezier(.2,.8,.2,1)}
+.ring div{position:absolute;inset:0;display:grid;place-content:center;text-align:center;line-height:1.15}
+#verdict{font:800 20px "Bricolage Grotesque",sans-serif}.ring span{font-size:12px;color:var(--soft)}
+#legend{list-style:none;margin:0;padding:0}#legend li{display:flex;align-items:center;gap:10px;padding:3px 0}
+#legend i{width:11px;height:11px;border-radius:50%}#legend b{margin-left:auto;font-variant-numeric:tabular-nums}
+.pie figcaption{grid-column:1/-1;font-size:14px;color:var(--soft)}.pie small{display:block;margin-top:4px;opacity:.8}
+#q{display:flex;overflow-x:auto;border-block:1px solid var(--line)}
+.t{flex:1 0 140px;padding:14px 20px 14px 0;margin-right:20px;display:flex;flex-direction:column}
+.t span{font-size:13px;color:var(--soft)}.t b{font:700 22px "Bricolage Grotesque",sans-serif;font-variant-numeric:tabular-nums}
+.t em{font-style:normal;font-size:14px;font-weight:700;font-variant-numeric:tabular-nums}.up{color:var(--up)}.dn{color:var(--dn)}
+section.s{padding:46px 0 6px}h2{font-weight:800;font-size:28px;letter-spacing:-.025em;margin:0 0 22px}
+#an{columns:2 340px;column-gap:48px}#an div{break-inside:avoid;margin-bottom:26px}
+#an h3{font-size:18px;margin:0 0 4px;color:var(--ac)}#an p,.sc p{margin:0}
+.sc{display:grid;gap:24px;margin-top:10px}@media(min-width:700px){.sc{grid-template-columns:1fr 1fr}}
+.sc div{padding-top:14px;border-top:4px solid}.sc b{display:block;margin-bottom:4px}
+#cal{border-top:1px solid var(--line)}
+.ev{display:grid;grid-template-columns:62px 1fr auto;gap:4px 16px;padding:16px 0;border-bottom:1px solid var(--line)}
+.ev time{font:700 18px "Bricolage Grotesque",sans-serif;font-variant-numeric:tabular-nums}
+.ev small{display:block;color:var(--soft);font-size:14px}.ev .d{letter-spacing:2px;color:var(--ac);font-size:13px}
+.ev .v{grid-column:2/4;font-size:13px;color:var(--soft);font-variant-numeric:tabular-nums}
+details{margin:40px 0 0}summary{cursor:pointer;font:800 20px "Bricolage Grotesque",sans-serif;padding:14px 0;border-top:1px solid var(--line)}
+#list{list-style:none;margin:0;padding:0}#list li{padding:9px 0;border-top:1px solid var(--line)}
+#list a{color:var(--ink);text-decoration:none}#list a:hover{color:var(--ac);text-decoration:underline}#list small{display:block;color:var(--soft);font-size:13px}
+footer{padding:36px 0 calc(48px + env(safe-area-inset-bottom));color:var(--soft);font-size:13px}footer p{max-width:72ch;margin:0 0 8px}
+:focus-visible{outline:2px solid var(--ac);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style></head><body>
-<header><div class="w"><div class="brand"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0b7285"/><path d="M12 44l14-14 9 9 17-19" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>Brief S&amp;P 500</div><span id="fresh"></span></div></header>
+<header class="top"><div class="w bar"><div class="brand">Brief S&amp;P 500</div>
+<div class="tabs" role="tablist"><button role="tab" id="b-hier">Hier</button><button role="tab" id="b-auj" aria-selected="true">Aujourd'hui</button></div></div></header>
 <main>
-<section class="w hero"><p id="day"></p><h1 id="title">Chargement…</h1><p id="brief"></p></section>
-<section id="strip" aria-label="Cours du jour"><div class="w" style="padding:0"><div id="q"></div></div></section>
-<div class="w"><div class="grid">
-<section id="sec1"><h2>Ce qui fait bouger le marché</h2><div id="causes"></div></section>
-<section id="sec2"><h2>À surveiller</h2><ul id="watch"></ul></section></div>
-<details id="news"><summary><span>Les titres de la journée</span><span id="count"></span></summary><ul id="list"></ul></details>
-<footer><p>Sources : CNBC, Yahoo Finance, MarketWatch, BBC, Al Jazeera, OilPrice, Réserve fédérale ; cours Stooq (variation par rapport à l'ouverture du jour).</p>
-<p>Le résumé est généré par une IA à partir de ces titres et peut contenir des erreurs. Information générale, pas un conseil d'investissement.</p></footer></div>
-</main>
+<section class="hero"><div class="w"><div><p id="date"></p><h1 id="title">Chargement…</h1><p id="brief"></p></div>
+<figure class="pie" id="pie"><div class="ring"><svg viewBox="0 0 42 42" aria-hidden="true"><circle cx="21" cy="21" r="15.9155" stroke="var(--line)" stroke-dasharray="100 0"/><circle id="s0" cx="21" cy="21" r="15.9155" stroke="var(--up)" stroke-dasharray="0 100"/><circle id="s1" cx="21" cy="21" r="15.9155" stroke="var(--mid)" stroke-dasharray="0 100"/><circle id="s2" cx="21" cy="21" r="15.9155" stroke="var(--dn)" stroke-dasharray="0 100"/></svg><div><b id="verdict"></b><span>humeur du marché</span></div></div>
+<ul id="legend"></ul><figcaption><span id="why"></span><small>Estimation de l'IA d'après le ton des titres du jour, pas un sondage.</small></figcaption></figure></div>
+<div class="w" id="strip"><div id="q"></div></div></section>
+<div class="w"><section class="s" id="sec-an"><h2>L'analyse du jour</h2><div id="an"></div><div class="sc" id="sc"></div></section>
+<section class="s" id="sec-cal"><h2>Calendrier économique</h2><div id="cal"></div></section>
+<details id="news"><summary>Les titres de la journée</summary><ul id="list"></ul></details>
+<footer><p id="foot"></p><p>Sources : CNBC, Yahoo Finance, MarketWatch, BBC, Al Jazeera, OilPrice, Réserve fédérale ; cours Stooq (variation par rapport à l'ouverture) ; calendrier : flux public d'événements américains, heures dans ton fuseau.</p>
+<p>L'analyse est générée par une IA à partir de ces sources et peut contenir des erreurs. Information générale, pas un conseil d'investissement.</p></footer></div></main>
 <script>
-const $=i=>document.getElementById(i);
-const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+const $=i=>document.getElementById(i),el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
 const fmt=n=>n.toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2});
-fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{
- const t=new Date(d.maj),h=(Date.now()-t)/36e5,s=d.resume;
- $("day").textContent=t.toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"});
- $("fresh").textContent=h<1?"Mis à jour à l'instant":h<24?"Mis à jour il y a "+Math.round(h)+" h":"Mis à jour il y a "+Math.round(h/24)+" j";
- if(h>36)$("fresh").classList.add("old");
- $("title").textContent=(s&&s.titre)||"L'actualité qui compte pour les marchés";
- $("brief").textContent=s?s.en_bref:"Le résumé n'est pas disponible aujourd'hui. Les titres du jour restent consultables plus bas.";
- d.cours.forEach(c=>{const u=c.var>=0,x=el("div","tile");x.append(el("span","n",c.nom),el("b","v",fmt(c.valeur)),el("span","ch "+(u?"up":"dn"),(u?"▲ +":"▼ ")+fmt(Math.abs(c.var))+" %"));$("q").append(x)});
- if(!d.cours.length)$("strip").hidden=true;
- ((s&&s.causes)||[]).forEach(c=>{const x=el("div","cause");x.append(el("h3",0,c.titre),el("p",0,c.texte));$("causes").append(x)});
- ((s&&s.a_surveiller)||[]).forEach(a=>$("watch").append(el("li",0,a)));
- $("sec1").hidden=!$("causes").children.length;$("sec2").hidden=!$("watch").children.length;
- $("count").textContent=d.titres.length;
- d.titres.forEach(x=>{const l=el("li"),a=el("a",0,x.titre);if(/^https?:\/\//.test(x.lien)){a.href=x.lien;a.rel="noopener";a.target="_blank"}l.append(a,el("small",0,x.source));$("list").append(l)});
- if(!s)$("news").open=true;
-}).catch(()=>{$("title").textContent="Aucune donnée pour le moment";$("brief").textContent="La première mise à jour a lieu chaque jour à 7 h (heure de La Réunion). Tu peux aussi la lancer à la main depuis GitHub, onglet Actions.";$("strip").hidden=$("sec1").hidden=$("sec2").hidden=$("news").hidden=true});
+let D;
+function render(e){
+ const A=["an","sc","cal","list","q","legend"];A.forEach(i=>$(i).textContent="");
+ ["strip","sec-an","sec-cal","news","pie"].forEach(i=>$(i).hidden=!e);
+ if(!e){$("date").textContent="";$("title").textContent="Pas encore d'historique";$("brief").textContent="L'onglet Hier se remplira dès demain matin.";return}
+ const r=e.resume,t=new Date(e.maj);
+ document.documentElement.style.setProperty("--h",(e.ambiance||{}).teinte??200);
+ $("date").textContent=new Date(e.date+"T12:00:00Z").toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"}).replace(/^./,c=>c.toUpperCase());
+ $("title").textContent=(r&&r.titre)||"L'actualité qui compte pour les marchés";
+ $("brief").textContent=r?r.en_bref:"L'analyse n'est pas disponible ce jour-là. Les titres restent consultables plus bas.";
+ e.cours.forEach(c=>{const u=c.var>=0,x=el("div","t");x.append(el("span",0,c.nom),el("b",0,fmt(c.valeur)),el("em",u?"up":"dn",(u?"+":"−")+fmt(Math.abs(c.var))+" %"));$("q").append(x)});
+ $("strip").hidden=!e.cours.length;
+ (r&&r.analyse||[]).forEach(a=>{const x=el("div");x.append(el("h3",0,a.titre),el("p",0,a.texte));$("an").append(x)});
+ const S=r&&r.scenarios;if(S)[["haussier","Si le marché monte","up"],["baissier","Si le marché baisse","dn"]].forEach(([k,l,c])=>{const x=el("div",c);x.append(el("b",0,l),el("p",0,S[k]));x.style.color="var(--"+c+")";x.lastChild.style.color="var(--ink)";$("sc").append(x)});
+ $("sec-an").hidden=!r;
+ const se=r&&r.sentiment;$("pie").hidden=!se;
+ if(se){const v=[se.haussier,se.neutre,se.baissier].map(Number),n=v.reduce((a,b)=>a+b,0)||1,L=["Optimiste","Indécis","Inquiet"],C=["var(--up)","var(--mid)","var(--dn)"],N=["Haussier","Neutre","Baissier"];
+  let off=0;[0,1,2].forEach(i=>{const p=v[i]/n*100,g=Math.max(p-1.2,0),c=$("s"+i);c.setAttribute("stroke-dasharray","0 100");c.setAttribute("stroke-dashoffset",-off);off+=p;setTimeout(()=>c.setAttribute("stroke-dasharray",g+" "+(100-g)),60);
+   const li=el("li");const d=el("i");d.style.background=C[i];li.append(d,el("span",0,N[i]),el("b",0,Math.round(p)+" %"));$("legend").append(li)});
+  $("verdict").textContent=L[v.indexOf(Math.max(...v))];$("why").textContent=se.explication||""}
+ const ev=e.calendrier||[];
+ if(!ev.length)$("cal").append(el("p",0,"Aucun événement américain majeur annoncé, ou calendrier indisponible."));
+ ev.forEach(x=>{const d=el("div","ev"),h=el("div");h.append(el("b",0,x.fr||x.titre));if(x.pourquoi)h.append(el("small",0,x.pourquoi));
+  const i=el("span","d","●".repeat(x.impact)+"○".repeat(3-x.impact));i.title=x.impact>2?"Impact fort":"Impact moyen";
+  d.append(el("time",0,new Date(x.t).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"})),h,i);
+  if(x.prevu||x.precedent)d.append(el("span","v","Prévu : "+(x.prevu||"n.c.")+"  Précédent : "+(x.precedent||"n.c.")));$("cal").append(d)});
+ e.titres.forEach(x=>{const l=el("li"),a=el("a",0,x.titre);if(/^https?:\/\//.test(x.lien)){a.href=x.lien;a.rel="noopener";a.target="_blank"}l.append(a,el("small",0,x.source));$("list").append(l)});
+ $("news").open=!r;
+ $("foot").textContent="Mis à jour le "+t.toLocaleString("fr-FR",{dateStyle:"long",timeStyle:"short"})+(e.ambiance&&e.ambiance.nom?". Ambiance du jour : "+e.ambiance.nom+".":".");
+}
+function tab(k){["hier","auj"].forEach(x=>$("b-"+x).setAttribute("aria-selected",x==k));render(k=="hier"?D.hier:D.aujourdhui)}
+$("b-hier").onclick=()=>tab("hier");$("b-auj").onclick=()=>tab("auj");
+fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;if(!d.aujourdhui)throw 0;tab("auj")}).catch(()=>{["strip","sec-an","sec-cal","news","pie"].forEach(i=>$(i).hidden=true);$("title").textContent="Aucune donnée pour le moment";$("brief").textContent="La première mise à jour a lieu chaque jour à 7 h (heure de La Réunion). Tu peux la lancer à la main depuis GitHub, onglet Actions."});
 </script></body></html>
