@@ -1,229 +1,306 @@
 {
- "maj": "2026-10-29T03:33:31.316692+00:00",
- "cours": [],
- "resume": {
-  "titre": "Les facteurs influençant le S&P 500 aujourd'hui",
-  "en_bref": "Le marché boursier est actuellement porté par les performances disparates des grandes entreprises technologiques et la pression persistante des coûts de l'énergie. Les investisseurs surveillent également de près les décisions monétaires pour ajuster leurs stratégies.",
-  "causes": [
+ "aujourdhui": {
+  "date": "2026-10-29",
+  "maj": "2026-10-29T13:56:38.258705+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Le S&P 500 à la croisée des chemins entre croissance économique et turbulences sectorielles",
+   "en_bref": "Le marché américain est actuellement tiraillé entre des données économiques encourageantes et des déceptions marquées chez les géants technologiques. La volatilité est accentuée par les tensions énergétiques mondiales et les incertitudes liées aux décisions de la Réserve fédérale.",
+   "analyse": [
+    {
+     "titre": "Contexte économique global",
+     "texte": "L'économie américaine montre des signes de résistance avec une croissance du PIB attendue en hausse, mais la consommation des ménages commence à s'essouffler face à l'inflation. Ce ralentissement des dépenses de consommation pourrait peser sur les revenus futurs des entreprises. Le marché surveille ainsi si la croissance globale peut compenser la perte de pouvoir d'achat des particuliers."
+    },
+    {
+     "titre": "Politique monétaire et Fed",
+     "texte": "La Réserve fédérale demeure au centre des préoccupations avec la publication de sa déclaration FOMC, scrutée pour tout indice sur le maintien des taux. Des taux élevés, destinés à contrer l'inflation, pèsent sur le coût du crédit tout en offrant une rémunération aux épargnants. Une politique restrictive prolongée pourrait ralentir davantage la dynamique de croissance du marché boursier."
+    },
+    {
+     "titre": "Énergie et géopolitique",
+     "texte": "Les tensions internationales, notamment au Moyen-Orient, maintiennent une pression haussière sur les cours du pétrole et le coût de l'énergie. Bien que cela booste les profits des géants pétroliers comme Shell ou TotalEnergies, cela fragilise le reste de l'économie en alourdissant les factures des entreprises et des consommateurs. Ce choc énergétique agit comme une taxe invisible qui bride la croissance mondiale."
+    },
+    {
+     "titre": "Entreprises et résultats",
+     "texte": "Le marché subit des disparités majeures : des entreprises de santé comme Lilly profitent d'une forte demande, tandis que des leaders technologiques comme Alphabet et ServiceNow subissent de lourdes corrections boursières. Ces résultats hétérogènes montrent que les investisseurs deviennent extrêmement sélectifs. Les opérations de fusions-acquisitions, comme le rapprochement potentiel entre Marvell et Lumentum, restent un levier de croissance stratégique."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Si la Fed adopte un ton plus accommodant et que la consommation reste résiliente, les indices pourraient repartir à la hausse.",
+    "baissier": "Une inflation persistante couplée à une déception généralisée sur les bénéfices technologiques pourrait entraîner une correction marquée du S&P 500."
+   },
+   "sentiment": {
+    "haussier": 30,
+    "neutre": 30,
+    "baissier": 40,
+    "explication": "Le ton est mitigé, oscillant entre l'optimisme pour certains secteurs de croissance et l'inquiétude face aux chocs géopolitiques et aux échecs technologiques."
+   },
+   "calendrier": [
+    {
+     "fr": "PIB trimestriel",
+     "pourquoi": "Mesure la santé et la croissance réelle de l'économie américaine."
+    },
+    {
+     "fr": "Indice des prix PCE",
+     "pourquoi": "Indicateur privilégié par la Fed pour mesurer l'inflation réelle."
+    },
+    {
+     "fr": "Indice des prix du PIB",
+     "pourquoi": "Évalue l'inflation globale au sein de la production économique nationale."
+    },
+    {
+     "fr": "Demandes d'allocations chômage",
+     "pourquoi": "Reflète la tension sur le marché du travail et la solidité de l'emploi."
+    }
+   ],
+   "ambiance": {
+    "nom": "Incertitude",
+    "teinte": 35
+   }
+  },
+  "calendrier": [
    {
-    "titre": "Résultats d'entreprises",
-    "texte": "Les cours de la Bourse réagissent vivement à la publication des bénéfices, avec des progressions pour Microsoft et des baisses marquées pour Alphabet, Fortinet ou ServiceNow."
+    "t": "2026-10-29T12:30:00+00:00",
+    "titre": "Advance GDP q/q",
+    "impact": 3,
+    "prevu": "3.2%",
+    "precedent": "1.5%",
+    "fr": "PIB trimestriel",
+    "pourquoi": "Mesure la santé et la croissance réelle de l'économie américaine."
    },
    {
-    "titre": "Énergie et matières premières",
-    "texte": "La hausse des prix du pétrole et des tensions sur les approvisionnements mondiaux influencent les coûts des entreprises et le moral des investisseurs."
+    "t": "2026-10-29T12:30:00+00:00",
+    "titre": "Core PCE Price Index m/m",
+    "impact": 3,
+    "prevu": "0.3%",
+    "precedent": "0.2%",
+    "fr": "Indice des prix PCE",
+    "pourquoi": "Indicateur privilégié par la Fed pour mesurer l'inflation réelle."
    },
    {
-    "titre": "Politique monétaire",
-    "texte": "Les déclarations et les décisions de la Réserve fédérale (Fed) restent un pilier central qui dicte la confiance des marchés financiers."
+    "t": "2026-10-29T12:30:00+00:00",
+    "titre": "Advance GDP Price Index q/q",
+    "impact": 2,
+    "prevu": "3.2%",
+    "precedent": "6.2%",
+    "fr": "Indice des prix du PIB",
+    "pourquoi": "Évalue l'inflation globale au sein de la production économique nationale."
+   },
+   {
+    "t": "2026-10-29T12:30:00+00:00",
+    "titre": "Unemployment Claims",
+    "impact": 2,
+    "prevu": "198K",
+    "precedent": "194K",
+    "fr": "Demandes d'allocations chômage",
+    "pourquoi": "Reflète la tension sur le marché du travail et la solidité de l'emploi."
    }
   ],
-  "a_surveiller": [
-   "La communication de la Fed suite à sa réunion",
-   "Les rapports de résultats des grandes entreprises technologiques",
-   "L'évolution des prix mondiaux du pétrole"
+  "ambiance": {
+   "nom": "Incertitude",
+   "teinte": 35
+  },
+  "titres": [
+   {
+    "source": "MarketWatch",
+    "titre": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
+    "lien": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Why Alphabet’s stock could see its worst day ever after the latest results",
+    "lien": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong.",
+    "lien": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Marvell is reportedly close to buying Lumentum. Analysts say they see logic in a potential deal.",
+    "lien": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Consumer spending flattens out after inflation surge",
+    "lien": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+    "lien": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+    "lien": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
+    "lien": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Poundland's future hangs in the balance as chain edges towards collapse",
+    "lien": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+    "lien": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+    "lien": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "What we now know about the UK economy in four charts",
+    "lien": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "What the Budget offers for under 25s - and what it leaves out",
+    "lien": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "lien": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Your pay, energy bills and savings: How the Budget affects you",
+    "lien": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Healey unveils £100 for energy bills and bank tax in first Budget",
+    "lien": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+    "lien": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "lien": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "lien": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
+    "lien": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Philippine police obtain warrant to search Thomas Markle's devices",
+    "lien": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+    "lien": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Carney to push for closer ties at Canada-EU summit in Montreal",
+    "lien": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "lien": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Damascus, Amman contradict each other on attack that killed civilians",
+    "lien": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Indonesians share impact of haze on their livelihoods",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Rising fuel costs force passengers off cruise ship",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "The megadonors financing the US midterms to influence policy",
+    "lien": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Men pulled from vehicle stranded by floods in Syria",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
+    "lien": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+    "lien": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Afghan farmers pushed to opium farming to make a living",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/title-afghan-farmers-pushed-to-opium-farming-to-make-a-living?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Hikes-EUs-Oil-Import-Bill-By-11-Billion-Per-Month.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Profits-Nearly-Double-to-108-Billion-as-Refining-Margins-Hit-Record.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Profit-Doubles-as-War-Boosts-Refining-and-Trading.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Equinor Doubles Estimate for Major North Sea Gas Discovery",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Doubles-Estimate-for-Major-North-Sea-Gas-Discovery.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "EU Rules Out New Climate Finance Pledges at COP31",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "EU Scrambles to Contain Energy Price Crisis Ahead of Winter",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/EU-Scrambles-to-Contain-Energy-Price-Crisis-Ahead-of-Winter.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Vance-Moves-to-Restart-Iran-Peace-Talks.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Peace Talks Won’t Save Oil Buyers From $100-Plus Oil",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/Peace-Talks-Wont-Save-Oil-Buyers-From-100-Plus-Oil.html"
+   }
   ]
  },
- "titres": [
-  {
-   "source": "MarketWatch",
-   "titre": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-   "lien": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-   "lien": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-   "lien": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "The major reason Microsoft’s stock is heading higher after earnings",
-   "lien": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-   "lien": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-   "lien": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-   "lien": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories"
-  },
-  {
-   "source": "MarketWatch",
-   "titre": "Chipotle now has more demand from lower-income diners than higher-income ones",
-   "lien": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-   "lien": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Healey unveils £100 for energy bills and bank tax in first Budget",
-   "lien": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "What we now know about the UK economy in four charts",
-   "lien": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "What the Budget offers for under 25s - and what it leaves out",
-   "lien": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Your pay, energy bills and savings: How the Budget affects you",
-   "lien": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-   "lien": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-   "lien": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Business",
-   "titre": "Microsoft profits soar days after announcing thousands of layoffs",
-   "lien": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "High-speed train crash kills at least 68 people in Spain",
-   "lien": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-   "lien": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-   "lien": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "lien": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "How could Israel break election deadlock? Here are four scenarios",
-   "lien": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Girl seriously injured in wolf attack at German wildlife park",
-   "lien": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "lien": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "BBC Monde",
-   "titre": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-   "lien": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Activists accuse Israeli settlers of assault in occupied West Bank",
-   "lien": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "30-year sentence in Minnesota fraud that drew Trump backlash",
-   "lien": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-   "lien": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Israeli settlers savagely attack journalists in occupied West Bank",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Kalshi, co-founders hit with criminal charges in US state of Utah",
-   "lien": "https://www.aljazeera.com/economy/2026/10/29/kalshi-co-founders-hit-with-criminal-charges-in-us-state-of-utah?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Serbians storm TV studio as pro-Vucic media faces reckoning",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss"
-  },
-  {
-   "source": "Al Jazeera",
-   "titre": "Bolsonaro in Miami: I am the ‘true president-elect’",
-   "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "Peace Talks Won’t Save Oil Buyers From $100-Plus Oil",
-   "lien": "https://oilprice.com/Energy/Crude-Oil/Peace-Talks-Wont-Save-Oil-Buyers-From-100-Plus-Oil.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
-   "lien": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
-   "lien": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "U.S. Natural Gas Production Hits New Records as Demand Surges",
-   "lien": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Production-Hits-New-Records-as-Demand-Surges.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "Solar Has Overtaken Nuclear in the Global Power Mix",
-   "lien": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Has-Overtaken-Nuclear-in-the-Global-Power-Mix.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
-   "lien": "https://oilprice.com/Latest-Energy-News/World-News/GE-Vernova-Expands-in-High-Voltage-Grid-Gear-With-Trench-Deal.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "India’s Record LNG Buying Meets Record-High Prices",
-   "lien": "https://oilprice.com/Energy/Natural-Gas/Indias-Record-LNG-Buying-Meets-Record-High-Prices.html"
-  },
-  {
-   "source": "OilPrice",
-   "titre": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
-   "lien": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html"
-  }
- ]
+ "hier": null
 }
