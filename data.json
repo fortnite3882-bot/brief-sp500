@@ -1,5 +1,249 @@
 {
  "aujourdhui": {
+  "date": "2026-11-01",
+  "maj": "2026-11-01T03:38:43.983395+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Entre tensions mondiales et records de profits énergétiques : comprendre les vents contraires du marché",
+   "en_bref": "Le S&P 500 fait face à une volatilité accrue, tiraillé entre des résultats technologiques contrastés et une géopolitique instable. La hausse des coûts de l'énergie et l'incertitude sociale mondiale pèsent lourdement sur le moral des investisseurs.",
+   "analyse": [
+    {
+     "titre": "Contexte global et instabilité sociale",
+     "texte": "Les troubles sociaux en Europe et les tensions politiques croissantes créent un climat d'incertitude mondiale. Cette instabilité diminue la confiance des investisseurs et favorise l'aversion au risque. En conséquence, les marchés pourraient subir des phases de correction dues à une demande globale plus prudente."
+    },
+    {
+     "titre": "Secteur énergétique et profits records",
+     "texte": "Le secteur pétrolier affiche des profits en forte hausse, portés par une demande robuste et des investissements accrus dans l'exploration. La flambée des prix du chauffage et de l'essence pèse toutefois sur le pouvoir d'achat des ménages américains. Cela pourrait freiner la consommation globale, un moteur essentiel du S&P 500."
+    },
+    {
+     "titre": "Technologie et investissements IA",
+     "texte": "Le secteur technologique subit des corrections liées au coût massif des investissements dans l'intelligence artificielle, qui frôlent les 1 000 milliards de dollars. Ce besoin de rentabilité rapide met sous pression les actions des géants du secteur. Une déception sur les résultats futurs pourrait entraîner une baisse significative des indices boursiers."
+    },
+    {
+     "titre": "Risques systémiques et cybersécurité",
+     "texte": "Le piratage historique de 6,3 milliards de dollars sur Binance illustre les vulnérabilités majeures du secteur des actifs numériques et leur influence sur le sentiment financier. Ces incidents renforcent la surveillance réglementaire et impactent indirectement la confiance globale. La volatilité liée à ces cyber-risques devient un paramètre incontournable pour le marché."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Si les profits pétroliers compensent la faiblesse technologique et que les tensions géopolitiques s'apaisent, le marché pourrait stabiliser sa tendance.",
+    "baissier": "Une inflation énergétique persistante conjuguée à un désengagement massif du secteur IA pourrait entraîner une correction sévère des indices."
+   },
+   "sentiment": {
+    "haussier": 20,
+    "neutre": 30,
+    "baissier": 50,
+    "explication": "Le ton est marqué par une inquiétude généralisée face aux coûts de la vie, aux tensions géopolitiques et à la volatilité technologique."
+   },
+   "calendrier": [],
+   "ambiance": {
+    "nom": "Orageux",
+    "teinte": 240
+   }
+  },
+  "calendrier": [],
+  "ambiance": {
+   "nom": "Orageux",
+   "teinte": 240
+  },
+  "titres": [
+   {
+    "source": "MarketWatch",
+    "titre": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    "lien": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+    "lien": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "This is where most people go wrong in their 30s and 40s",
+    "lien": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+    "lien": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+    "lien": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+    "lien": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+    "lien": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+    "lien": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    "lien": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "US tech stocks see sharp falls as AI spending nears $1tn",
+    "lien": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "City of London chief tops UK Black Powerlist",
+    "lien": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Yorkshire Water boss resigns after firm downgraded",
+    "lien": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Shops looted as German cost of living protests turn violent",
+    "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Soaring cost of Halloween treats spooks shoppers",
+    "lien": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Binance's $6.3bn crypto hack biggest in history",
+    "lien": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Shops looted as German cost of living protests turn violent",
+    "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+    "lien": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "lien": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "lien": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "lien": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+    "lien": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Ethiopian PM puts ministers through military training",
+    "lien": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Thousands demonstrate in Paris as protests spread across Europe",
+    "lien": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+    "lien": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+    "lien": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Talarico draws a packed campus rally, but can he win over young voters?",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Polish president holds crisis talks in court standoff",
+    "lien": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Gen Z-led protests in Germany turn violent",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+    "lien": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "ICE agent’s violent shove propels woman through the air",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Dutch authorities rescue 38 people adrift in rubber boat",
+    "lien": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Chevron Raises Exploration Spending By 50%",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
+    "lien": "https://oilprice.com/Geopolitics/International/US-Intelligence-China-Could-Put-Laser-Weapons-in-Space-by-2030.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+    "lien": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+    "lien": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
+    "lien": "https://oilprice.com/Energy/Energy-General/Senegals-Ambitious-Plan-to-Slash-Electricity-Costs-and-Boost-Energy-Security.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/Europe-Is-Now-Seriously-Rethinking-Its-Oil-Refinery-Phase-Down.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
+    "lien": "https://oilprice.com/Energy/Gas-Prices/Gasoline-Up-34-and-Heating-Oil-Up-74-as-Voters-Head-to-the-Midterms.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Chevron Profits Nearly Triple to $9.9 Billion",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Profits-Nearly-Triple-to-99-Billion.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-10-31",
   "maj": "2026-10-31T03:31:21.121628+00:00",
   "cours": [],
@@ -245,270 +489,6 @@
     "source": "OilPrice",
     "titre": "America’s LNG Boom Faces Its Biggest Test Yet",
     "lien": "https://oilprice.com/Energy/Energy-General/Americas-LNG-Boom-Faces-Its-Biggest-Test-Yet.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-10-30",
-  "maj": "2026-10-30T03:33:50.132610+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "Entre craintes liées à l'IA et incertitudes géopolitiques, le S&P 500 navigue en eaux troubles",
-   "en_bref": "Le marché américain est actuellement sous pression, tiraillé entre des résultats technologiques décevants et une instabilité géopolitique mondiale croissante. Les investisseurs surveillent de près la Fed et les indicateurs économiques pour anticiper la trajectoire des taux d'intérêt.",
-   "analyse": [
-    {
-     "titre": "Contexte global et géopolitique",
-     "texte": "Les tensions internationales, illustrées par les conflits en Ukraine et au Moyen-Orient ainsi que l'instabilité politique dans divers pays, pèsent sur le moral des marchés. Ces événements provoquent une aversion au risque, incitant les investisseurs à délaisser les actions au profit de valeurs refuges. L'incertitude globale complique la visibilité des entreprises sur leurs chaînes d'approvisionnement et leurs perspectives de croissance."
-    },
-    {
-     "titre": "Politique monétaire et taux d'intérêt",
-     "texte": "La Réserve fédérale (Fed) maintient ses taux directeurs inchangés alors que l'économie américaine montre des signes de croissance. Cette stabilité monétaire est cruciale, car elle dicte le coût du crédit pour les ménages et les entreprises. Les investisseurs scrutent chaque communication de la Fed pour évaluer si cette politique restrictive suffira à contenir l'inflation sans étouffer l'activité économique."
-    },
-    {
-     "titre": "Le secteur technologique en pleine tourmente",
-     "texte": "Des poids lourds du secteur comme Google et Amazon subissent des pressions liées aux craintes entourant l'intelligence artificielle et aux résultats financiers décevants. Cette correction technologique impacte fortement le S&P 500, car ces entreprises représentent une part importante de sa capitalisation boursière. Les investisseurs doutent désormais de la rentabilité immédiate des investissements massifs dans l'IA."
-    },
-    {
-     "titre": "Énergie et matières premières",
-     "texte": "Le secteur de l'énergie est marqué par des inquiétudes sur la sécurité des infrastructures et l'évolution de la demande mondiale en gaz et pétrole. Les tensions sur les approvisionnements, exacerbées par les risques sécuritaires pour les géants pétroliers comme Exxon et Chevron, entretiennent une volatilité sur les prix. Parallèlement, la transition énergétique se poursuit avec le développement du solaire et du nucléaire, modifiant les perspectives à long terme du secteur."
-    }
-   ],
-   "scenarios": {
-    "haussier": "Une stabilisation des tensions géopolitiques et des publications de résultats meilleurs que prévu pourraient permettre un rebond rapide des valeurs technologiques.",
-    "baissier": "Si les craintes liées à l'IA s'intensifient et que les indicateurs de coûts de l'emploi signalent une inflation persistante, une correction plus profonde du S&P 500 est probable."
-   },
-   "sentiment": {
-    "haussier": 20,
-    "neutre": 30,
-    "baissier": 50,
-    "explication": "Le ton général est empreint de prudence et d'inquiétude face à la volatilité des grandes entreprises technologiques et aux risques géopolitiques."
-   },
-   "calendrier": [
-    {
-     "fr": "Indice du coût de l'emploi",
-     "pourquoi": "Indicateur clé pour évaluer la pression inflationniste liée aux salaires aux États-Unis."
-    }
-   ],
-   "ambiance": {
-    "nom": "Orageux",
-    "teinte": 210
-   }
-  },
-  "calendrier": [
-   {
-    "t": "2026-10-30T12:30:00+00:00",
-    "titre": "Employment Cost Index q/q",
-    "impact": 2,
-    "prevu": "0.8%",
-    "precedent": "0.9%",
-    "fr": "Indice du coût de l'emploi",
-    "pourquoi": "Indicateur clé pour évaluer la pression inflationniste liée aux salaires aux États-Unis."
-   }
-  ],
-  "ambiance": {
-   "nom": "Orageux",
-   "teinte": 210
-  },
-  "titres": [
-   {
-    "source": "MarketWatch",
-    "titre": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-    "lien": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-    "lien": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-    "lien": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-    "lien": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-    "lien": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Why Intel’s stock is sinking toward its worst drop in two years",
-    "lien": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    "lien": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "The midterms are crucial to the future of Social Security — no matter how old you are",
-    "lien": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Binance says crypto worth $6.3bn impacted in suspected hack",
-    "lien": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Google value plunges by $500bn as AI fears rattle Wall Street",
-    "lien": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-    "lien": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "US interest rates held steady and economy grows - what it means for you",
-    "lien": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-    "lien": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "From workshops to the catwalk - why mended clothes are going mainstream",
-    "lien": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Faisal Islam: This Budget was micro and that was deliberate",
-    "lien": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Bereaved families will not face tax bill over pension delays under new rules",
-    "lien": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-    "lien": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-    "lien": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-    "lien": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-    "lien": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-    "lien": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Philippine police obtain warrant to search Thomas Markle's devices",
-    "lien": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "EU chief lays out vision for new Canada partnership at Montreal summit",
-    "lien": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-    "lien": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Flash floods kill five in Syria",
-    "lien": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Husband of one of Modi’s closest advisors questions election integrity",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Fujimori tours El Salvador mega-prison with hopes to build one in Peru",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fujimori-tours-el-salvador-mega-prison-with-hopes-to-build-one-in-peru?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Salvadoran ex-president Saca released after 10-year sentence for corruption",
-    "lien": "https://www.aljazeera.com/news/2026/10/30/salvadoran-ex-president-saca-released-after-serving-a-10-year-sentence-for-corruption?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Trump administration renews bid to block Alaska election results",
-    "lien": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "EU force helicopter crash kills four in Bosnia",
-    "lien": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
-    "lien": "https://oilprice.com/Alternative-Energy/Solar-Energy/Off-Grid-Solar-Is-Now-the-Cheapest-Power-for-Nearly-400-Million-People.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "What’s Next for Global Natural Gas Demand?",
-    "lien": "https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "China’s Battery Factories May Sit Atop Lithium Resources",
-    "lien": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
-    "lien": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "World's First Permanent Nuclear Waste Site Wins License in Finland",
-    "lien": "https://oilprice.com/Energy/Energy-General/Worlds-First-Permanent-Nuclear-Waste-Site-Wins-License-in-Finland.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Exxon, Chevron Executives Cancel Gulf Visit Over Security Concerns",
-    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Chevron-Executives-Cancel-Gulf-Visit-Over-Security-Concerns.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
-    "lien": "https://oilprice.com/Energy/Energy-General/BYD-Earnings-Miss-Estimates-as-Chinas-EV-Price-War-Takes-Its-Toll.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "U.S. Pushes Nuclear Energy Expansion in Central Asia and Caucasus",
-    "lien": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Pushes-Nuclear-Energy-Expansion-in-Central-Asia-and-Caucasus.html"
    }
   ]
  }
