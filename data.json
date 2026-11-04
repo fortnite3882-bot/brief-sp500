@@ -1,5 +1,226 @@
 {
  "aujourdhui": {
+  "date": "2026-11-04",
+  "maj": "2026-11-04T03:39:06.932745+00:00",
+  "cours": [],
+  "resume": null,
+  "calendrier": [
+   {
+    "t": "2026-11-04T15:00:00+00:00",
+    "titre": "ISM Services PMI",
+    "impact": 2,
+    "prevu": "54.8",
+    "precedent": "54.9"
+   }
+  ],
+  "ambiance": {
+   "nom": "",
+   "teinte": 76
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "lien": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
+    "lien": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+    "lien": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "lien": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+    "lien": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Stock market after midterm elections: What S&P 500 history shows",
+    "lien": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+    "lien": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+    "lien": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "What analysts are telling us while Apple’s stock falls after earnings report",
+    "lien": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+    "lien": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "AI’s control over the bond market is growing — even rivaling war and elections",
+    "lien": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+    "lien": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
+    "lien": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
+    "lien": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Poundland supplier 'will lose millions' if retailer collapses",
+    "lien": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "lien": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+    "lien": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "lien": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Canva announces major job cuts after 'our hardest year yet'",
+    "lien": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Graduates are managing AI - but are they learning much else?",
+    "lien": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Drivers may get compensation offers before car finance saga ends",
+    "lien": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Asda hires ex-Morrisons boss in bid to grow firm",
+    "lien": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Democratic rising star Ossoff projected to hold Georgia seat",
+    "lien": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Spanish transport minister resigns days after deadly train crash",
+    "lien": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Seven flights across Europe targeted by suspected bomb threats",
+    "lien": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "lien": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "NTSB says crucial plane parts found three miles from Florida crash site",
+    "lien": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+    "lien": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Libya's top religious authority rules against wearing Nike clothes",
+    "lien": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+    "lien": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Seven flights across Europe targeted by suspected bomb threats",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
+    "lien": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Ballot shortages reported in Dearborn, Michigan",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Kazakhstan releases second tiger into the wild",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Democrat Roy Cooper flips North Carolina US Senate seat",
+    "lien": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "UN elects five judges to International Court of Justice amid record cases",
+    "lien": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
+    "lien": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
+    "lien": "https://oilprice.com/Energy/Energy-General/Pentagon-Eyes-Unprecedented-75-Year-Deal-to-End-Chinas-Rare-Earth-Stranglehold.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling",
+    "lien": "https://oilprice.com/Energy/Natural-Gas/Iran-War-Doubles-Egypts-LNG-Bill-as-Gas-Output-Keeps-Falling.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-03",
   "maj": "2026-11-03T03:38:58.913075+00:00",
   "cours": [],
@@ -273,270 +494,6 @@
     "source": "OilPrice",
     "titre": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
     "lien": "https://oilprice.com/Energy/Energy-General/4-Energy-Stocks-for-Midterm-Elections-That-Could-Go-Either-Way.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-02",
-  "maj": "2026-11-02T03:41:55.847891+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "S&P 500 : Entre optimisme technologique et instabilité globale",
-   "en_bref": "Le marché boursier navigue entre l'euphorie de l'intelligence artificielle et une accumulation de tensions géopolitiques mondiales. Tandis que les résultats des géants technologiques captivent les investisseurs, le coût de la vie et les conflits internationaux pèsent sur le moral général.",
-   "analyse": [
-    {
-     "titre": "Contexte global et tension sociale",
-     "texte": "La montée du coût de la vie impacte directement la confiance des consommateurs américains. Cette pression inflationniste, couplée à des troubles civils dans plusieurs régions du globe, génère une incertitude économique. Pour le S&P 500, ce climat réduit la visibilité des entreprises sur la consommation future des ménages."
-    },
-    {
-     "titre": "Géopolitique et chaînes d'approvisionnement",
-     "texte": "Les conflits en Ukraine et au Moyen-Orient perturbent les marchés et la sécurité énergétique mondiale. Ces tensions augmentent les risques opérationnels pour les multinationales. En conséquence, les investisseurs privilégient souvent les valeurs refuges au détriment des actions plus risquées."
-    },
-    {
-     "titre": "Énergie et métaux stratégiques",
-     "texte": "La course technologique, notamment via l'IA, exige des infrastructures énergétiques et des métaux rares colossaux. L'augmentation des investissements de Chevron et la compétition pour ces ressources créent des goulots d'étranglement industriels. Cela pèse sur les coûts de production à long terme pour le secteur technologique."
-    },
-    {
-     "titre": "IA et résultats d'entreprises",
-     "texte": "Le marché est suspendu aux résultats des géants technologiques qui justifient des valorisations élevées. Bien que l'IA soit un moteur de croissance, des menaces pèsent sur la pérennité de ce marché haussier technologique. La capacité de ces entreprises à maintenir leurs marges déterminera la direction future du S&P 500."
-    }
-   ],
-   "scenarios": {
-    "haussier": "Si les résultats des entreprises technologiques confirment la rentabilité de l'IA, le S&P 500 pourrait atteindre de nouveaux sommets.",
-    "baissier": "Une escalade des tensions géopolitiques ou une déception majeure sur les bénéfices Big Tech déclencheraient probablement une correction significative."
-   },
-   "sentiment": {
-    "haussier": 30,
-    "neutre": 30,
-    "baissier": 40,
-    "explication": "Le sentiment est partagé entre l'innovation technologique prometteuse et une inquiétude grandissante face aux risques macroéconomiques."
-   },
-   "calendrier": [
-    {
-     "fr": "Indice manufacturier ISM",
-     "pourquoi": "Indicateur clé pour évaluer la santé de l'activité industrielle américaine."
-    }
-   ],
-   "ambiance": {
-    "nom": "fébrile",
-    "teinte": 30
-   }
-  },
-  "calendrier": [
-   {
-    "t": "2026-11-02T15:00:00+00:00",
-    "titre": "ISM Manufacturing PMI",
-    "impact": 2,
-    "prevu": "54.5",
-    "precedent": "54.5",
-    "fr": "Indice manufacturier ISM",
-    "pourquoi": "Indicateur clé pour évaluer la santé de l'activité industrielle américaine."
-   }
-  ],
-  "ambiance": {
-   "nom": "fébrile",
-   "teinte": 30
-  },
-  "titres": [
-   {
-    "source": "MarketWatch",
-    "titre": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-    "lien": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "This is the biggest threat to the AI-powered bull market",
-    "lien": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Apple’s new earnings era begins at a critical time for Big Tech",
-    "lien": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "lien": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-    "lien": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-    "lien": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    "lien": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-    "lien": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Binance users withdraw $3.6bn after record crypto hack",
-    "lien": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Don't get caught out by new Buy Now Pay Later rules",
-    "lien": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Thousands of jobs at Virgin Media O2 to be cut",
-    "lien": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-    "lien": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-    "lien": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Don't get caught out by new Buy Now Pay Later rules",
-    "lien": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
-    "lien": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Shops looted as German cost-of-living protests turn violent",
-    "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-    "lien": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-    "lien": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-    "lien": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "lien": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "France launches attempted murder investigation after petrol bomb thrown at police",
-    "lien": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "University of Cambridge scientist among those who died in Spanish train crash",
-    "lien": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Armed police start patrols in Sydney after Bondi Beach attack",
-    "lien": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Shops looted as German cost-of-living protests turn violent",
-    "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Ukraine blames Russia after air alert app sends out false warnings",
-    "lien": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
-    "lien": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Trump invites Michigan Democrat Stevens to join the Republican Party",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Nine die in ‘cataclysmic’ Florida business jet crash",
-    "lien": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
-    "lien": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Bollywood star greets fans in bulletproof glass after bomb threat",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
-    "lien": "https://oilprice.com/Energy/Energy-General/Why-Is-This-Rare-Earth-Metal-346-Times-More-Expensive-In-America-Than-in-China.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Oil Prices No Longer Follow Headlines",
-    "lien": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
-    "lien": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
-    "lien": "https://oilprice.com/Energy/Energy-General/US-Labs-Look-to-New-Materials-to-Close-Chinas-Nuclear-Lead.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
-    "lien": "https://oilprice.com/Energy/Energy-General/Azerbaijans-Renewable-Energy-Boom-Is-Transforming-Its-Power-Sector.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Chevron Raises Exploration Spending By 50%",
-    "lien": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
-    "lien": "https://oilprice.com/Geopolitics/International/US-Intelligence-China-Could-Put-Laser-Weapons-in-Space-by-2030.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
-    "lien": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html"
    }
   ]
  }
