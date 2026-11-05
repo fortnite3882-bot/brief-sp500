@@ -1,5 +1,269 @@
 {
  "aujourdhui": {
+  "date": "2026-11-05",
+  "maj": "2026-11-05T03:42:39.361995+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Le S&P 500 à la croisée des chemins : élections, taux et tensions énergétiques",
+   "en_bref": "Le marché américain navigue dans une période de forte volatilité marquée par l'onde de choc des élections de mi-mandat et une instabilité géopolitique majeure. Cette conjoncture, couplée à des tensions sur les matières premières, redéfinit les priorités des investisseurs pour les mois à venir.",
+   "analyse": [
+    {
+     "titre": "Le contrecoup politique des élections de mi-mandat",
+     "texte": "Les résultats inattendus des élections de mi-mandat ont déclenché des turbulences politiques, influençant directement la confiance des marchés. Le scepticisme des investisseurs face aux nouveaux équilibres de pouvoir crée une incertitude sur les politiques budgétaires futures. Historiquement, le S&P 500 réagit vivement à ces transitions, cherchant à anticiper les changements législatifs potentiels."
+    },
+    {
+     "titre": "Tensions monétaires et le spectre des taux",
+     "texte": "Le marché anticipe une hausse des taux d'intérêt, une première depuis trois ans, afin de stabiliser l'économie. Cette perspective pèse sur les rendements obligataires et incite les investisseurs à ajuster leurs portefeuilles en conséquence. Une hausse des taux renchérit le coût du crédit, ce qui peut freiner la valorisation des actions à court terme."
+    },
+    {
+     "titre": "Chocs pétroliers et instabilité géopolitique",
+     "texte": "Le conflit au Moyen-Orient et les crises dans le détroit d'Hormuz provoquent une volatilité extrême des prix du pétrole et du gaz. Cette instabilité énergétique contraint les entreprises à faire face à des coûts d'approvisionnement imprévisibles, impactant directement les marges bénéficiaires. La réponse du marché est brutale, comme en témoigne la chute récente des cours du pétrole."
+    },
+    {
+     "titre": "L'IA face à l'exigence de rentabilité",
+     "texte": "Le secteur technologique, moteur du S&P 500, est désormais scruté pour sa capacité à convertir les investissements massifs en IA en profits réels. Des entreprises comme Qualcomm ou Figma subissent des pressions liées à leurs coûts de développement élevés par rapport à leurs ventes. L'enthousiasme initial laisse place à une sélectivité accrue des investisseurs vis-à-vis des promesses technologiques."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Une stabilisation politique post-électorale combinée à une détente des prix de l'énergie pourrait favoriser un rebond technique des indices.",
+    "baissier": "La persistance des tensions au détroit d'Hormuz et une hausse agressive des taux pourraient précipiter une correction plus profonde du S&P 500."
+   },
+   "sentiment": {
+    "haussier": 25,
+    "neutre": 30,
+    "baissier": 45,
+    "explication": "Le sentiment est majoritairement prudent, dominé par l'anxiété géopolitique et l'incertitude liée aux changements de cycle monétaire."
+   },
+   "calendrier": [
+    {
+     "fr": "Demandes d'allocations chômage",
+     "pourquoi": "Indicateur clé pour évaluer la santé du marché du travail et la politique de la Fed."
+    }
+   ],
+   "ambiance": {
+    "nom": "Turbulent",
+    "teinte": 20
+   }
+  },
+  "calendrier": [
+   {
+    "t": "2026-11-05T13:30:00+00:00",
+    "titre": "Unemployment Claims",
+    "impact": 2,
+    "prevu": "197K",
+    "precedent": "194K",
+    "fr": "Demandes d'allocations chômage",
+    "pourquoi": "Indicateur clé pour évaluer la santé du marché du travail et la politique de la Fed."
+   }
+  ],
+  "ambiance": {
+   "nom": "Turbulent",
+   "teinte": 20
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+    "lien": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+    "lien": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+    "lien": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Stock market after midterm elections: What S&P 500 history shows",
+    "lien": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Qualcomm’s stock falls as twin forces pressure sales",
+    "lien": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+    "lien": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+    "lien": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "McDonald’s tests new value menu as fast-food discount wars heat up",
+    "lien": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+    "lien": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+    "lien": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "lien": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "How do Americans feel about the midterm results? It depends on how much money they make.",
+    "lien": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Interest rates expected to rise for first time in over three years",
+    "lien": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Pound rises to its highest level since the Brexit referendum",
+    "lien": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "lien": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Poundland owner in crunch talks as retailer's collapse looms",
+    "lien": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+    "lien": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Graduates are managing AI - but are they learning much else?",
+    "lien": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "lien": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Australia's oldest department store David Jones folds after 188 years",
+    "lien": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+    "lien": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+    "lien": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "lien": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+    "lien": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "'Most difficult days of my life' for keeper Owono",
+    "lien": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Israel's president begins consultations with parties after election deadlock",
+    "lien": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+    "lien": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Secret police files released in Hungary, 37 years after fall of communism",
+    "lien": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "What’s delaying US midterm election calls in Mississippi and Alaska?",
+    "lien": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Former Israeli generals help Palestinian olive farmers",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Vote counting underway in critical South Africa elections",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "El Salvador’s Bukele touts military intervention in Haiti",
+    "lien": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Election deniers lose races for governor in key US swing states",
+    "lien": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+    "lien": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Africa’s richest man launches mega oil tank farm in Namibia",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Ohio’s voters tell Republicans: don’t take us for granted",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
+    "lien": "https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Butane’s Perfect Storm Sends Prices to Decade Highs",
+    "lien": "https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Qatar Becomes Largest Buyer of U.S. LNG Amid Hormuz Crisis",
+    "lien": "https://oilprice.com/Energy/Natural-Gas/Qatar-Becomes-Largest-Buyer-of-US-LNG-Amid-Hormuz-Crisis.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Can Cheap Batteries Deliver COP31’s 35% Electrification Goal?",
+    "lien": "https://oilprice.com/Energy/Energy-General/Can-Cheap-Batteries-Deliver-COP31s-35-Electrification-Goal.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-04",
   "maj": "2026-11-04T03:39:06.932745+00:00",
   "cours": [],
@@ -217,283 +481,6 @@
     "source": "OilPrice",
     "titre": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling",
     "lien": "https://oilprice.com/Energy/Natural-Gas/Iran-War-Doubles-Egypts-LNG-Bill-as-Gas-Output-Keeps-Falling.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-03",
-  "maj": "2026-11-03T03:38:58.913075+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "Le S&P 500 face à l'incertitude : entre élections américaines et tensions géopolitiques",
-   "en_bref": "Le marché boursier navigue dans une zone de turbulences marquée par les élections américaines et des craintes croissantes sur l'intelligence artificielle. Ces facteurs, combinés à des tensions géopolitiques mondiales, créent un climat d'investissement volatil et prudent.",
-   "analyse": [
-    {
-     "titre": "Contexte électoral américain",
-     "texte": "Les élections législatives de mi-mandat approchent, créant une attente fébrile sur Wall Street. Historiquement, le marché surveille la configuration politique issue des urnes pour anticiper les futures orientations budgétaires. Ce climat d'incertitude incite les investisseurs à la prudence en attendant de connaître l'équilibre des pouvoirs au Congrès."
-    },
-    {
-     "titre": "Tensions géopolitiques et énergie",
-     "texte": "Les frappes en Iran et les conflits en Ukraine ravivent les craintes sur la stabilité mondiale et l'approvisionnement énergétique. Ces événements pèsent sur le sentiment des investisseurs en augmentant les risques systémiques. La volatilité dans les régions clés pour le pétrole pourrait impacter directement les coûts opérationnels des entreprises mondiales."
-    },
-    {
-     "titre": "Secteur technologique et IA",
-     "texte": "Le secteur de l'IA traverse une zone de doute, illustrée par la chute du Nasdaq-100 et les performances mitigées d'acteurs comme Apple ou Palantir. Malgré des fondamentaux solides, les investisseurs punissent les entreprises qui ne répondent pas aux attentes extrêmement élevées. Cette correction reflète une inquiétude grandissante sur la valorisation actuelle des champions de la tech."
-    },
-    {
-     "titre": "Micro-dynamiques de marché",
-     "texte": "On observe une divergence notable où les actions historiquement délaissées surpassent les favoris de Wall Street. Cette rotation sectorielle montre que les investisseurs cherchent des opportunités en dehors des sentiers battus. Le scepticisme grandit également face à certaines fusions et acquisitions jugées peu avantageuses pour les actionnaires."
-    }
-   ],
-   "scenarios": {
-    "haussier": "Une issue électorale claire et apaisée pourrait rassurer les investisseurs et déclencher un rebond technique après les corrections récentes.",
-    "baissier": "Une escalade des tensions au Moyen-Orient ou des résultats décevants persistants dans la tech pourraient accentuer la correction actuelle vers des supports plus bas."
-   },
-   "sentiment": {
-    "haussier": 20,
-    "neutre": 30,
-    "baissier": 50,
-    "explication": "Le ton général des analystes et des titres de presse est empreint de prudence face aux risques géopolitiques et aux corrections sectorielles."
-   },
-   "calendrier": [
-    {
-     "fr": "Offres d'emploi JOLTS",
-     "pourquoi": "Indicateur clé de la santé du marché du travail et de la pression salariale."
-    },
-    {
-     "fr": "Élections au Congrès",
-     "pourquoi": "Événement majeur déterminant la politique économique et budgétaire américaine pour les prochaines années."
-    }
-   ],
-   "ambiance": {
-    "nom": "Incertitude",
-    "teinte": 210
-   }
-  },
-  "calendrier": [
-   {
-    "t": "2026-11-03T15:00:00+00:00",
-    "titre": "JOLTS Job Openings",
-    "impact": 2,
-    "prevu": "7.15M",
-    "precedent": "7.08M",
-    "fr": "Offres d'emploi JOLTS",
-    "pourquoi": "Indicateur clé de la santé du marché du travail et de la pression salariale."
-   },
-   {
-    "t": "2026-11-03T15:16:00+00:00",
-    "titre": "Congressional Elections",
-    "impact": 3,
-    "prevu": "",
-    "precedent": "",
-    "fr": "Élections au Congrès",
-    "pourquoi": "Événement majeur déterminant la politique économique et budgétaire américaine pour les prochaines années."
-   }
-  ],
-  "ambiance": {
-   "nom": "Incertitude",
-   "teinte": 210
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "lien": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-    "lien": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Stock market after midterm elections: What S&P 500 history shows",
-    "lien": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-    "lien": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
-    "lien": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
-    "lien": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-    "lien": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-    "lien": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-    "lien": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Wall Street’s most hated stocks are faring far better than its favorites",
-    "lien": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-    "lien": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-    "lien": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "lien": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Shop freezers in seven European countries hit by cyber-attack",
-    "lien": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "North Korea denies being behind record $6.3bn Binance hack",
-    "lien": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Apple unsure when more foldable iPhones will be available after selling out",
-    "lien": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Ryanair says it may freeze workers' pay and raise airfares",
-    "lien": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Poundland's former owner offers to invest as minister prepares to meet board",
-    "lien": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "lien": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-    "lien": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-    "lien": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-    "lien": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-    "lien": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-    "lien": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Shop freezers in seven European countries hit by cyber-attack",
-    "lien": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-    "lien": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Legal challenge to Australia's social media ban to start in High Court",
-    "lien": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "North Korea denies being behind record $6.3bn Binance hack",
-    "lien": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "US urges Venezuela to follow phased plan for democratic transition",
-    "lien": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-    "lien": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Thousands displaced as homes are bulldozed in India’s Assam state",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "US lawmakers ask Trump administration to stop deportation of Afghans",
-    "lien": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Ebola outbreak kills more than 5,300 people in DR Congo",
-    "lien": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
-    "lien": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Questions Mount Over Venezuela’s Biggest Oil Deal",
-    "lien": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Germany Misses Gas Storage Target as Prices Soar",
-    "lien": "https://oilprice.com/Energy/Natural-Gas/Germany-Misses-Gas-Storage-Target-as-Prices-Soar.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Africa Launches Its Own Oil Bank as Western Lenders Retreat",
-    "lien": "https://oilprice.com/Energy/Energy-General/Africa-Launches-Its-Own-Oil-Bank-as-Western-Lenders-Retreat.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
-    "lien": "https://oilprice.com/Energy/Energy-General/4-Energy-Stocks-for-Midterm-Elections-That-Could-Go-Either-Way.html"
    }
   ]
  }
