@@ -1,5 +1,321 @@
 {
  "aujourdhui": {
+  "date": "2026-11-06",
+  "maj": "2026-11-06T03:41:12.077532+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Le S&P 500 à la croisée des chemins entre turbulences technologiques et changements politiques.",
+   "en_bref": "Le marché subit une forte correction, portée par une inquiétude croissante concernant l'intelligence artificielle et les résultats des élections américaines. Parallèlement, la hausse des taux d'intérêt et l'incertitude géopolitique pèsent sur le moral des investisseurs.",
+   "analyse": [
+    {
+     "titre": "Contexte politique et dynamique de marché",
+     "texte": "Les résultats des élections de mi-mandat ont entraîné une victoire démocrate qui modifie les attentes sur les relations commerciales et énergétiques. Cette nouvelle donne politique génère une incertitude immédiate, poussant le Nasdaq vers une zone de correction technique. Les investisseurs réévaluent les risques réglementaires, provoquant une volatilité accrue sur l'ensemble des indices."
+    },
+    {
+     "titre": "Taux d'intérêt et politique monétaire",
+     "texte": "La Réserve fédérale poursuit son cycle de resserrement monétaire avec une hausse des taux à 4 %, marquant un tournant après plusieurs années de stabilité. Barkin suggère que des hausses graduelles pourraient se poursuivre pour contrer l'inflation. Cette hausse renchérit le coût du crédit et pèse sur les valorisations boursières, notamment pour les entreprises à forte croissance."
+    },
+    {
+     "titre": "Pétrole et géopolitique",
+     "texte": "Le cours du pétrole rebondit vers les 100 dollars, influencé par les tensions au Moyen-Orient et les incertitudes liées aux décisions politiques américaines. Cette hausse des prix de l'énergie complique la tâche des entreprises et renforce les pressions inflationnistes globales. La crainte d'une escalade en Iran et le retrait des géants du schiste américain soutiennent cette tendance haussière sur le brut."
+    },
+    {
+     "titre": "Le secteur technologique sous pression",
+     "texte": "Le secteur de l'IA subit un coup d'arrêt brutal, aggravé par des appels à un moratoire sur les nouveaux centres de données après les élections. Si certaines entreprises comme Cloudflare affichent une croissance solide, l'enthousiasme général pour le secteur technologique s'essouffle. Les investisseurs fuient les valorisations excessives, marquant la pire journée pour les valeurs technologiques depuis 2020."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Une stabilisation des taux et des résultats d'entreprises résilients pourraient permettre un rebond technique après la correction actuelle.",
+    "baissier": "La poursuite des restrictions sur l'IA et une inflation persistante pourraient accentuer la baisse vers de nouveaux supports techniques."
+   },
+   "sentiment": {
+    "haussier": 20,
+    "neutre": 30,
+    "baissier": 50,
+    "explication": "Le sentiment est majoritairement baissier en raison de la correction technologique, de la hausse des taux et des incertitudes politiques."
+   },
+   "calendrier": [
+    {
+     "fr": "Salaires horaires moyens",
+     "pourquoi": "Indicateur clé de la pression inflationniste salariale pour la Fed."
+    },
+    {
+     "fr": "Créations d'emplois non agricoles",
+     "pourquoi": "Mesure la santé du marché du travail et sa capacité de résistance."
+    },
+    {
+     "fr": "Taux de chômage",
+     "pourquoi": "Donnée fondamentale pour évaluer la solidité de l'économie américaine."
+    },
+    {
+     "fr": "Indice de confiance des consommateurs",
+     "pourquoi": "Reflète le moral des ménages face à l'inflation et aux taux."
+    },
+    {
+     "fr": "Anticipations d'inflation",
+     "pourquoi": "Détermine les futures décisions de politique monétaire de la Fed."
+    }
+   ],
+   "ambiance": {
+    "nom": "Incertitude",
+    "teinte": 30
+   }
+  },
+  "calendrier": [
+   {
+    "t": "2026-11-06T13:30:00+00:00",
+    "titre": "Average Hourly Earnings m/m",
+    "impact": 3,
+    "prevu": "0.3%",
+    "precedent": "0.1%",
+    "fr": "Salaires horaires moyens",
+    "pourquoi": "Indicateur clé de la pression inflationniste salariale pour la Fed."
+   },
+   {
+    "t": "2026-11-06T13:30:00+00:00",
+    "titre": "Non-Farm Employment Change",
+    "impact": 3,
+    "prevu": "65K",
+    "precedent": "29K",
+    "fr": "Créations d'emplois non agricoles",
+    "pourquoi": "Mesure la santé du marché du travail et sa capacité de résistance."
+   },
+   {
+    "t": "2026-11-06T13:30:00+00:00",
+    "titre": "Unemployment Rate",
+    "impact": 3,
+    "prevu": "4.2%",
+    "precedent": "4.2%",
+    "fr": "Taux de chômage",
+    "pourquoi": "Donnée fondamentale pour évaluer la solidité de l'économie américaine."
+   },
+   {
+    "t": "2026-11-06T15:00:00+00:00",
+    "titre": "Prelim UoM Consumer Sentiment",
+    "impact": 2,
+    "prevu": "48.1",
+    "precedent": "46.3",
+    "fr": "Indice de confiance des consommateurs",
+    "pourquoi": "Reflète le moral des ménages face à l'inflation et aux taux."
+   },
+   {
+    "t": "2026-11-06T15:00:00+00:00",
+    "titre": "Prelim UoM Inflation Expectations",
+    "impact": 2,
+    "prevu": "",
+    "precedent": "4.7%",
+    "fr": "Anticipations d'inflation",
+    "pourquoi": "Détermine les futures décisions de politique monétaire de la Fed."
+   }
+  ],
+  "ambiance": {
+   "nom": "Incertitude",
+   "teinte": 30
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Nasdaq drops into correction territory — here’s what typically happens next",
+    "lien": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+    "lien": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "lien": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
+    "lien": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "What the Democratic midterms sweep changes for U.S.-China relations",
+    "lien": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+    "lien": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+    "lien": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "lien": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    "lien": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+    "lien": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+    "lien": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Here are the 2027 capital-gains tax rates for each income level",
+    "lien": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+    "lien": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+    "lien": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+    "lien": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "lien": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Firms told to publish salaries in job adverts ahead of new law",
+    "lien": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "'I was asked if I was a crier': Your worst job interviews revealed",
+    "lien": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Interest rates hiked to 4% in first increase in over three years",
+    "lien": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Faisal Islam: How high will interest rates go?",
+    "lien": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "The engine parts that 'fight the laws of the universe'",
+    "lien": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Three ways the interest rate rise could affect you",
+    "lien": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+    "lien": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "lien": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Trump signs order preventing future presidents from changing Oval Office",
+    "lien": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+    "lien": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+    "lien": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Hoax bomb threats target European airlines and airports for second time in a week",
+    "lien": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "California governor commutes sentences for state's 548 death row inmates",
+    "lien": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Paraguay President Santiago Peña resigns after bank collapse",
+    "lien": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "French protests see numbers surge as unions join strikes over high cost of living",
+    "lien": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Iran’s security chief meets Putin, delivers message from Khamenei",
+    "lien": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Gaza turns discarded cooking pots into seawalls",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "California governor commutes sentences of more than 500 people on death row",
+    "lien": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Turkiye’s parliament ratifies Mecca defence agreement",
+    "lien": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+    "lien": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+    "lien": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+    "lien": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
+    "lien": "https://oilprice.com/Energy/Energy-General/Americas-Rare-Earth-Reckoning-Is-Less-Than-60-Days-Away.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-05",
   "maj": "2026-11-05T03:42:39.361995+00:00",
   "cours": [],
@@ -260,227 +576,6 @@
     "source": "OilPrice",
     "titre": "Can Cheap Batteries Deliver COP31’s 35% Electrification Goal?",
     "lien": "https://oilprice.com/Energy/Energy-General/Can-Cheap-Batteries-Deliver-COP31s-35-Electrification-Goal.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-04",
-  "maj": "2026-11-04T03:39:06.932745+00:00",
-  "cours": [],
-  "resume": null,
-  "calendrier": [
-   {
-    "t": "2026-11-04T15:00:00+00:00",
-    "titre": "ISM Services PMI",
-    "impact": 2,
-    "prevu": "54.8",
-    "precedent": "54.9"
-   }
-  ],
-  "ambiance": {
-   "nom": "",
-   "teinte": 76
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-    "lien": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
-    "lien": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-    "lien": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "lien": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-    "lien": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Stock market after midterm elections: What S&P 500 history shows",
-    "lien": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-    "lien": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-    "lien": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "What analysts are telling us while Apple’s stock falls after earnings report",
-    "lien": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-    "lien": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "AI’s control over the bond market is growing — even rivaling war and elections",
-    "lien": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-    "lien": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-    "lien": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
-    "lien": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Poundland supplier 'will lose millions' if retailer collapses",
-    "lien": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "lien": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-    "lien": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "lien": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Canva announces major job cuts after 'our hardest year yet'",
-    "lien": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Graduates are managing AI - but are they learning much else?",
-    "lien": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Drivers may get compensation offers before car finance saga ends",
-    "lien": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Asda hires ex-Morrisons boss in bid to grow firm",
-    "lien": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Democratic rising star Ossoff projected to hold Georgia seat",
-    "lien": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Spanish transport minister resigns days after deadly train crash",
-    "lien": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Seven flights across Europe targeted by suspected bomb threats",
-    "lien": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "lien": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "NTSB says crucial plane parts found three miles from Florida crash site",
-    "lien": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-    "lien": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Libya's top religious authority rules against wearing Nike clothes",
-    "lien": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-    "lien": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Seven flights across Europe targeted by suspected bomb threats",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
-    "lien": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Ballot shortages reported in Dearborn, Michigan",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Kazakhstan releases second tiger into the wild",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Democrat Roy Cooper flips North Carolina US Senate seat",
-    "lien": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "UN elects five judges to International Court of Justice amid record cases",
-    "lien": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
-    "lien": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
-    "lien": "https://oilprice.com/Energy/Energy-General/Pentagon-Eyes-Unprecedented-75-Year-Deal-to-End-Chinas-Rare-Earth-Stranglehold.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling",
-    "lien": "https://oilprice.com/Energy/Natural-Gas/Iran-War-Doubles-Egypts-LNG-Bill-as-Gas-Output-Keeps-Falling.html"
    }
   ]
  }
