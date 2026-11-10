@@ -1,5 +1,295 @@
 {
  "aujourdhui": {
+  "date": "2026-11-10",
+  "maj": "2026-11-10T03:38:36.552497+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Entre scandales technologiques et tensions mondiales, le S&P 500 navigue en eaux troubles",
+   "en_bref": "Le marché américain est actuellement secoué par une combinaison de résultats d'entreprises volatils et d'incertitudes géopolitiques majeures. Cette période de forte instabilité met à l'épreuve la confiance des investisseurs face aux fluctuations brutales des indices.",
+   "analyse": [
+    {
+     "titre": "Le climat géopolitique sous tension",
+     "texte": "Les conflits persistants, notamment en Arabie Saoudite avec des attaques sur les pipelines et les enjeux diplomatiques autour de l'Ukraine, pèsent sur le moral des investisseurs. Cette instabilité crée une aversion au risque, poussant les marchés à réagir brusquement aux moindres nouvelles. En conséquence, la volatilité des indices augmente, reflétant la crainte d'une contagion économique mondiale."
+    },
+    {
+     "titre": "La Fed et la surveillance des prix",
+     "texte": "L'attention se porte sur les annonces de la Fed et les publications des indices CPI et Core CPI. Ces données sont cruciales pour évaluer la trajectoire de l'inflation et dicter les futures décisions de taux d'intérêt. Si l'inflation ne ralentit pas comme prévu, la banque centrale pourrait maintenir des taux élevés, freinant ainsi la croissance des entreprises."
+    },
+    {
+     "titre": "L'énergie entre choc et transition",
+     "texte": "La chute brutale du cours du pétrole Brent, malgré les tensions au Moyen-Orient, témoigne de la complexité des marchés énergétiques actuels. Parallèlement, des investissements massifs dans la transition énergétique et l'innovation technologique redéfinissent les besoins en infrastructures. Ces fluctuations énergétiques impactent directement les coûts opérationnels des entreprises cotées."
+    },
+    {
+     "titre": "Nvidia et les géants de la tech",
+     "texte": "La chute de l'action Nvidia suite à des révélations sur son PDG crée une onde de choc sur tout le secteur technologique, moteur principal du S&P 500. Bien que le financement de l'IA reste robuste selon Goldman Sachs, les scandales liés aux puces et à la Chine fragilisent les leaders du marché. Cette nervosité pousse les investisseurs à scruter la solidité réelle des géants de l'IA face aux menaces réglementaires."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Une stabilisation diplomatique et des chiffres d'inflation inférieurs aux attentes pourraient rassurer le marché.",
+    "baissier": "La prolongation des scandales technologiques et une persistance de l'inflation pourraient entraîner une correction plus profonde."
+   },
+   "sentiment": {
+    "haussier": 20,
+    "neutre": 30,
+    "baissier": 50,
+    "explication": "Le ton est à la prudence et à l'inquiétude en raison de la superposition de crises corporatives, géopolitiques et de données économiques incertaines."
+   },
+   "calendrier": [
+    {
+     "fr": "Discours d'un membre de la Fed",
+     "pourquoi": "Influence potentielle sur les anticipations de taux d'intérêt et la politique monétaire."
+    },
+    {
+     "fr": "Indice des prix à la consommation sous-jacent",
+     "pourquoi": "Indicateur clé pour mesurer l'inflation hors énergie et alimentation."
+    },
+    {
+     "fr": "Indice des prix à la consommation",
+     "pourquoi": "Mesure globale du coût de la vie pour les ménages américains."
+    }
+   ],
+   "ambiance": {
+    "nom": "Turbulences",
+    "teinte": 10
+   }
+  },
+  "calendrier": [
+   {
+    "t": "2026-11-10T09:00:00+00:00",
+    "titre": "FOMC Member Waller Speaks",
+    "impact": 2,
+    "prevu": "",
+    "precedent": "",
+    "fr": "Discours d'un membre de la Fed",
+    "pourquoi": "Influence potentielle sur les anticipations de taux d'intérêt et la politique monétaire."
+   },
+   {
+    "t": "2026-11-10T13:30:00+00:00",
+    "titre": "Core CPI m/m",
+    "impact": 3,
+    "prevu": "0.2%",
+    "precedent": "0.3%",
+    "fr": "Indice des prix à la consommation sous-jacent",
+    "pourquoi": "Indicateur clé pour mesurer l'inflation hors énergie et alimentation."
+   },
+   {
+    "t": "2026-11-10T13:30:00+00:00",
+    "titre": "CPI m/m",
+    "impact": 3,
+    "prevu": "0.3%",
+    "precedent": "0.6%",
+    "fr": "Indice des prix à la consommation",
+    "pourquoi": "Mesure globale du coût de la vie pour les ménages américains."
+   }
+  ],
+  "ambiance": {
+   "nom": "Turbulences",
+   "teinte": 10
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+    "lien": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "lien": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+    "lien": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "lien": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+    "lien": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "lien": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+    "lien": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+    "lien": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "lien": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+    "lien": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "lien": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "lien": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "lien": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Civil servant who secretly held five jobs found guilty of fraud",
+    "lien": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "How a civil servant got away with juggling five jobs for so long",
+    "lien": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Poundland unable to buy new stock as fears over collapse grow",
+    "lien": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Qantas to outsource 850 local jobs with most roles moving to India",
+    "lien": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "lien": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "lien": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "lien": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "lien": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+    "lien": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "France accuses Iran of supermarket fridge hacking",
+    "lien": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+    "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Qantas to outsource 850 local jobs with most roles moving to India",
+    "lien": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Russia's leading independent newspaper closes after eviction",
+    "lien": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+    "lien": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Newly-elected Democrats react to Hegseth impeachment bid",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Harare demolitions leave families homeless after years of building",
+    "lien": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+    "lien": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Cameroon sets date for twice-delayed legislative and local elections",
+    "lien": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Israel’s Shin Bet finds no evidence of foreign election interference",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+    "lien": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "France blames Iran for October supermarket cyberattack",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/US-Traders-Weigh-the-Cost-of-Taking-Trumps-Russian-Diesel.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "China to Spend $940B on Energy Transition in 2026",
+    "lien": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-to-Spend-940B-on-Energy-Transition-in-2026.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%",
+    "lien": "https://oilprice.com/Energy/Energy-General/Scientists-Develop-Cheap-Filter-That-Could-Slash-Oil-Refining-Energy-Use-by-32.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+    "lien": "https://oilprice.com/Geopolitics/Africa/Why-Sudans-Civil-War-Is-Becoming-a-US-National-Security-Threat.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crashes-7-on-Iran-Peace-Hopes-Despite-Fresh-Saudi-Pipeline-Attack.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Europe’s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
+    "lien": "https://oilprice.com/Energy/Energy-General/Europes-Raw-Material-Future-Lies-Next-Door-If-It-Does-Not-Repeat-the-Past.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-09",
   "maj": "2026-11-09T03:43:46.833932+00:00",
   "cours": [],
@@ -245,255 +535,6 @@
     "source": "OilPrice",
     "titre": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
     "lien": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-08",
-  "maj": "2026-11-08T03:40:27.936575+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "Entre incertitudes économiques et vents contraires politiques, le S&P 500 traverse une zone de turbulences",
-   "en_bref": "Le marché américain fait face à une pression persistante de l'inflation et à des ajustements monétaires qui pèsent sur le moral des investisseurs. Parallèlement, les incertitudes liées aux résultats d'entreprises technologiques et aux réalignements politiques créent une volatilité accrue.",
-   "analyse": [
-    {
-     "titre": "Contexte global et volatilité politique",
-     "texte": "Les changements récents dans la composition du Congrès et les nominations administratives créent un climat d'incertitude législative. Cette instabilité politique, combinée à des tensions géopolitiques au Moyen-Orient, pousse les investisseurs vers une prudence accrue. Le Nasdaq en zone de correction reflète ce manque de visibilité sur les politiques futures."
-    },
-    {
-     "titre": "La Fed et le poids de l'inflation persistante",
-     "texte": "Les déclarations des responsables de la Fed suggèrent que les taux d'intérêt pourraient continuer de grimper pour combattre une inflation enracinée. Ce mécanisme de resserrement monétaire renchérit le coût du crédit, ce qui pèse directement sur le pouvoir d'achat des ménages et les marges des entreprises. La perspective de taux élevés prolongés freine mécaniquement les valorisations boursières."
-    },
-    {
-     "titre": "Défis énergétiques et géopolitiques",
-     "texte": "Le secteur énergétique est tiraillé entre une volonté d'accélérer l'électrification et des blocages logistiques ou financiers sur le nucléaire et l'hydrogène. Les tensions accrues autour de l'Iran et les coûts de transport en hausse influencent la volatilité des prix du pétrole. Ces facteurs créent une pression sur les coûts opérationnels des entreprises américaines dépendantes de l'énergie."
-    },
-    {
-     "titre": "Le secteur technologique face à l'IA",
-     "texte": "Le secteur de l'IA subit une correction après une euphorie excessive, les coûts de financement pour les infrastructures comme CoreWeave augmentant drastiquement. Bien que le potentiel reste là, les investisseurs deviennent exigeants sur la rentabilité immédiate des géants technologiques. Ce désajustement entre les dépenses massives et les résultats financiers concrets explique le repli actuel des valeurs IA."
-    }
-   ],
-   "scenarios": {
-    "haussier": "Une stabilisation des taux par la Fed pourrait rassurer les marchés et permettre une reprise sélective des valeurs technologiques.",
-    "baissier": "La persistance d'une inflation élevée couplée à une hausse des coûts de financement pourrait prolonger la correction du Nasdaq."
-   },
-   "sentiment": {
-    "haussier": 20,
-    "neutre": 30,
-    "baissier": 50,
-    "explication": "Le ton général des titres est marqué par la prudence face à l'inflation, la volatilité politique et les coûts croissants du capital."
-   },
-   "calendrier": [],
-   "ambiance": {
-    "nom": "Inquiétude",
-    "teinte": 10
-   }
-  },
-  "calendrier": [],
-  "ambiance": {
-   "nom": "Inquiétude",
-   "teinte": 10
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-    "lien": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-    "lien": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-    "lien": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-    "lien": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Nasdaq drops into correction territory — here’s what typically happens next",
-    "lien": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "lien": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Second-guessing my adviser: Is an annuity the right move in this market?",
-    "lien": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Here are the 2027 capital-gains tax rates for each income level",
-    "lien": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-    "lien": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-    "lien": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-    "lien": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-    "lien": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "lien": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-    "lien": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "AI stocks climb after trillions wiped from market values",
-    "lien": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Why the US midterms sparked an AI stock selloff",
-    "lien": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-    "lien": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "lien": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-    "lien": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-    "lien": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Food bank to close amid rising costs",
-    "lien": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "What we know so far after Krakow gun attack",
-    "lien": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Israel's president tasks opposition leader Eisenkot with forming government",
-    "lien": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "No clear winner after tight New Zealand general election",
-    "lien": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "US offers $20m reward for information about Iran's nuclear programme",
-    "lien": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Houthis say at least 25 killed in Saudi air strike",
-    "lien": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-    "lien": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "With Stephen Miller pick, Trump readies for a battle",
-    "lien": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Paraguay's former president charged after bank collapse",
-    "lien": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Trump asks UFC chief Dana White to be White House press secretary",
-    "lien": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Egypt sacks winning football coach after wives’ scandal",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "US launches task force to disrupt Iran’s land-based supply routes",
-    "lien": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
-    "lien": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-    "lien": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-    "lien": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Wars May Spur Faster Electrification",
-    "lien": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
-    "lien": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
-    "lien": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html"
    }
   ]
  }
