@@ -1,5 +1,254 @@
 {
  "aujourdhui": {
+  "date": "2026-11-11",
+  "maj": "2026-11-11T03:41:53.127856+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Entre tensions inflationnistes et révolution technologique : un marché en quête de repères",
+   "en_bref": "Le S&P 500 navigue entre une politique monétaire plus restrictive et une effervescence technologique persistante. Les investisseurs doivent composer avec des données inflationnistes décevantes et des risques géopolitiques accrus.",
+   "analyse": [
+    {
+     "titre": "Contexte macroéconomique et inflation",
+     "texte": "L'inflation américaine pour octobre a été annoncée supérieure aux attentes, marquant un frein dans la désinflation espérée. Cette persistance des prix contraint la stratégie des banques centrales, ce qui pourrait peser sur la confiance des investisseurs et la valorisation des actifs boursiers."
+    },
+    {
+     "titre": "Politique monétaire et taux directeurs",
+     "texte": "La Réserve fédérale, via le gouverneur Waller, signale une probable hausse des taux en décembre, avec une option pour une accélération de 50 points de base. Cette posture restrictive cherche à refroidir l'économie, ce qui augmente le coût du crédit pour les entreprises et réduit l'attrait des actions face aux obligations."
+    },
+    {
+     "titre": "Énergie et tensions géopolitiques",
+     "texte": "Les attaques en mer Rouge et les perturbations logistiques au Moyen-Orient menacent la fluidité des flux pétroliers, malgré des stocks américains en hausse. Cette instabilité crée une incertitude sur les coûts énergétiques, facteur clé qui influence les marges bénéficiaires des entreprises et le pouvoir d'achat des ménages."
+    },
+    {
+     "titre": "Intelligence artificielle et dynamiques sectorielles",
+     "texte": "Le secteur technologique reste au cœur de l'attention, entre les investissements massifs dans l'IA et les enquêtes réglementaires visant des géants comme Nvidia. Si la demande de financement pour l'IA demeure robuste, la volatilité sur les titres liés aux puces électroniques montre que les investisseurs restent prudents sur la pérennité de ces profits."
+    }
+   ],
+   "scenarios": {
+    "haussier": "La poursuite massive des investissements dans l'IA et la baisse des prix à la pompe pourraient stabiliser la consommation malgré le resserrement monétaire.",
+    "baissier": "Une hausse agressive des taux par la Fed couplée à une escalade des tensions géopolitiques pourrait provoquer une correction rapide des indices."
+   },
+   "sentiment": {
+    "haussier": 25,
+    "neutre": 35,
+    "baissier": 40,
+    "explication": "Le ton est à la prudence face à l'inflation persistante et aux risques géopolitiques, malgré une excitation technologique techniquement volatile."
+   },
+   "calendrier": [],
+   "ambiance": {
+    "nom": "Tension",
+    "teinte": 350
+   }
+  },
+  "calendrier": [],
+  "ambiance": {
+   "nom": "Tension",
+   "teinte": 350
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+    "lien": "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "U.S. gas prices fall below $4 for the first time since July",
+    "lien": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Polymarket says annualized revenue has topped $1.8 billion",
+    "lien": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+    "lien": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+    "lien": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "lien": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "lien": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+    "lien": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+    "lien": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "lien": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "lien": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "lien": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+    "lien": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
+    "lien": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+    "lien": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+    "lien": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "lien": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+    "lien": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "lien": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Robot vessels take on the dangerous work of mine hunting",
+    "lien": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+    "lien": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "US inflation higher than expected in October - here's what is happening with prices",
+    "lien": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "lien": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "US Army soldier suspected of spying for Russia arrested in UK",
+    "lien": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "lien": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+    "lien": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+    "lien": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+    "lien": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+    "lien": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+    "lien": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "El Salvador fires missiles on Haitian gang hideout",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "GOP-led House report slams systemic failures in handling of Epstein case",
+    "lien": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+    "lien": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+    "lien": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Republicans block Hegseth impeachment motion",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Tigray displaced families fear renewed war as hopes of returning home fade",
+    "lien": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Spain holds state funeral for 69 victims of deadly train crash",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-10",
   "maj": "2026-11-10T03:38:36.552497+00:00",
   "cours": [],
@@ -286,255 +535,6 @@
     "source": "OilPrice",
     "titre": "Europe’s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
     "lien": "https://oilprice.com/Energy/Energy-General/Europes-Raw-Material-Future-Lies-Next-Door-If-It-Does-Not-Repeat-the-Past.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-09",
-  "maj": "2026-11-09T03:43:46.833932+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "Entre tensions géopolitiques et concentration technologique, le S&P 500 navigue en eaux troubles",
-   "en_bref": "Le marché américain fait face à une accumulation de risques sécuritaires au Moyen-Orient et des incertitudes politiques internes. Cette période de prudence incite les investisseurs à s'interroger sur la concentration excessive du S&P 500 autour de l'intelligence artificielle.",
-   "analyse": [
-    {
-     "titre": "Instabilité géopolitique et flux énergétiques",
-     "texte": "Les attaques sur les infrastructures gazières en Irak et l'Aramco Tower soulignent la vulnérabilité des approvisionnements mondiaux. Cette instabilité crée une pression à la hausse sur les coûts énergétiques mondiaux. Une crise prolongée pourrait ralentir l'économie américaine en alimentant l'inflation et en pesant sur les marges des entreprises."
-    },
-    {
-     "titre": "La dépendance technologique et le risque Nvidia",
-     "texte": "Le S&P 500 est fortement corrélé aux performances des géants de l'IA, ce qui inquiète les analystes sur sa diversification. L'enquête visant le PDG de Nvidia pour des liens présumés avec l'espionnage chinois ajoute une instabilité spécifique à ce secteur moteur. Si la confiance dans ce leader fléchit, c'est l'ensemble de l'indice qui risque une correction sévère."
-    },
-    {
-     "titre": "Changement de paysage politique à Washington",
-     "texte": "L'incertitude sur la nouvelle composition du Congrès et les tensions partisanes pourraient bloquer les futures décisions budgétaires. Ces blocages freinent souvent la visibilité des investisseurs institutionnels sur les régulations sectorielles, notamment pour la santé et l'énergie. Le marché réagit par une volatilité accrue en attendant de clarifier les priorités législatives."
-    },
-    {
-     "titre": "La transition énergétique comme nouveau paradigme",
-     "texte": "La convergence entre les besoins massifs en électricité de l'IA et la transition vers des énergies décarbonées devient un enjeu économique majeur. Les investissements dans le solaire spatial ou le nucléaire montrent que les entreprises ajustent leurs stratégies face aux nouveaux défis énergétiques. À terme, cette mutation pourrait offrir des opportunités de croissance hors du secteur technologique traditionnel."
-    }
-   ],
-   "scenarios": {
-    "haussier": "Une stabilisation des zones de conflit au Moyen-Orient et une résolution positive de l'enquête Nvidia pourraient rassurer les marchés.",
-    "baissier": "Une escalade des attaques sur les infrastructures énergétiques couplée à une perte de confiance dans les leaders technologiques entraînerait une liquidation massive."
-   },
-   "sentiment": {
-    "haussier": 20,
-    "neutre": 30,
-    "baissier": 50,
-    "explication": "Le ton général est empreint d'inquiétude face à la multiplication des foyers de crise et des risques spécifiques pesant sur les leaders boursiers."
-   },
-   "calendrier": [],
-   "ambiance": {
-    "nom": "Anxieux",
-    "teinte": 30
-   }
-  },
-  "calendrier": [],
-  "ambiance": {
-   "nom": "Anxieux",
-   "teinte": 30
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-    "lien": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-    "lien": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-    "lien": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
-    "lien": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "lien": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-    "lien": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-    "lien": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-    "lien": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "lien": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-    "lien": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Doing these things now will help you save money at Christmas",
-    "lien": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "lien": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "He spent $50,000 on Labubus but now the craze is dying",
-    "lien": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Doing these things now will help you save money at Christmas",
-    "lien": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Traders 'priced out' of £12,000 Christmas market pitches",
-    "lien": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-    "lien": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Ipswich Town's new club shop 'here to stay'",
-    "lien": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-    "lien": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "lien": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Homes and temples glow across India to mark Diwali",
-    "lien": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-    "lien": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-    "lien": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-    "lien": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Iran executes three men for 'armed unrest' after January protests",
-    "lien": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Paraguay's former president charged after bank collapse",
-    "lien": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Trump defends Nvidia CEO amid Chinese spying allegations",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "South Africa’s ANC suffers worst-ever local elections result",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Moldova launches new power line to Romania to cut reliance on Russia",
-    "lien": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-    "lien": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "India’s night lights up for Diwali",
-    "lien": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
-    "lien": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
-    "lien": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
-    "lien": "https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Democratic Win Set to Reshuffle U.S. Energy Policy",
-    "lien": "https://oilprice.com/Energy/Energy-General/Democratic-Win-Set-to-Reshuffle-US-Energy-Policy.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "The Global Race to Harness Solar Power From Space",
-    "lien": "https://oilprice.com/Energy/Energy-General/The-Global-Race-to-Harness-Solar-Power-From-Space.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "How Big Oil Became the AI Industry's Favorite Customer",
-    "lien": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "How New York Plans to Turn Waste Heat Into Clean Energy",
-    "lien": "https://oilprice.com/Energy/Energy-General/How-New-York-Plans-to-Turn-Waste-Heat-Into-Clean-Energy.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Wars May Spur Faster Electrification",
-    "lien": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
-    "lien": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html"
    }
   ]
  }
