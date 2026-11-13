@@ -1,5 +1,282 @@
 {
  "aujourdhui": {
+  "date": "2026-11-13",
+  "maj": "2026-11-13T03:41:00.415023+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Entre turbulences technologiques et pressions inflationnistes, le S&P 500 navigue en eaux troubles",
+   "en_bref": "Le marché boursier fait preuve d'une résilience surprenante malgré la démission choc du PDG de Nvidia et des craintes accrues sur l'inflation. La prudence domine alors que la Réserve fédérale laisse planer le spectre de hausses de taux supplémentaires.",
+   "analyse": [
+    {
+     "titre": "Contexte macroéconomique et résilience",
+     "texte": "Malgré l'instabilité politique mondiale et les tensions géopolitiques, le S&P 500 parvient à maintenir son cap actuel. Cette résilience suggère une diversification des moteurs de croissance au-delà des leaders technologiques. Toutefois, la persistance des risques internationaux impose une vigilance constante aux investisseurs."
+    },
+    {
+     "titre": "La Fed face à l'inflation",
+     "texte": "Des rapports d'inflation jugés préoccupants par les membres de la Fed alimentent des spéculations sur de nouvelles hausses de taux. Cette politique monétaire plus restrictive renchérit le coût du crédit, ce qui pèse traditionnellement sur les valorisations boursières. Les marchés réagissent nerveusement à ces signaux, comme en témoigne la récente envolée des rendements obligataires."
+    },
+    {
+     "titre": "Géopolitique et marché pétrolier",
+     "texte": "Les tensions avec l'Iran et les récents développements militaires influencent directement les cours du pétrole brut. Cette volatilité énergétique crée une incertitude sur les coûts de production des entreprises et le pouvoir d'achat des consommateurs. Une hausse durable des prix du baril pourrait raviver les pressions inflationnistes globales."
+    },
+    {
+     "titre": "Secteur technologique et IA",
+     "texte": "La démission soudaine de Jensen Huang plonge Nvidia, pilier de l'IA, dans une phase d'incertitude managériale majeure. Si le S&P 500 absorbe ce choc, le secteur technologique reste vulnérable aux bouleversements liés à sa gouvernance. L'attention se porte désormais sur la capacité des successeurs potentiels à maintenir l'avantage compétitif du groupe."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Une stabilisation des taux par la Fed couplée à une transition fluide chez Nvidia pourrait rassurer les investisseurs.",
+    "baissier": "Une inflation persistante forçant la Fed à durcir sa politique pourrait déclencher une correction plus marquée."
+   },
+   "sentiment": {
+    "haussier": 20,
+    "neutre": 30,
+    "baissier": 50,
+    "explication": "Le ton général est empreint d'inquiétude face aux chocs sur l'offre et à l'incertitude monétaire persistante."
+   },
+   "calendrier": [
+    {
+     "fr": "Indice des prix à la production (PPI) cœur",
+     "pourquoi": "Mesure l'inflation industrielle sous-jacente influençant les décisions futures de la Réserve fédérale."
+    },
+    {
+     "fr": "Indice des prix à la production (PPI) global",
+     "pourquoi": "Indicateur avancé de l'inflation des prix à la consommation influençant les taux directeurs."
+    }
+   ],
+   "ambiance": {
+    "nom": "Tension",
+    "teinte": 10
+   }
+  },
+  "calendrier": [
+   {
+    "t": "2026-11-13T13:30:00+00:00",
+    "titre": "Core PPI m/m",
+    "impact": 3,
+    "prevu": "0.3%",
+    "precedent": "0.7%",
+    "fr": "Indice des prix à la production (PPI) cœur",
+    "pourquoi": "Mesure l'inflation industrielle sous-jacente influençant les décisions futures de la Réserve fédérale."
+   },
+   {
+    "t": "2026-11-13T13:30:00+00:00",
+    "titre": "PPI m/m",
+    "impact": 3,
+    "prevu": "0.4%",
+    "precedent": "1.3%",
+    "fr": "Indice des prix à la production (PPI) global",
+    "pourquoi": "Indicateur avancé de l'inflation des prix à la consommation influençant les taux directeurs."
+   }
+  ],
+  "ambiance": {
+   "nom": "Tension",
+   "teinte": 10
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "lien": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "lien": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+    "lien": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+    "lien": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+    "lien": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "lien": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+    "lien": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Opening trading-card packs has become a $2 billion market",
+    "lien": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    "lien": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+    "lien": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+    "lien": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "The 10 best stocks for a year-end momentum trade",
+    "lien": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+    "lien": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+    "lien": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "lien": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "lien": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "lien": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "lien": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "lien": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "UK economy grows at fastest rate for more than two years",
+    "lien": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+    "lien": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Some under-25s should get fewer benefits, Milburn review to say",
+    "lien": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "lien": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "lien": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "lien": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "lien": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "lien": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Australian footballers will not be charged after hotel incident, police say",
+    "lien": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "lien": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+    "lien": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Mississippi elects first black senator in nearly 150 years",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/13/mississippi-elects-first-black-senator-in-nearly-150-years?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Iran says it targeted US radar site in Bahrain",
+    "lien": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Gaza surgeon films aftermath of Israeli strike",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Spanish court suspends far-right group over alleged hate crimes",
+    "lien": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Chris Van Hollen to run for US Senate majority leader",
+    "lien": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+    "lien": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Trump moots toppling Cuba authorities before leaving office",
+    "lien": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+    "lien": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
+    "lien": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-12",
   "maj": "2026-11-12T03:41:53.245628+00:00",
   "cours": [],
@@ -260,255 +537,6 @@
     "source": "OilPrice",
     "titre": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
     "lien": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fusions-Next-Race-Is-Over-Superconducting-Tape-Not-Plasma.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-11",
-  "maj": "2026-11-11T03:41:53.127856+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "Entre tensions inflationnistes et révolution technologique : un marché en quête de repères",
-   "en_bref": "Le S&P 500 navigue entre une politique monétaire plus restrictive et une effervescence technologique persistante. Les investisseurs doivent composer avec des données inflationnistes décevantes et des risques géopolitiques accrus.",
-   "analyse": [
-    {
-     "titre": "Contexte macroéconomique et inflation",
-     "texte": "L'inflation américaine pour octobre a été annoncée supérieure aux attentes, marquant un frein dans la désinflation espérée. Cette persistance des prix contraint la stratégie des banques centrales, ce qui pourrait peser sur la confiance des investisseurs et la valorisation des actifs boursiers."
-    },
-    {
-     "titre": "Politique monétaire et taux directeurs",
-     "texte": "La Réserve fédérale, via le gouverneur Waller, signale une probable hausse des taux en décembre, avec une option pour une accélération de 50 points de base. Cette posture restrictive cherche à refroidir l'économie, ce qui augmente le coût du crédit pour les entreprises et réduit l'attrait des actions face aux obligations."
-    },
-    {
-     "titre": "Énergie et tensions géopolitiques",
-     "texte": "Les attaques en mer Rouge et les perturbations logistiques au Moyen-Orient menacent la fluidité des flux pétroliers, malgré des stocks américains en hausse. Cette instabilité crée une incertitude sur les coûts énergétiques, facteur clé qui influence les marges bénéficiaires des entreprises et le pouvoir d'achat des ménages."
-    },
-    {
-     "titre": "Intelligence artificielle et dynamiques sectorielles",
-     "texte": "Le secteur technologique reste au cœur de l'attention, entre les investissements massifs dans l'IA et les enquêtes réglementaires visant des géants comme Nvidia. Si la demande de financement pour l'IA demeure robuste, la volatilité sur les titres liés aux puces électroniques montre que les investisseurs restent prudents sur la pérennité de ces profits."
-    }
-   ],
-   "scenarios": {
-    "haussier": "La poursuite massive des investissements dans l'IA et la baisse des prix à la pompe pourraient stabiliser la consommation malgré le resserrement monétaire.",
-    "baissier": "Une hausse agressive des taux par la Fed couplée à une escalade des tensions géopolitiques pourrait provoquer une correction rapide des indices."
-   },
-   "sentiment": {
-    "haussier": 25,
-    "neutre": 35,
-    "baissier": 40,
-    "explication": "Le ton est à la prudence face à l'inflation persistante et aux risques géopolitiques, malgré une excitation technologique techniquement volatile."
-   },
-   "calendrier": [],
-   "ambiance": {
-    "nom": "Tension",
-    "teinte": 350
-   }
-  },
-  "calendrier": [],
-  "ambiance": {
-   "nom": "Tension",
-   "teinte": 350
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-    "lien": "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "U.S. gas prices fall below $4 for the first time since July",
-    "lien": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Polymarket says annualized revenue has topped $1.8 billion",
-    "lien": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-    "lien": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-    "lien": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-    "lien": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "lien": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-    "lien": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-    "lien": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "lien": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "lien": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "lien": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-    "lien": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-    "lien": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-    "lien": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-    "lien": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "lien": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-    "lien": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "lien": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Robot vessels take on the dangerous work of mine hunting",
-    "lien": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "lien": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "US inflation higher than expected in October - here's what is happening with prices",
-    "lien": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-    "lien": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "US Army soldier suspected of spying for Russia arrested in UK",
-    "lien": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-    "lien": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-    "lien": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-    "lien": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-    "lien": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-    "lien": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-    "lien": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "El Salvador fires missiles on Haitian gang hideout",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "GOP-led House report slams systemic failures in handling of Epstein case",
-    "lien": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
-    "lien": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
-    "lien": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Republicans block Hegseth impeachment motion",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Tigray displaced families fear renewed war as hopes of returning home fade",
-    "lien": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Spain holds state funeral for 69 victims of deadly train crash",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
-    "lien": "https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
-    "lien": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html"
    }
   ]
  }
