@@ -2,103 +2,192 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Brief S&P 500 – l'essentiel du marché chaque matin</title>
 <meta name="description" content="Ce qui fait bouger le S&P 500, analysé chaque jour en français simple.">
-<meta name="theme-color" content="#0b7285"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#f4f5f9" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0a0f1f" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Brief S&P"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="manifest" href="manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Hanken+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{color-scheme:light dark;--h:200;--bg:hsl(var(--h) 38% 96%);--wash:hsl(var(--h) 75% 86%);--ink:hsl(var(--h) 50% 11%);--soft:hsl(var(--h) 14% 36%);--line:hsl(var(--h) 24% 84%);--ac:hsl(var(--h) 70% 30%);--up:#12805c;--dn:#c0352b;--mid:hsl(var(--h) 14% 62%)}
-@media(prefers-color-scheme:dark){:root{--bg:hsl(var(--h) 36% 7%);--wash:hsl(var(--h) 55% 17%);--ink:hsl(var(--h) 30% 93%);--soft:hsl(var(--h) 14% 68%);--line:hsl(var(--h) 22% 19%);--ac:hsl(var(--h) 75% 72%);--up:#46c28e;--dn:#ff8078;--mid:hsl(var(--h) 12% 45%)}}
-[hidden]{display:none!important}*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 "Hanken Grotesk",system-ui,sans-serif;transition:background .6s}
-.w{max-width:1000px;margin:0 auto;padding:0 22px}
-h1,h2,.brand,.tabs{font-family:"Bricolage Grotesque","Hanken Grotesk",system-ui,sans-serif}
-.top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);padding-top:env(safe-area-inset-top)}
-.bar{display:flex;align-items:center;justify-content:space-between;height:60px}
-.brand{font-weight:800;font-size:19px;letter-spacing:-.02em}
-.tabs{display:flex;background:var(--line);border-radius:99px;padding:3px}
-.tabs button{font:600 15px inherit;font-family:inherit;border:0;background:none;color:var(--soft);padding:7px 18px;border-radius:99px;cursor:pointer}
-.tabs button[aria-selected=true]{background:var(--ink);color:var(--bg)}
-.hero{background:radial-gradient(120% 90% at 85% 0,var(--wash),transparent 70%);transition:background .6s}
-.hero .w{display:grid;gap:28px;padding-top:36px;padding-bottom:40px;align-items:center}
-@media(min-width:820px){.hero .w{grid-template-columns:1.25fr 1fr;gap:56px}}
-#date{margin:0 0 12px;color:var(--ac);font-weight:700}
-h1{font-weight:800;font-size:clamp(34px,7vw,58px);line-height:1.04;letter-spacing:-.035em;margin:0 0 18px;text-wrap:balance}
-#brief{font-size:19px;color:var(--soft);margin:0;max-width:52ch}
-.pie{margin:0;display:grid;grid-template-columns:150px 1fr;gap:20px;align-items:center}
-.ring{position:relative}.ring svg{width:100%;transform:rotate(-90deg)}
-.ring circle{fill:none;stroke-width:5.5;transition:stroke-dasharray 1.2s cubic-bezier(.2,.8,.2,1)}
-.ring div{position:absolute;inset:0;display:grid;place-content:center;text-align:center;line-height:1.15}
-#verdict{font:800 20px "Bricolage Grotesque",sans-serif}.ring span{font-size:12px;color:var(--soft)}
-#legend{list-style:none;margin:0;padding:0}#legend li{display:flex;align-items:center;gap:10px;padding:3px 0}
-#legend i{width:11px;height:11px;border-radius:50%}#legend b{margin-left:auto;font-variant-numeric:tabular-nums}
-.pie figcaption{grid-column:1/-1;font-size:14px;color:var(--soft)}.pie small{display:block;margin-top:4px;opacity:.8}
-#q{display:flex;overflow-x:auto;border-block:1px solid var(--line)}
-.t{flex:1 0 140px;padding:14px 20px 14px 0;margin-right:20px;display:flex;flex-direction:column}
-.t span{font-size:13px;color:var(--soft)}.t b{font:700 22px "Bricolage Grotesque",sans-serif;font-variant-numeric:tabular-nums}
-.t em{font-style:normal;font-size:14px;font-weight:700;font-variant-numeric:tabular-nums}.up{color:var(--up)}.dn{color:var(--dn)}
-section.s{padding:46px 0 6px}h2{font-weight:800;font-size:28px;letter-spacing:-.025em;margin:0 0 22px}
-#an{columns:2 340px;column-gap:48px}#an div{break-inside:avoid;margin-bottom:26px}
-#an h3{font-size:18px;margin:0 0 4px;color:var(--ac)}#an p,.sc p{margin:0}
-.sc{display:grid;gap:24px;margin-top:10px}@media(min-width:700px){.sc{grid-template-columns:1fr 1fr}}
-.sc div{padding-top:14px;border-top:4px solid}.sc b{display:block;margin-bottom:4px}
-#cal{border-top:1px solid var(--line)}
-.ev{display:grid;grid-template-columns:62px 1fr auto;gap:4px 16px;padding:16px 0;border-bottom:1px solid var(--line)}
-.ev time{font:700 18px "Bricolage Grotesque",sans-serif;font-variant-numeric:tabular-nums}
-.ev small{display:block;color:var(--soft);font-size:14px}.ev .d{letter-spacing:2px;color:var(--ac);font-size:13px}
-.ev .v{grid-column:2/4;font-size:13px;color:var(--soft);font-variant-numeric:tabular-nums}
-details{margin:40px 0 0}summary{cursor:pointer;font:800 20px "Bricolage Grotesque",sans-serif;padding:14px 0;border-top:1px solid var(--line)}
-#list{list-style:none;margin:0;padding:0}#list li{padding:9px 0;border-top:1px solid var(--line)}
-#list a{color:var(--ink);text-decoration:none}#list a:hover{color:var(--ac);text-decoration:underline}#list small{display:block;color:var(--soft);font-size:13px}
-footer{padding:36px 0 calc(48px + env(safe-area-inset-bottom));color:var(--soft);font-size:13px}footer p{max-width:72ch;margin:0 0 8px}
-:focus-visible{outline:2px solid var(--ac);outline-offset:3px}
-@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+/* Direction artistique : celle du Journal de Trading (Inter, verre dépoli, halos, accent bleu) */
+:root{color-scheme:light dark;--mh:210;--bg:#f4f5f9;--cd:#fff;--tx:#0f172a;--acc:#3b5bff;--win:#16a34a;--loss:#e11d48;--sell:#d97706;--mid:#94a3b8;
+--g1:hsl(var(--mh) 90% 78%);--g2:#c4b5fd;--g3:#a5f3fc;--ao:.45;
+--mut:color-mix(in srgb,var(--tx) 70%,var(--bg));--fd:color-mix(in srgb,var(--cd),var(--tx) 4%);--bd:color-mix(in srgb,var(--cd),var(--tx) 12%);
+--cdt:color-mix(in srgb,var(--cd) 92%,transparent);--sh:0 1px 2px rgba(15,23,42,.05),0 10px 28px rgba(15,23,42,.07)}
+@media(prefers-color-scheme:dark){:root{--bg:#0a0f1f;--cd:#121933;--tx:#e8ecfa;--acc:#7c9bff;--win:#34d399;--loss:#fb7185;--sell:#fbbf24;--mid:#64748b;
+--g1:hsl(var(--mh) 85% 52%);--g2:#7c3aed;--g3:#0ea5e9;--ao:.4;--sh:0 1px 2px rgba(0,0,0,.3),0 10px 28px rgba(0,0,0,.35)}}
+*,*::before,*::after{box-sizing:border-box}[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;min-height:100vh;background:var(--bg);color:var(--tx);font:15px/1.5 "Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-feature-settings:"tnum" 1;-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent;overflow-x:hidden;transition:background .6s}
+button{font:inherit;color:inherit;border:0;background:none;cursor:pointer}
+h1,h2,h3,p{margin:0}em{font-style:normal}
+.w{max-width:720px;margin:0 auto;padding:0 16px}
+
+/* halos animés en fond, teintés par l'ambiance du jour */
+#amb{position:fixed;inset:0;z-index:-1;overflow:hidden;pointer-events:none;opacity:var(--ao)}
+#amb i{position:absolute;border-radius:50%;filter:blur(70px);will-change:transform;animation:drift 26s ease-in-out infinite alternate}
+#amb i:nth-child(1){width:380px;height:380px;left:-130px;top:-130px;background:var(--g1);transition:background .8s}
+#amb i:nth-child(2){width:340px;height:340px;right:-150px;top:42%;background:var(--g2);animation-duration:32s;animation-delay:-8s}
+#amb i:nth-child(3){width:300px;height:300px;left:12%;bottom:-130px;background:var(--g3);animation-duration:38s;animation-delay:-14s}
+@keyframes drift{to{transform:translate(70px,50px) scale(1.15)}}
+@keyframes flo{50%{transform:translateY(-2px) rotate(-5deg)}}
+@keyframes shim{from{background-position:100% 0}to{background-position:-100% 0}}
+@keyframes rv{to{opacity:1;transform:none}}
+.rv{opacity:0;transform:translateY(12px);animation:rv .55s cubic-bezier(.2,.8,.2,1) forwards;animation-delay:var(--dl,0s)}
+
+/* barre du haut */
+.top{position:sticky;top:0;z-index:10;padding-top:env(safe-area-inset-top);background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-filter:blur(16px) saturate(1.4);backdrop-filter:blur(16px) saturate(1.4)}
+.bar{display:flex;align-items:center;gap:10px;height:58px}
+.brand{display:flex;align-items:center;gap:9px;font-weight:800;font-size:17px;letter-spacing:-.02em;flex:1;min-width:0}
+.brand svg{flex:none;animation:flo 5s ease-in-out infinite}
+#ttl{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:linear-gradient(90deg,var(--tx) 0 38%,var(--acc) 50%,var(--tx) 62% 100%);background-size:260% 100%;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:shim 7s linear infinite}
+.nav{flex:none;display:flex;gap:2px;padding:3px;border-radius:99px;background:var(--cdt);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border:1px solid var(--bd);box-shadow:var(--sh)}
+.nav button{padding:7px 13px;border-radius:99px;font-weight:600;font-size:13.5px;color:var(--mut);white-space:nowrap;transition:background .25s,color .25s,transform .15s}
+.nav button:active{transform:scale(.94)}
+.nav button[aria-selected=true]{background:var(--tx);color:var(--bg)}
+
+/* cartes en verre */
+.card{position:relative;background:var(--cdt);-webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);border:1px solid var(--bd);border-radius:20px;box-shadow:var(--sh)}
+.pad{padding:18px}
+.lbl{display:block;font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--mut)}
+section{margin-top:30px}
+.sh{font-size:20px;font-weight:700;letter-spacing:-.02em;margin-bottom:12px}
+
+/* en-tête du jour */
+.hero{padding:22px 0 0}
+.meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+#date{font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--acc)}
+.mood{display:inline-flex;align-items:center;gap:7px;padding:4px 11px 4px 9px;border-radius:99px;background:var(--cdt);border:1px solid var(--bd);box-shadow:var(--sh);font-size:12.5px;font-weight:600}
+.mood i{width:8px;height:8px;border-radius:50%;background:hsl(var(--mh) 85% 55%);box-shadow:0 0 0 3px hsl(var(--mh) 85% 55% / .22);transition:background .8s}
+h1{font-size:clamp(25px,7vw,36px);line-height:1.12;font-weight:800;letter-spacing:-.035em;text-wrap:balance;margin-bottom:14px}
+#brief{font-size:16px;line-height:1.6;color:var(--mut)}
+
+/* indices */
+#strip{margin-top:24px}
+.kp{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.k{padding:14px 16px;overflow:hidden}
+.k small{display:block;font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.k b{display:block;font-size:22px;font-weight:700;letter-spacing:-.03em;line-height:1.15;margin:7px 0 6px}
+.k em{display:inline-block;padding:2px 8px;border-radius:99px;font-size:12.5px;font-weight:700}
+.k em.up{color:var(--win);background:color-mix(in srgb,var(--win) 14%,transparent)}
+.k em.dn{color:var(--loss);background:color-mix(in srgb,var(--loss) 14%,transparent)}
+
+/* humeur du marché */
+.pie{margin:0;display:grid;grid-template-columns:116px 1fr;gap:16px 18px;align-items:center}
+.pie .lbl{grid-column:1/-1;margin-bottom:-4px}
+.ring{position:relative;width:116px}.ring svg{display:block;width:100%;transform:rotate(-90deg)}
+.ring circle{fill:none;stroke-width:4.6;transition:stroke-dasharray 1.2s cubic-bezier(.2,.8,.2,1)}
+.ring div{position:absolute;inset:0;display:grid;place-content:center;text-align:center}
+#verdict{font-size:14px;font-weight:800;letter-spacing:-.01em}
+#legend{list-style:none;margin:0;padding:0;display:grid;gap:9px}
+#legend li{display:flex;align-items:center;gap:9px;font-weight:600}
+#legend i{width:10px;height:10px;border-radius:50%;flex:none}
+#legend b{margin-left:auto;font-weight:700}
+.why{grid-column:1/-1;padding-top:14px;border-top:1px solid var(--bd);font-size:14px;line-height:1.55;color:var(--mut)}
+.why small{display:block;margin-top:6px;font-size:12px;opacity:.85}
+
+/* analyse */
+.stack{display:grid;gap:10px}
+.an .ah{display:flex;align-items:center;gap:10px;margin-bottom:9px}
+.num{flex:none;width:28px;height:28px;border-radius:9px;display:grid;place-items:center;font-size:11.5px;font-weight:800;color:var(--acc);background:color-mix(in srgb,var(--acc) 12%,transparent);border:1px solid color-mix(in srgb,var(--acc) 28%,transparent)}
+.an h3{font-size:16px;font-weight:700;letter-spacing:-.015em;line-height:1.25}
+.an p{font-size:15px;line-height:1.62;color:color-mix(in srgb,var(--tx) 88%,var(--bg))}
+.sc{display:grid;gap:10px;margin-top:10px}
+.sce{padding:15px 16px;border-radius:18px;border:1px solid}
+.sce b{display:block;font-size:11.5px;font-weight:800;letter-spacing:.07em;text-transform:uppercase;margin-bottom:6px}
+.sce p{font-size:14.5px;line-height:1.58}
+.sce.up{background:color-mix(in srgb,var(--win) 11%,var(--cdt));border-color:color-mix(in srgb,var(--win) 38%,var(--bd))}.sce.up b{color:var(--win)}
+.sce.dn{background:color-mix(in srgb,var(--loss) 10%,var(--cdt));border-color:color-mix(in srgb,var(--loss) 38%,var(--bd))}.sce.dn b{color:var(--loss)}
+
+/* calendrier */
+.cal{padding:2px 18px}
+.cal>p{padding:16px 0;color:var(--mut);font-size:14.5px}
+.ev{display:grid;grid-template-columns:54px 1fr;gap:12px;padding:15px 0;border-top:1px solid var(--bd)}
+.ev:first-child{border-top:0}
+.ev time{font-size:17px;font-weight:700;letter-spacing:-.02em;color:var(--acc)}
+.evb b{display:block;font-weight:600;line-height:1.3}
+.evb p{margin-top:3px;font-size:13.5px;line-height:1.45;color:var(--mut)}
+.evm{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.evm span{font-size:12px;font-weight:600;padding:3px 9px;border-radius:99px;background:var(--fd);border:1px solid var(--bd);color:var(--mut)}
+.evm span b{display:inline;color:var(--tx);font-weight:700}
+.evm .hi{color:var(--loss);background:color-mix(in srgb,var(--loss) 12%,transparent);border-color:color-mix(in srgb,var(--loss) 35%,var(--bd))}
+.evm .md{color:var(--sell);background:color-mix(in srgb,var(--sell) 13%,transparent);border-color:color-mix(in srgb,var(--sell) 35%,var(--bd))}
+
+/* titres */
+#news{margin-top:30px}
+#news summary{list-style:none;display:flex;align-items:center;gap:10px;padding:16px 18px;font-size:16px;font-weight:700;letter-spacing:-.01em;cursor:pointer}
+#news summary::-webkit-details-marker{display:none}
+#news summary em{margin-left:auto;font-size:12px;font-weight:700;padding:2px 9px;border-radius:99px;background:var(--fd);border:1px solid var(--bd);color:var(--mut)}
+#news summary svg{flex:none;width:18px;height:18px;color:var(--mut);transition:transform .25s}
+#news[open] summary svg{transform:rotate(180deg)}
+#list{list-style:none;margin:0;padding:0 18px 6px}
+#list li{padding:13px 0;border-top:1px solid var(--bd)}
+#list a{display:block;color:var(--tx);text-decoration:none;font-weight:600;font-size:14.5px;line-height:1.4}
+#list a:active{color:var(--acc)}
+#list small{display:block;margin-top:4px;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}
+
+footer{padding:28px 0 calc(40px + env(safe-area-inset-bottom));color:var(--mut);font-size:12px;line-height:1.55}footer p{margin:0 0 8px}
+:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+@media(hover:hover){.k{transition:transform .25s ease-out}.k:hover{transform:translateY(-2px)}#list a:hover{color:var(--acc)}.nav button:not([aria-selected=true]):hover{color:var(--tx)}}
+@media(min-width:640px){.kp{grid-template-columns:repeat(3,minmax(0,1fr))}.sc{grid-template-columns:1fr 1fr}.hero{padding-top:36px}.k b{font-size:24px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}}
 </style></head><body>
-<header class="top"><div class="w bar"><div class="brand">Brief S&amp;P 500</div>
-<div class="tabs" role="tablist"><button role="tab" id="b-hier">Hier</button><button role="tab" id="b-auj" aria-selected="true">Aujourd'hui</button></div></div></header>
-<main>
-<section class="hero"><div class="w"><div><p id="date"></p><h1 id="title">Chargement…</h1><p id="brief"></p></div>
-<figure class="pie" id="pie"><div class="ring"><svg viewBox="0 0 42 42" aria-hidden="true"><circle cx="21" cy="21" r="15.9155" stroke="var(--line)" stroke-dasharray="100 0"/><circle id="s0" cx="21" cy="21" r="15.9155" stroke="var(--up)" stroke-dasharray="0 100"/><circle id="s1" cx="21" cy="21" r="15.9155" stroke="var(--mid)" stroke-dasharray="0 100"/><circle id="s2" cx="21" cy="21" r="15.9155" stroke="var(--dn)" stroke-dasharray="0 100"/></svg><div><b id="verdict"></b><span>humeur du marché</span></div></div>
-<ul id="legend"></ul><figcaption><span id="why"></span><small>Estimation de l'IA d'après le ton des titres du jour, pas un sondage.</small></figcaption></figure></div>
-<div class="w" id="strip"><div id="q"></div></div></section>
-<div class="w"><section class="s" id="sec-an"><h2>L'analyse du jour</h2><div id="an"></div><div class="sc" id="sc"></div></section>
-<section class="s" id="sec-cal"><h2>Calendrier économique</h2><div id="cal"></div></section>
-<details id="news"><summary>Les titres de la journée</summary><ul id="list"></ul></details>
+<div id="amb" aria-hidden="true"><i></i><i></i><i></i></div>
+<header class="top"><div class="w bar">
+<div class="brand"><svg width="28" height="28" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b5bff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="url(#lg)"/><path d="M12 44l14-14 9 9 17-19" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg><span id="ttl">Brief S&amp;P 500</span></div>
+<nav class="nav" role="tablist" aria-label="Choisir le jour"><button role="tab" id="b-hier">Hier</button><button role="tab" id="b-auj" aria-selected="true">Aujourd'hui</button></nav></div></header>
+<main class="w">
+<section class="hero" data-rv><div class="meta"><span id="date"></span><span class="mood" id="mood" hidden title="Ambiance du jour"><i></i><b id="moodt"></b></span></div>
+<h1 id="title">Chargement…</h1><p id="brief"></p></section>
+<section id="strip" hidden><div class="kp" id="q"></div></section>
+<section><figure class="card pad pie" id="pie" hidden data-rv><span class="lbl">Humeur du marché</span>
+<div class="ring"><svg viewBox="0 0 42 42" aria-hidden="true"><circle cx="21" cy="21" r="15.9155" stroke="var(--bd)" stroke-dasharray="100 0"/><circle id="s0" cx="21" cy="21" r="15.9155" stroke="var(--win)" stroke-dasharray="0 100"/><circle id="s1" cx="21" cy="21" r="15.9155" stroke="var(--mid)" stroke-dasharray="0 100"/><circle id="s2" cx="21" cy="21" r="15.9155" stroke="var(--loss)" stroke-dasharray="0 100"/></svg><div><b id="verdict"></b></div></div>
+<ul id="legend"></ul><figcaption class="why"><span id="why"></span><small>Estimation de l'IA d'après le ton des titres du jour, pas un sondage.</small></figcaption></figure></section>
+<section id="sec-an" hidden><h2 class="sh">L'analyse du jour</h2><div class="stack" id="an"></div><div class="sc" id="sc"></div></section>
+<section id="sec-cal" hidden><h2 class="sh">Calendrier économique</h2><div class="card cal" id="cal"></div></section>
+<details class="card" id="news" hidden><summary><span>Les titres de la journée</span><em id="nn"></em><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><ul id="list"></ul></details>
 <footer><p id="foot"></p><p>Sources : CNBC, Yahoo Finance, MarketWatch, BBC, Al Jazeera, OilPrice, Réserve fédérale ; cours Stooq (variation par rapport à l'ouverture) ; calendrier : flux public d'événements américains, heures dans ton fuseau.</p>
-<p>L'analyse est générée par une IA à partir de ces sources et peut contenir des erreurs. Information générale, pas un conseil d'investissement.</p></footer></div></main>
+<p>L'analyse est générée par une IA à partir de ces sources et peut contenir des erreurs. Information générale, pas un conseil d'investissement.</p></footer></main>
 <script>
 const $=i=>document.getElementById(i),el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
 const fmt=n=>n.toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2});
+const rv=(n,i)=>{n.classList.add("rv");n.style.setProperty("--dl",(i*.05).toFixed(2)+"s");return n};
+const SEC=["strip","sec-an","sec-cal","news","pie"];
 let D;
+function replay(){document.querySelectorAll("[data-rv]").forEach((n,i)=>{n.classList.remove("rv");void n.offsetWidth;n.style.setProperty("--dl",(i*.06).toFixed(2)+"s");n.classList.add("rv")})}
 function render(e){
- const A=["an","sc","cal","list","q","legend"];A.forEach(i=>$(i).textContent="");
- ["strip","sec-an","sec-cal","news","pie"].forEach(i=>$(i).hidden=!e);
- if(!e){$("date").textContent="";$("title").textContent="Pas encore d'historique";$("brief").textContent="L'onglet Hier se remplira dès demain matin.";return}
- const r=e.resume,t=new Date(e.maj);
- document.documentElement.style.setProperty("--h",(e.ambiance||{}).teinte??200);
+ ["an","sc","cal","list","q","legend"].forEach(i=>$(i).textContent="");
+ SEC.forEach(i=>$(i).hidden=!e);$("mood").hidden=true;
+ if(!e){$("date").textContent="";$("title").textContent="Pas encore d'historique";$("brief").textContent="L'onglet Hier se remplira dès demain matin.";replay();return}
+ const r=e.resume,t=new Date(e.maj),amb=e.ambiance||{};
+ document.documentElement.style.setProperty("--mh",amb.teinte??210);
+ if(amb.nom){$("moodt").textContent=amb.nom;$("mood").hidden=false}
  $("date").textContent=new Date(e.date+"T12:00:00Z").toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"}).replace(/^./,c=>c.toUpperCase());
  $("title").textContent=(r&&r.titre)||"L'actualité qui compte pour les marchés";
  $("brief").textContent=r?r.en_bref:"L'analyse n'est pas disponible ce jour-là. Les titres restent consultables plus bas.";
- e.cours.forEach(c=>{const u=c.var>=0,x=el("div","t");x.append(el("span",0,c.nom),el("b",0,fmt(c.valeur)),el("em",u?"up":"dn",(u?"+":"−")+fmt(Math.abs(c.var))+" %"));$("q").append(x)});
+ e.cours.forEach((c,i)=>{const u=c.var>=0,x=rv(el("div","card k"),i);x.append(el("small",0,c.nom),el("b",0,fmt(c.valeur)),el("em",u?"up":"dn",(u?"▲ +":"▼ −")+fmt(Math.abs(c.var))+" %"));$("q").append(x)});
  $("strip").hidden=!e.cours.length;
- (r&&r.analyse||[]).forEach(a=>{const x=el("div");x.append(el("h3",0,a.titre),el("p",0,a.texte));$("an").append(x)});
- const S=r&&r.scenarios;if(S)[["haussier","Si le marché monte","up"],["baissier","Si le marché baisse","dn"]].forEach(([k,l,c])=>{const x=el("div",c);x.append(el("b",0,l),el("p",0,S[k]));x.style.color="var(--"+c+")";x.lastChild.style.color="var(--ink)";$("sc").append(x)});
+ (r&&r.analyse||[]).forEach((a,i)=>{const x=rv(el("article","card pad an"),i),h=el("div","ah");h.append(el("span","num",String(i+1).padStart(2,"0")),el("h3",0,a.titre));x.append(h,el("p",0,a.texte));$("an").append(x)});
+ const S=r&&r.scenarios;if(S)[["haussier","Si le marché monte","up","▲"],["baissier","Si le marché baisse","dn","▼"]].forEach(([k,l,c,a],i)=>{const x=rv(el("div","sce "+c),i);x.append(el("b",0,a+" "+l),el("p",0,S[k]));$("sc").append(x)});
  $("sec-an").hidden=!r;
  const se=r&&r.sentiment;$("pie").hidden=!se;
- if(se){const v=[se.haussier,se.neutre,se.baissier].map(Number),n=v.reduce((a,b)=>a+b,0)||1,L=["Optimiste","Indécis","Inquiet"],C=["var(--up)","var(--mid)","var(--dn)"],N=["Haussier","Neutre","Baissier"];
+ if(se){const v=[se.haussier,se.neutre,se.baissier].map(Number),n=v.reduce((a,b)=>a+b,0)||1,L=["Optimiste","Indécis","Inquiet"],C=["var(--win)","var(--mid)","var(--loss)"],N=["Haussier","Neutre","Baissier"];
   let off=0;[0,1,2].forEach(i=>{const p=v[i]/n*100,g=Math.max(p-1.2,0),c=$("s"+i);c.setAttribute("stroke-dasharray","0 100");c.setAttribute("stroke-dashoffset",-off);off+=p;setTimeout(()=>c.setAttribute("stroke-dasharray",g+" "+(100-g)),60);
    const li=el("li");const d=el("i");d.style.background=C[i];li.append(d,el("span",0,N[i]),el("b",0,Math.round(p)+" %"));$("legend").append(li)});
   $("verdict").textContent=L[v.indexOf(Math.max(...v))];$("why").textContent=se.explication||""}
  const ev=e.calendrier||[];
  if(!ev.length)$("cal").append(el("p",0,"Aucun événement américain majeur annoncé, ou calendrier indisponible."));
- ev.forEach(x=>{const d=el("div","ev"),h=el("div");h.append(el("b",0,x.fr||x.titre));if(x.pourquoi)h.append(el("small",0,x.pourquoi));
-  const i=el("span","d","●".repeat(x.impact)+"○".repeat(3-x.impact));i.title=x.impact>2?"Impact fort":"Impact moyen";
-  d.append(el("time",0,new Date(x.t).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"})),h,i);
-  if(x.prevu||x.precedent)d.append(el("span","v","Prévu : "+(x.prevu||"n.c.")+"  Précédent : "+(x.precedent||"n.c.")));$("cal").append(d)});
+ ev.forEach((x,i)=>{const d=rv(el("div","ev"),i),h=el("div","evb"),m=el("div","evm");h.append(el("b",0,x.fr||x.titre));if(x.pourquoi)h.append(el("p",0,x.pourquoi));
+  m.append(el("span",x.impact>2?"hi":"md",x.impact>2?"Impact fort":"Impact moyen"));
+  if(x.prevu||x.precedent){[["Prévu",x.prevu],["Précédent",x.precedent]].forEach(([l,val])=>{const s=el("span",0,l+" ");s.append(el("b",0,val||"n.c."));m.append(s)})}
+  h.append(m);d.append(el("time",0,new Date(x.t).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"})),h);$("cal").append(d)});
  e.titres.forEach(x=>{const l=el("li"),a=el("a",0,x.titre);if(/^https?:\/\//.test(x.lien)){a.href=x.lien;a.rel="noopener";a.target="_blank"}l.append(a,el("small",0,x.source));$("list").append(l)});
- $("news").open=!r;
- $("foot").textContent="Mis à jour le "+t.toLocaleString("fr-FR",{dateStyle:"long",timeStyle:"short"})+(e.ambiance&&e.ambiance.nom?". Ambiance du jour : "+e.ambiance.nom+".":".");
+ $("nn").textContent=e.titres.length;$("news").open=!r;
+ $("foot").textContent="Mis à jour le "+t.toLocaleString("fr-FR",{dateStyle:"long",timeStyle:"short"})+(amb.nom?". Ambiance du jour : "+amb.nom+".":".");
+ replay();
 }
 function tab(k){["hier","auj"].forEach(x=>$("b-"+x).setAttribute("aria-selected",x==k));render(k=="hier"?D.hier:D.aujourdhui)}
-$("b-hier").onclick=()=>tab("hier");$("b-auj").onclick=()=>tab("auj");
-fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;if(!d.aujourdhui)throw 0;tab("auj")}).catch(()=>{["strip","sec-an","sec-cal","news","pie"].forEach(i=>$(i).hidden=true);$("title").textContent="Aucune donnée pour le moment";$("brief").textContent="La première mise à jour a lieu chaque jour à 7 h (heure de La Réunion). Tu peux la lancer à la main depuis GitHub, onglet Actions."});
+$("b-hier").onclick=()=>{tab("hier");scrollTo({top:0,behavior:"smooth"})};$("b-auj").onclick=()=>{tab("auj");scrollTo({top:0,behavior:"smooth"})};
+fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;if(!d.aujourdhui)throw 0;tab("auj")}).catch(()=>{SEC.forEach(i=>$(i).hidden=true);$("title").textContent="Aucune donnée pour le moment";$("brief").textContent="La première mise à jour a lieu chaque jour à 7 h (heure de La Réunion). Tu peux la lancer à la main depuis GitHub, onglet Actions."});
 </script></body></html>
