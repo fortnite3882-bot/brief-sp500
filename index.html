@@ -247,7 +247,7 @@ function render(e){
  if(amb.nom){$("stkt").textContent=amb.nom;$("stk").hidden=false}
  $("date").textContent=new Date(e.date+"T12:00:00Z").toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"}).replace(/^./,c=>c.toUpperCase());
  const ti=(r&&r.titre)||"L'actualité qui compte pour les marchés",h1=$("title");h1.textContent="";
- const mt=ti.match(/^(.*?)([:–—]|,| : )(.*)$/);if(mt&&mt[1].trim().length>8){const m=el("mark",0,mt[1].trim());h1.append(m,document.createTextNode(" "+mt[2].replace(/\s/g,"")+" "+mt[3].trim()))}else h1.textContent=ti;
+ const mt=ti.match(/^(.*?)([:–—]|,| : )(.*)$/);if(mt&&mt[1].trim().length>8){const p=mt[2].trim(),m=el("mark",0,mt[1].trim()+(p==":"?" :":p==","?",":" "+p));h1.append(m,document.createTextNode(" "+mt[3].trim()))}else h1.textContent=ti;
  $("brief").textContent=r?r.en_bref:"L'analyse n'est pas disponible ce jour-là. Les titres restent consultables plus bas.";
  if(r){const w=[r.en_bref,...(r.analyse||[]).map(a=>a.texte),...Object.values(r.scenarios||{})].join(" ").split(/\s+/).length;$("rt").textContent="⏱ Lecture : "+Math.max(1,Math.round(w/190))+" min";$("rt").hidden=false}
 
