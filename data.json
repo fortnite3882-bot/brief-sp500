@@ -1,5 +1,282 @@
 {
  "aujourdhui": {
+  "date": "2026-11-19",
+  "maj": "2026-11-19T03:45:44.885900+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Entre tensions géopolitiques et révolution IA : le S&P 500 à la croisée des chemins",
+   "en_bref": "Les marchés sont sous pression entre les craintes d'une inflation persistante alimentée par l'IA et les sommets diplomatiques majeurs à Shenzhen. Cette instabilité crée une volatilité accrue, poussant les investisseurs à scruter chaque signal de la Réserve fédérale.",
+   "analyse": [
+    {
+     "titre": "Contexte géopolitique mondial",
+     "texte": "Le sommet entre Trump, Xi et Poutine à Shenzhen cristallise les tensions internationales et influence le sentiment des investisseurs. Les conflits en cours, notamment en Ukraine et au Moyen-Orient, perturbent les chaînes d'approvisionnement et pèsent sur la stabilité des marchés. Cette incertitude pousse le capital vers des valeurs refuges ou plus défensives."
+    },
+    {
+     "titre": "Politique monétaire et taux",
+     "texte": "La Fed envisage des hausses de taux agressives, le gouverneur Waller évoquant même des chocs de 50 points de base pour freiner l'inflation. Ces déclarations, couplées aux comptes-rendus de la Fed, refroidissent l'enthousiasme des investisseurs. Des taux plus élevés augmentent le coût de l'emprunt et pèsent directement sur les valorisations boursières."
+    },
+    {
+     "titre": "Pétrole et énergie",
+     "texte": "Les tensions entre l'Irak et l'Iran menacent la stabilité énergétique, tandis que la Chine redéfinit son mix énergétique global. Les cyberattaques sur le secteur, comme chez Equinor, soulignent la fragilité des infrastructures critiques. Ces facteurs entretiennent une prime de risque qui maintient les prix de l'énergie dans une zone de haute surveillance."
+    },
+    {
+     "titre": "Entreprises et révolution IA",
+     "texte": "L'entrée en bourse massive d'Anthropic valorisée à 1,5 trillion de dollars souligne la frénésie autour de l'IA, malgré les craintes d'une bulle spéculative. Parallèlement, des entreprises comme JPMorgan intègrent l'automatisation totale via des agents IA pour réduire les coûts. Cette transformation numérique est le principal moteur de croissance, bien que sa rentabilité future reste débattue."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Une stabilisation diplomatique lors du sommet de Shenzhen pourrait rassurer les marchés et favoriser un rebond technique.",
+    "baissier": "Une hausse de taux de 50 points de base combinée à une escalade des tensions au Moyen-Orient pourrait déclencher une correction sévère."
+   },
+   "sentiment": {
+    "haussier": 20,
+    "neutre": 30,
+    "baissier": 50,
+    "explication": "Le ton global est dominé par l'inquiétude face aux risques macroéconomiques et géopolitiques imprévisibles."
+   },
+   "calendrier": [
+    {
+     "fr": "Indice manufacturier Philly Fed",
+     "pourquoi": "Mesure l'activité économique manufacturière dans la région de Philadelphie pour évaluer la santé industrielle."
+    },
+    {
+     "fr": "Demandes d'allocations chômage",
+     "pourquoi": "Indicateur hebdomadaire clé sur la vigueur du marché de l'emploi américain et sa résilience."
+    }
+   ],
+   "ambiance": {
+    "nom": "Tendu",
+    "teinte": 15
+   }
+  },
+  "calendrier": [
+   {
+    "t": "2026-11-19T13:30:00+00:00",
+    "titre": "Philly Fed Manufacturing Index",
+    "impact": 2,
+    "prevu": "20.6",
+    "precedent": "20.9",
+    "fr": "Indice manufacturier Philly Fed",
+    "pourquoi": "Mesure l'activité économique manufacturière dans la région de Philadelphie pour évaluer la santé industrielle."
+   },
+   {
+    "t": "2026-11-19T13:30:00+00:00",
+    "titre": "Unemployment Claims",
+    "impact": 2,
+    "prevu": "198K",
+    "precedent": "200K",
+    "fr": "Demandes d'allocations chômage",
+    "pourquoi": "Indicateur hebdomadaire clé sur la vigueur du marché de l'emploi américain et sa résilience."
+   }
+  ],
+  "ambiance": {
+   "nom": "Tendu",
+   "teinte": 15
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "lien": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "lien": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+    "lien": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "lien": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+    "lien": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Three things to watch as Trump, Xi and Putin meet in China",
+    "lien": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "JPMorgan is working on AI agent transactions that don’t involve humans",
+    "lien": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+    "lien": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+    "lien": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "The seven Anthropic founders who are about to become multi-billionaires",
+    "lien": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "lien": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "lien": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Europe plans to catch the next computer chip wave",
+    "lien": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Gilts v kilts: What is happening with Scottish government bonds?",
+    "lien": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Why has Waymo pulled all its driverless cars from US freeways?",
+    "lien": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "lien": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+    "lien": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+    "lien": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+    "lien": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+    "lien": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Crimean Bridge attacked again, Russian official says",
+    "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "lien": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "lien": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "China’s Xi greets Putin and Trump at APEC before historic summit",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Google’s driverless car hits a roadblock",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+    "lien": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "ICJ to rule on Rohingya genocide case against Myanmar",
+    "lien": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Hegseth unveils new US-Venezuela military deal",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+    "lien": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Settler rams into Palestinians at multiple locations in central Israel",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "German FA backs France’s Diallo for FIFA presidency",
+    "lien": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
+    "lien": "https://oilprice.com/Energy/Energy-General/Inside-the-Armys-75-Year-Plan-to-Escape-Chinas-Rare-Earth-Dominance.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Permian Growth Turns Moderate Despite War",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/Permian-Growth-Turns-Moderate-Despite-War.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Google Signs Landmark Superhot Geothermal Deal",
+    "lien": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Google-Signs-Landmark-Superhot-Geothermal-Deal.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
+    "lien": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
+    "lien": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Thames Water's Rescue Deal Comes With a Dirty Catch",
+    "lien": "https://oilprice.com/Energy/Energy-General/Thames-Waters-Rescue-Deal-Comes-With-a-Dirty-Catch.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
+    "lien": "https://oilprice.com/Geopolitics/Middle-East/Iraqs-Border-Shutdown-With-Iran-Threatens-a-Much-Bigger-Economic-Crisis.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "China Secures Major Gas Deal as Its Influence Grows Across Central Asia",
+    "lien": "https://oilprice.com/Energy/Energy-General/China-Secures-Major-Gas-Deal-as-Its-Influence-Grows-Across-Central-Asia.html"
+   },
+   {
+    "source": "Fed",
+    "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "lien": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-18",
   "maj": "2026-11-18T03:45:04.256009+00:00",
   "cours": [],
@@ -260,283 +537,6 @@
     "source": "Al Jazeera",
     "titre": "Protests as Jason Arday’s accuser speaks at Oxford University",
     "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-17",
-  "maj": "2026-11-17T03:42:46.717170+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "Entre incertitudes technologiques et tensions géopolitiques : le S&P 500 à la croisée des chemins",
-   "en_bref": "Le marché américain navigue entre des résultats d'entreprises contrastés dans le secteur technologique et des risques géopolitiques croissants. La prudence domine alors que la Fed surveille l'économie et que les investisseurs réévaluent leurs positions sur l'intelligence artificielle.",
-   "analyse": [
-    {
-     "titre": "Contexte global et ralentissement économique",
-     "texte": "La croissance chinoise ralentit, pesant sur les perspectives mondiales alors que les indicateurs de consommation américains sont scrutés de près. Ce climat d'incertitude incite les investisseurs à la prudence, cherchant des valeurs refuges ou modifiant leurs allocations sectorielles. Le risque de récession pourrait freiner la dynamique haussière du S&P 500."
-    },
-    {
-     "titre": "Politique monétaire et résilience de la Fed",
-     "texte": "La Réserve fédérale, sous la direction de Kevin Warsh, souligne l'importance de l'IA pour l'économie tout en alertant sur les risques de déception. Les décisions sur les taux d'intérêt restent un pivot majeur, influençant les valorisations boursières par le coût du crédit. Le marché attend des signaux clairs pour anticiper la trajectoire des rendements obligataires."
-    },
-    {
-     "titre": "Pétrole et géopolitique",
-     "texte": "Les tensions au Moyen-Orient, marquées par des attaques en mer Rouge et au Yémen, maintiennent une pression sur les chaînes d'approvisionnement et le prix de l'énergie. Bien que le prix du baril de pétrole montre des signes de repli, l'instabilité reste une menace constante. Ce facteur géopolitique est un levier de volatilité directe pour les coûts opérationnels des entreprises américaines."
-    },
-    {
-     "titre": "Entreprises et le tournant de l'IA",
-     "texte": "Le secteur technologique, notamment Nvidia, traverse une période de turbulences marquée par des scandales et des pressions réglementaires. Les investisseurs institutionnels comme Berkshire Hathaway ajustent leurs portefeuilles en réduisant leur exposition bancaire pour pivoter vers des actifs plus stratégiques. La viabilité économique réelle des investissements massifs dans l'IA est désormais au cœur du débat boursier."
-    }
-   ],
-   "scenarios": {
-    "haussier": "Une stabilisation des tensions au Moyen-Orient couplée à des résultats technologiques supérieurs aux attentes pourrait soutenir un nouveau rebond.",
-    "baissier": "Une escalade géopolitique majeure ou une déception persistante sur le rendement réel de l'IA pourrait entraîner une correction marquée des indices."
-   },
-   "sentiment": {
-    "haussier": 25,
-    "neutre": 35,
-    "baissier": 40,
-    "explication": "Le ton est à la méfiance, les analystes s'inquiétant autant des risques politiques que de la bulle technologique."
-   },
-   "calendrier": [
-    {
-     "fr": "Ventes au détail sous-jacentes",
-     "pourquoi": "Indicateur clé mesurant la consommation des ménages hors automobile et essence."
-    },
-    {
-     "fr": "Ventes au détail globales",
-     "pourquoi": "Reflète la vigueur de la demande des consommateurs américains pour l'économie."
-    }
-   ],
-   "ambiance": {
-    "nom": "Indécis",
-    "teinte": 210
-   }
-  },
-  "calendrier": [
-   {
-    "t": "2026-11-17T13:30:00+00:00",
-    "titre": "Core Retail Sales m/m",
-    "impact": 3,
-    "prevu": "0.4%",
-    "precedent": "0.9%",
-    "fr": "Ventes au détail sous-jacentes",
-    "pourquoi": "Indicateur clé mesurant la consommation des ménages hors automobile et essence."
-   },
-   {
-    "t": "2026-11-17T13:30:00+00:00",
-    "titre": "Retail Sales m/m",
-    "impact": 3,
-    "prevu": "0.1%",
-    "precedent": "0.8%",
-    "fr": "Ventes au détail globales",
-    "pourquoi": "Reflète la vigueur de la demande des consommateurs américains pour l'économie."
-   }
-  ],
-  "ambiance": {
-   "nom": "Indécis",
-   "teinte": 210
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-    "lien": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-    "lien": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-    "lien": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-    "lien": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-    "lien": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-    "lien": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-    "lien": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-    "lien": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-    "lien": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "United Airlines resolves system outage that delayed flights Monday",
-    "lien": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-    "lien": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-    "lien": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "lien": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-    "lien": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-    "lien": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-    "lien": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-    "lien": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "California sues OpenAI over Hugging Face attack",
-    "lien": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
-    "lien": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "We couldn't afford a house alone, so we bought one with strangers",
-    "lien": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-    "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "lien": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Customers report service outages at major US banks",
-    "lien": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "lien": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Five EU countries announce migrant deportation centre in Rwanda",
-    "lien": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Houthi rebel advance in Yemen may further destabilise global economy",
-    "lien": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-    "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-    "lien": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "When will we see Robert Pattinson as Bond in cinemas?",
-    "lien": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-    "lien": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Lindsay Clancy to face retrial next year for deaths of her three children",
-    "lien": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Two mass shootings in South Africa leave 17 dead",
-    "lien": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-    "lien": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-    "lien": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-    "lien": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Irish court jails man for life over Dublin knife attack that sparked riots",
-    "lien": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "EU countries announce migrant deportation centre in Rwanda",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Ukraine holds peace talks with US, Europe as conflict escalates",
-    "lien": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "UK seeks closer ties with EU after Brexit fail",
-    "lien": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
-    "lien": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss"
    }
   ]
  }
