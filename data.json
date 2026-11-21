@@ -1,5 +1,249 @@
 {
  "aujourdhui": {
+  "date": "2026-11-21",
+  "maj": "2026-11-21T10:32:13.249993+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "Le S&P 500 sous pression : entre incertitudes technologiques et tensions géopolitiques",
+   "en_bref": "Les marchés boursiers font face à un repli marqué du secteur technologique, exacerbé par des prises de bénéfices des investisseurs institutionnels. Parallèlement, l'instabilité géopolitique et les nouvelles régulations américaines créent un climat d'incertitude prudent.",
+   "analyse": [
+    {
+     "titre": "Contexte global et tensions géopolitiques",
+     "texte": "Les tensions internationales, notamment entre les États-Unis et la Chine, ainsi que les conflits au Moyen-Orient, pèsent sur le moral des investisseurs. L'abattage d'un drone américain par l'Iran et les impasses diplomatiques génèrent une instabilité qui encourage les investisseurs à réduire leurs prises de risque. Cette volatilité géopolitique peut entraîner des ajustements de portefeuilles en faveur d'actifs refuges."
+    },
+    {
+     "titre": "Politique monétaire et communication de la Fed",
+     "texte": "Le débat sur la communication excessive des responsables de la Réserve fédérale souligne une nervosité ambiante concernant la visibilité des taux directeurs. Une communication imprécise ou trop fréquente de la part de la Fed peut désorienter les marchés financiers. En conséquence, les investisseurs privilégient une approche attentiste, craignant que des signaux contradictoires n'accroissent la volatilité à court terme."
+    },
+    {
+     "titre": "Marché pétrolier et énergie",
+     "texte": "Les cours du pétrole stagnent, coincés entre la menace d'une surproduction mondiale et les risques de perturbation liés aux tensions au Moyen-Orient. Cette situation hybride limite la prévisibilité des coûts pour les entreprises énergivores, comme le secteur aérien qui réduit ses effectifs. Une chute des prix du pétrole pourrait paradoxalement nuire aux entreprises du secteur énergétique américain."
+    },
+    {
+     "titre": "Entreprises, IA et résultats technologiques",
+     "texte": "Le secteur technologique subit un fort recul, marqué par la chute des actions liées à Anthropic et de nouvelles menaces de régulation sur les centres de données à l'étranger. La vente d'actions par les investisseurs 'avisés' signale une potentielle fin de l'euphorie excessive autour de l'IA. Si cette tendance se confirme, le S&P 500 pourrait subir une correction plus profonde, étant donné le poids prédominant des géants technologiques dans l'indice."
+    }
+   ],
+   "scenarios": {
+    "haussier": "Si les tensions géopolitiques s'apaisent et que les résultats des géants de l'IA retrouvent une croissance robuste, les investisseurs pourraient reprendre confiance.",
+    "baissier": "Une intensification des régulations sur les centres de données et une poursuite des ventes par les institutionnels pourraient enfoncer davantage les cours."
+   },
+   "sentiment": {
+    "haussier": 20,
+    "neutre": 30,
+    "baissier": 50,
+    "explication": "Le sentiment est majoritairement baissier en raison de la correction technologique, du retrait des institutionnels et des tensions internationales persistantes."
+   },
+   "calendrier": [],
+   "ambiance": {
+    "nom": "Orageux",
+    "teinte": 30
+   }
+  },
+  "calendrier": [],
+  "ambiance": {
+   "nom": "Orageux",
+   "teinte": 30
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "How China is using summits to expand its global influence",
+    "lien": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+    "lien": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+    "lien": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "The bull market has a new problem. The 'smart money' is selling",
+    "lien": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+    "lien": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "lien": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "lien": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "lien": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Trump threatens ban on US firms building AI data centres overseas",
+    "lien": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+    "lien": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Should AI be judging our credit worthiness?",
+    "lien": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "lien": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Fish and eggs al desko? The dos and don'ts of lunch at work",
+    "lien": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "lien": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "lien": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "lien": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "FBI reportedly investigating apparent hack of its criminal database",
+    "lien": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "French police officers sentenced for beating of music producer Michel Zecler",
+    "lien": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Man convicted of starting Palisades fire in Los Angeles",
+    "lien": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "lien": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "lien": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
+    "lien": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
+    "lien": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+    "lien": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Fire sprinkler sprays water at flame-covered sign in China",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "French police officers guilty of Michel Zecler assault: What happens now?",
+    "lien": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+    "lien": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+    "lien": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Swimmer braves tanker attacks to expose Hormuz contamination",
+    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+    "lien": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
+    "lien": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "US Data Center Boom Faces a New Political Reality",
+    "lien": "https://oilprice.com/Energy/Energy-General/US-Data-Center-Boom-Faces-a-New-Political-Reality.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Expands-Oil-Storage-in-Japan-as-Tokyo-Restocks.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
+    "lien": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Lufthansa-to-Slash-1000-Jobs-as-Airlines-Reel-from-High-Fuel-Costs.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
+    "lien": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "The 2026 Midterms Have Changed the Battle for American Energy",
+    "lien": "https://oilprice.com/Energy/Energy-General/The-2026-Midterms-Have-Changed-the-Battle-for-American-Energy.html"
+   },
+   {
+    "source": "Fed",
+    "titre": "Federal Reserve announces College Fed Challenge winners",
+    "lien": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm"
+   },
+   {
+    "source": "Fed",
+    "titre": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "lien": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-20",
   "maj": "2026-11-20T03:42:48.653318+00:00",
   "cours": [],
@@ -273,283 +517,6 @@
     "source": "OilPrice",
     "titre": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
     "lien": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Oil-Exports-Could-Decline-amid-Inbound-Tanker-Shortage.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-19",
-  "maj": "2026-11-19T03:45:44.885900+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "Entre tensions géopolitiques et révolution IA : le S&P 500 à la croisée des chemins",
-   "en_bref": "Les marchés sont sous pression entre les craintes d'une inflation persistante alimentée par l'IA et les sommets diplomatiques majeurs à Shenzhen. Cette instabilité crée une volatilité accrue, poussant les investisseurs à scruter chaque signal de la Réserve fédérale.",
-   "analyse": [
-    {
-     "titre": "Contexte géopolitique mondial",
-     "texte": "Le sommet entre Trump, Xi et Poutine à Shenzhen cristallise les tensions internationales et influence le sentiment des investisseurs. Les conflits en cours, notamment en Ukraine et au Moyen-Orient, perturbent les chaînes d'approvisionnement et pèsent sur la stabilité des marchés. Cette incertitude pousse le capital vers des valeurs refuges ou plus défensives."
-    },
-    {
-     "titre": "Politique monétaire et taux",
-     "texte": "La Fed envisage des hausses de taux agressives, le gouverneur Waller évoquant même des chocs de 50 points de base pour freiner l'inflation. Ces déclarations, couplées aux comptes-rendus de la Fed, refroidissent l'enthousiasme des investisseurs. Des taux plus élevés augmentent le coût de l'emprunt et pèsent directement sur les valorisations boursières."
-    },
-    {
-     "titre": "Pétrole et énergie",
-     "texte": "Les tensions entre l'Irak et l'Iran menacent la stabilité énergétique, tandis que la Chine redéfinit son mix énergétique global. Les cyberattaques sur le secteur, comme chez Equinor, soulignent la fragilité des infrastructures critiques. Ces facteurs entretiennent une prime de risque qui maintient les prix de l'énergie dans une zone de haute surveillance."
-    },
-    {
-     "titre": "Entreprises et révolution IA",
-     "texte": "L'entrée en bourse massive d'Anthropic valorisée à 1,5 trillion de dollars souligne la frénésie autour de l'IA, malgré les craintes d'une bulle spéculative. Parallèlement, des entreprises comme JPMorgan intègrent l'automatisation totale via des agents IA pour réduire les coûts. Cette transformation numérique est le principal moteur de croissance, bien que sa rentabilité future reste débattue."
-    }
-   ],
-   "scenarios": {
-    "haussier": "Une stabilisation diplomatique lors du sommet de Shenzhen pourrait rassurer les marchés et favoriser un rebond technique.",
-    "baissier": "Une hausse de taux de 50 points de base combinée à une escalade des tensions au Moyen-Orient pourrait déclencher une correction sévère."
-   },
-   "sentiment": {
-    "haussier": 20,
-    "neutre": 30,
-    "baissier": 50,
-    "explication": "Le ton global est dominé par l'inquiétude face aux risques macroéconomiques et géopolitiques imprévisibles."
-   },
-   "calendrier": [
-    {
-     "fr": "Indice manufacturier Philly Fed",
-     "pourquoi": "Mesure l'activité économique manufacturière dans la région de Philadelphie pour évaluer la santé industrielle."
-    },
-    {
-     "fr": "Demandes d'allocations chômage",
-     "pourquoi": "Indicateur hebdomadaire clé sur la vigueur du marché de l'emploi américain et sa résilience."
-    }
-   ],
-   "ambiance": {
-    "nom": "Tendu",
-    "teinte": 15
-   }
-  },
-  "calendrier": [
-   {
-    "t": "2026-11-19T13:30:00+00:00",
-    "titre": "Philly Fed Manufacturing Index",
-    "impact": 2,
-    "prevu": "20.6",
-    "precedent": "20.9",
-    "fr": "Indice manufacturier Philly Fed",
-    "pourquoi": "Mesure l'activité économique manufacturière dans la région de Philadelphie pour évaluer la santé industrielle."
-   },
-   {
-    "t": "2026-11-19T13:30:00+00:00",
-    "titre": "Unemployment Claims",
-    "impact": 2,
-    "prevu": "198K",
-    "precedent": "200K",
-    "fr": "Demandes d'allocations chômage",
-    "pourquoi": "Indicateur hebdomadaire clé sur la vigueur du marché de l'emploi américain et sa résilience."
-   }
-  ],
-  "ambiance": {
-   "nom": "Tendu",
-   "teinte": 15
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-    "lien": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-    "lien": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-    "lien": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-    "lien": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
-    "lien": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Three things to watch as Trump, Xi and Putin meet in China",
-    "lien": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "JPMorgan is working on AI agent transactions that don’t involve humans",
-    "lien": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-    "lien": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-    "lien": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "The seven Anthropic founders who are about to become multi-billionaires",
-    "lien": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-    "lien": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "lien": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Europe plans to catch the next computer chip wave",
-    "lien": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Gilts v kilts: What is happening with Scottish government bonds?",
-    "lien": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Why has Waymo pulled all its driverless cars from US freeways?",
-    "lien": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-    "lien": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "lien": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-    "lien": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-    "lien": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "lien": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Crimean Bridge attacked again, Russian official says",
-    "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-    "lien": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-    "lien": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "China’s Xi greets Putin and Trump at APEC before historic summit",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Google’s driverless car hits a roadblock",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-    "lien": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "ICJ to rule on Rohingya genocide case against Myanmar",
-    "lien": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Hegseth unveils new US-Venezuela military deal",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-    "lien": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Settler rams into Palestinians at multiple locations in central Israel",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "German FA backs France’s Diallo for FIFA presidency",
-    "lien": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
-    "lien": "https://oilprice.com/Energy/Energy-General/Inside-the-Armys-75-Year-Plan-to-Escape-Chinas-Rare-Earth-Dominance.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Permian Growth Turns Moderate Despite War",
-    "lien": "https://oilprice.com/Energy/Crude-Oil/Permian-Growth-Turns-Moderate-Despite-War.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Google Signs Landmark Superhot Geothermal Deal",
-    "lien": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Google-Signs-Landmark-Superhot-Geothermal-Deal.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
-    "lien": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
-    "lien": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Thames Water's Rescue Deal Comes With a Dirty Catch",
-    "lien": "https://oilprice.com/Energy/Energy-General/Thames-Waters-Rescue-Deal-Comes-With-a-Dirty-Catch.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
-    "lien": "https://oilprice.com/Geopolitics/Middle-East/Iraqs-Border-Shutdown-With-Iran-Threatens-a-Much-Bigger-Economic-Crisis.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "China Secures Major Gas Deal as Its Influence Grows Across Central Asia",
-    "lien": "https://oilprice.com/Energy/Energy-General/China-Secures-Major-Gas-Deal-as-Its-Influence-Grows-Across-Central-Asia.html"
-   },
-   {
-    "source": "Fed",
-    "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-    "lien": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
    }
   ]
  }
