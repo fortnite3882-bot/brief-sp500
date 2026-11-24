@@ -1,5 +1,226 @@
 {
  "aujourdhui": {
+  "date": "2026-11-24",
+  "maj": "2026-11-24T13:10:45.769114+00:00",
+  "cours": [],
+  "resume": null,
+  "calendrier": [
+   {
+    "t": "2026-11-24T15:00:00+00:00",
+    "titre": "CB Consumer Confidence",
+    "impact": 2,
+    "prevu": "92.4",
+    "precedent": "91.7"
+   }
+  ],
+  "ambiance": {
+   "nom": "",
+   "teinte": 296
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+    "lien": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+    "lien": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    "lien": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "JPMorgan is working on AI agent transactions that don’t involve humans",
+    "lien": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
+    "lien": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "HPE just posted its strongest growth ever — but its stock is sinking",
+    "lien": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+    "lien": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
+    "lien": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+    "lien": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+    "lien": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
+    "lien": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
+    "lien": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "The shake-up facing renters as a new kind of landlord emerges",
+    "lien": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+    "lien": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "lien": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Faisal Islam: Why Jensen Huang proved too big to fire",
+    "lien": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "I pay £250 a month for someone else to do my life admin - it's worth it",
+    "lien": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+    "lien": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "How important are Nvidia and Jensen Huang to the US economy?",
+    "lien": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "The rise and fall and rise again of Jensen Huang",
+    "lien": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "lien": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "What Jensen Huang's return teaches China's Xi about Trump",
+    "lien": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "lien": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+    "lien": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "India's 'cockroach' party leader says he was stopped from flying to UK",
+    "lien": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "lien": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Pope Francis' diary reveals claims he saw the devil three times",
+    "lien": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Car bomb tears through Colombian city wounding more than 20",
+    "lien": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
+    "lien": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+    "lien": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Iraq orders takeover of oilfields in areas under Kurdish control",
+    "lien": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Vietnam restaurant blast kills at least six",
+    "lien": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+    "lien": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+    "lien": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
+    "lien": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+    "lien": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "South Korea Says Its Crude Supply Is Stable Through the Winter",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Says-Its-Crude-Supply-Is-Stable-Through-the-Winter.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "European Gas Prices Climb as Cold Snap Threatens Depleted Reserves",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Climb-as-Cold-Snap-Threatens-Depleted-Reserves.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Equinor Locks In Longest Gas Supply Deal in 40 Years",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Locks-In-Longest-Gas-Supply-Deal-in-40-Years.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-23",
   "maj": "2026-11-23T11:37:35.546176+00:00",
   "cours": [],
@@ -273,210 +494,6 @@
     "source": "OilPrice",
     "titre": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
     "lien": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-22",
-  "maj": "2026-11-22T10:37:03.259335+00:00",
-  "cours": [],
-  "resume": {
-   "titre": "S&P 500 sous pression : entre prouesses technologiques et incertitudes géopolitiques",
-   "en_bref": "Le marché boursier fait face à une volatilité accrue, tiraillé entre le succès commercial historique de l'industrie du divertissement et un repli marqué des valeurs technologiques liées à l'IA. Parallèlement, les tensions géopolitiques et les défis énergétiques mondiaux viennent assombrir les perspectives économiques globales.",
-   "analyse": [
-    {
-     "titre": "Contexte géopolitique et instabilité mondiale",
-     "texte": "Des événements comme l'attaque de navires dans le Golfe de Finlande et les frappes en Ukraine entretiennent un climat d'insécurité internationale. Cette instabilité incite les investisseurs à la prudence face aux risques potentiels sur les chaînes d'approvisionnement mondiales. La méfiance persistante impacte la confiance des marchés vis-à-vis des actifs risqués."
-    },
-    {
-     "titre": "Le dilemme de l'énergie et des matières premières",
-     "texte": "Le marché pétrolier est sous tension, oscillant entre une offre excédentaire potentielle et les menaces liées au conflit au Moyen-Orient. La transition énergétique, bien que nécessaire, souligne une dépendance complexe aux ressources chinoises et des coûts croissants. Cette volatilité énergétique pèse directement sur les coûts de production des entreprises américaines."
-    },
-    {
-     "titre": "L'IA entre succès commercial et déception boursière",
-     "texte": "Alors que le secteur du divertissement bat des records historiques de ventes grâce à l'IA, le secteur technologique subit un sell-off, illustré par le recul des actions d'Anthropic. Cette dichotomie montre que le marché devient plus sélectif, réévaluant les valorisations des entreprises d'IA trop optimistes. L'enthousiasme se transforme en une analyse plus rigoureuse de la rentabilité réelle."
-    },
-    {
-     "titre": "La dynamique du marché de l'emploi et des services",
-     "texte": "Les préoccupations croissantes concernant le coût de la vie et l'évolution des pratiques de recrutement reflètent une tension sociale palpable, comme le montrent les mouvements sociaux en France. Ces pressions inflationnistes sur les ménages pourraient freiner la consommation future, un moteur essentiel pour les entreprises du S&P 500. Le marché surveille ainsi étroitement la résilience du consommateur face à ces contraintes budgétaires."
-    }
-   ],
-   "scenarios": {
-    "haussier": "La poursuite de records de ventes dans le divertissement et une stabilisation des tensions énergétiques pourraient rassurer les investisseurs et soutenir les indices.",
-    "baissier": "Une escalade géopolitique associée à une correction prolongée des valeurs technologiques liées à l'IA pourrait entraîner un repli plus marqué des indices."
-   },
-   "sentiment": {
-    "haussier": 20,
-    "neutre": 30,
-    "baissier": 50,
-    "explication": "Le ton est à l'inquiétude face aux tensions internationales et à la correction des valeurs technologiques malgré quelques succès commerciaux isolés."
-   },
-   "calendrier": [],
-   "ambiance": {
-    "nom": "Inquiet",
-    "teinte": 0
-   }
-  },
-  "calendrier": [],
-  "ambiance": {
-   "nom": "Inquiet",
-   "teinte": 0
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "How China is using summits to expand its global influence",
-    "lien": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Employers are being asked to give interview feedback - here's what applicants want",
-    "lien": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Can AI really help spot Black Friday deals? We put it to the test",
-    "lien": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "lien": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-    "lien": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "MP criticises Guernsey and Jersey company ownership register plans",
-    "lien": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-    "lien": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Sessions offer advice on rising energy costs",
-    "lien": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "South Korea education minister resigns over exam cheating scandal",
-    "lien": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Russia-bound ship attacked in Gulf of Finland",
-    "lien": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "lien": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Three killed and dozens missing after fire at Indonesian factory",
-    "lien": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-    "lien": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    "lien": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "FBI reportedly investigating apparent hack of its criminal database",
-    "lien": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Man convicted of starting Palisades fire in Los Angeles",
-    "lien": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
-    "lien": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Restored wells bring life back to Hebron’s occupied Old City",
-    "lien": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Photos: People rally across France over living costs, public services",
-    "lien": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
-    "lien": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Dashcam captures Russian missile strike on Lviv, Ukraine",
-    "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
-    "lien": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Indonesia factory fire kills three, 36 missing",
-    "lien": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "AI Boom Forces Massive Investment in Power Grids Worldwide",
-    "lien": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
-    "lien": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Trump’s Coal Revival Is Costing Americans More Than Expected",
-    "lien": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
-    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Britain's Net Zero Revolution Has a China Problem",
-    "lien": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "UK Races to Rewrite Nuclear Rules by 2027",
-    "lien": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
-    "lien": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html"
    }
   ]
  }
