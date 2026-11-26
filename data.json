@@ -1,5 +1,254 @@
 {
  "aujourdhui": {
+  "date": "2026-11-26",
+  "maj": "2026-11-26T11:47:04.243282+00:00",
+  "cours": [],
+  "resume": {
+   "titre": "S&P 500 : Entre optimisme technologique et pressions macroéconomiques",
+   "en_bref": "Le marché oscille entre l'enthousiasme pour l'intelligence artificielle incarné par Nvidia et des craintes liées à la résilience économique des ménages américains. Les investisseurs surveillent de près la volatilité des titres technologiques tout en composant avec des coûts de la vie en hausse lors de cette période de fêtes.",
+   "analyse": [
+    {
+     "titre": "Contexte global et résilience",
+     "texte": "Le marché américain bénéficie d'une certaine résilience qui soutient les futures de Wall Street malgré un climat d'incertitude. La hausse du coût des repas de Thanksgiving illustre la pression financière sur les ménages, ce qui pourrait freiner la consommation. Cette dualité entre force macroéconomique et fragilité du consommateur dicte actuellement la prudence des investisseurs."
+    },
+    {
+     "titre": "Taux et politique monétaire",
+     "texte": "La Réserve fédérale continue d'ajuster les seuils de crédit et de réglementation, maintenant un cadre strict pour les prêts à la consommation. Bien que les taux restent un sujet central, les gestionnaires de fonds conseillent de capturer les rendements élevés du crédit américain pour diversifier les portefeuilles. L'équilibre entre inflation et accès au crédit demeure le pivot de la stabilité financière future."
+    },
+    {
+     "titre": "Pétrole et géopolitique",
+     "texte": "Les cours du pétrole réagissent vivement aux tensions dans le golfe Persique, notamment avec les frappes dans le détroit d'Hormuz qui menacent l'approvisionnement mondial. Cette instabilité géopolitique crée une prime de risque qui soutient les prix énergétiques. Ces fluctuations constituent une menace persistante pour les coûts de production et la confiance des marchés internationaux."
+    },
+    {
+     "titre": "Entreprises et IA",
+     "texte": "L'influence de Nvidia et son rôle dans la course à l'IA dominent les débats, illustrant une dépendance technologique marquée au sein des portefeuilles. Si certains experts prédisent un rebond substantiel pour le S&P 500 après une correction technique, d'autres craignent une volatilité accrue liée à cette concentration. L'innovation, bien que porteuse, devient un facteur de risque systémique si elle dicte seule les performances boursières."
+    }
+   ],
+   "scenarios": {
+    "haussier": "La fin de la correction technologique pourrait propulser le S&P 500 vers un rallye de 25 % porté par l'innovation en IA.",
+    "baissier": "Une escalade des tensions énergétiques et la persistance de l'inflation pourraient entraîner une dégradation plus marquée des conditions de marché."
+   },
+   "sentiment": {
+    "haussier": 40,
+    "neutre": 30,
+    "baissier": 30,
+    "explication": "Le ton est mitigé, oscillant entre l'optimisme technologique à long terme et l'inquiétude immédiate sur les coûts et la géopolitique."
+   },
+   "calendrier": [],
+   "ambiance": {
+    "nom": "Avertie",
+    "teinte": 30
+   }
+  },
+  "calendrier": [],
+  "ambiance": {
+   "nom": "Avertie",
+   "teinte": 30
+  },
+  "titres": [
+   {
+    "source": "CNBC",
+    "titre": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+    "lien": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+    "lien": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Prediction markets push OpenAI IPO expectations later into 2027",
+    "lien": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+    "lien": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"
+   },
+   {
+    "source": "CNBC",
+    "titre": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "lien": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+    "lien": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+    "lien": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+    "lien": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+    "lien": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "Why this stock-market selloff is probably going to get worse before it gets better",
+    "lien": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+    "lien": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+    "lien": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories"
+   },
+   {
+    "source": "MarketWatch",
+    "titre": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+    "lien": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Norse Atlantic suspends all flights as it faces potential collapse",
+    "lien": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Drivers over 70 face eye tests every three years under new plans",
+    "lien": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "New UK-EU treaty has 10-year termination clause",
+    "lien": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Car finance compensation payments explained",
+    "lien": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
+    "lien": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Guitar wars - the transatlantic battle over the Stratocaster",
+    "lien": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "Poundland collapses putting 11,000 jobs at risk",
+    "lien": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Business",
+    "titre": "What's gone wrong at Poundland?",
+    "lien": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+    "lien": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+    "lien": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Desperate appeals from women on death row in Iran after protests",
+    "lien": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "New UK-EU treaty has 10-year termination clause",
+    "lien": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Musk's plan to send a million SpaceX data satellites into space approved",
+    "lien": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "DR Congo demands answers over Ugandan general's threats",
+    "lien": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Duran Duran guitarist Andy Taylor dies aged 65",
+    "lien": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "BBC Monde",
+    "titre": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+    "lien": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Iraq denies reports of troop movements towards Kurdish region",
+    "lien": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
+    "lien": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "‘Proscribing free speech’: Why a Jewish group is challenging UK’s Hamas ban",
+    "lien": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+    "lien": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Thanksgiving dinner costs rise, putting pressure on US households",
+    "lien": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Palestine coach says team represents suffering but also offers hope",
+    "lien": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
+    "lien": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss"
+   },
+   {
+    "source": "Al Jazeera",
+    "titre": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+    "lien": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Turkmenistan-Nears-Major-Milestone-in-10-Billion-TAPI-Gas-Pipeline.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Japan’s Nuclear Revival Hits a Snag as TEPCO Delays Reactor Restart",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Nuclear-Revival-Hits-a-Snag-as-TEPCO-Delays-Reactor-Restart.html"
+   },
+   {
+    "source": "OilPrice",
+    "titre": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
+    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html"
+   }
+  ]
+ },
+ "hier": {
   "date": "2026-11-25",
   "maj": "2026-11-25T11:58:23.032961+00:00",
   "cours": [],
@@ -286,227 +535,6 @@
     "source": "OilPrice",
     "titre": "Goldman Sachs Sees U.S. Natural Gas Demand Surging on Data Center Boom",
     "lien": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-US-Natural-Gas-Demand-Surging-on-Data-Center-Boom.html"
-   }
-  ]
- },
- "hier": {
-  "date": "2026-11-24",
-  "maj": "2026-11-24T13:10:45.769114+00:00",
-  "cours": [],
-  "resume": null,
-  "calendrier": [
-   {
-    "t": "2026-11-24T15:00:00+00:00",
-    "titre": "CB Consumer Confidence",
-    "impact": 2,
-    "prevu": "92.4",
-    "precedent": "91.7"
-   }
-  ],
-  "ambiance": {
-   "nom": "",
-   "teinte": 296
-  },
-  "titres": [
-   {
-    "source": "CNBC",
-    "titre": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-    "lien": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-    "lien": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-    "lien": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
-   },
-   {
-    "source": "CNBC",
-    "titre": "JPMorgan is working on AI agent transactions that don’t involve humans",
-    "lien": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
-    "lien": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "HPE just posted its strongest growth ever — but its stock is sinking",
-    "lien": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-    "lien": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-    "lien": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-    "lien": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
-    "lien": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
-    "lien": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories"
-   },
-   {
-    "source": "MarketWatch",
-    "titre": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
-    "lien": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "The shake-up facing renters as a new kind of landlord emerges",
-    "lien": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-    "lien": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    "lien": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Faisal Islam: Why Jensen Huang proved too big to fire",
-    "lien": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "I pay £250 a month for someone else to do my life admin - it's worth it",
-    "lien": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-    "lien": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "How important are Nvidia and Jensen Huang to the US economy?",
-    "lien": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Business",
-    "titre": "The rise and fall and rise again of Jensen Huang",
-    "lien": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    "lien": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "What Jensen Huang's return teaches China's Xi about Trump",
-    "lien": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-    "lien": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-    "lien": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "India's 'cockroach' party leader says he was stopped from flying to UK",
-    "lien": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Israeli air strike kills Hamas internal security chief in Gaza",
-    "lien": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Pope Francis' diary reveals claims he saw the devil three times",
-    "lien": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "BBC Monde",
-    "titre": "Car bomb tears through Colombian city wounding more than 20",
-    "lien": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-    "lien": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-    "lien": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Iraq orders takeover of oilfields in areas under Kurdish control",
-    "lien": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Vietnam restaurant blast kills at least six",
-    "lien": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
-    "lien": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
-    "lien": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
-    "lien": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "titre": "Russian strike kills two in Ukraine, days after ship attack off Libya",
-    "lien": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "South Korea Says Its Crude Supply Is Stable Through the Winter",
-    "lien": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Says-Its-Crude-Supply-Is-Stable-Through-the-Winter.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "European Gas Prices Climb as Cold Snap Threatens Depleted Reserves",
-    "lien": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Climb-as-Cold-Snap-Threatens-Depleted-Reserves.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
-    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html"
-   },
-   {
-    "source": "OilPrice",
-    "titre": "Equinor Locks In Longest Gas Supply Deal in 40 Years",
-    "lien": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Locks-In-Longest-Gas-Supply-Deal-in-40-Years.html"
    }
   ]
  }
